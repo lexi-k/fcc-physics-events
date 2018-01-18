@@ -1,9 +1,0 @@
-/eos/experiment/fcc/hh/simulation/samples/v01_test/physics/H4e/bFieldOn/etaFull/simu,,20,,2,,2,,0
-/eos/experiment/fcc/hh/simulation/samples/v01_test/physics/Haa/bFieldOn/etaFull/simu,,10,,1,,1,,0
-/eos/experiment/fcc/hh/simulation/samples/v01_test/physics/Hbb/bFieldOn/etaTo1.5/1000GeV/simu,,20,,2,,4,,2
-/eos/experiment/fcc/hh/simulation/samples/v01_test/physics/MinBias/bFieldOn/etaFull/simu,,20,,2,,2,,0
-/eos/experiment/fcc/hh/simulation/samples/v01_test/physics/Wqq/bFieldOn/etaTo1.5/1000GeV/simu,,0,,0,,2,,2
-/eos/experiment/fcc/hh/simulation/samples/v01_test/physics/Zee/bFieldOn/etaFull/simu,,30,,3,,3,,0
-/eos/experiment/fcc/hh/simulation/samples/v01_test/physics/Zqq/bFieldOn/etaTo1.5/1000GeV/simu,,20,,2,,4,,2
-/eos/experiment/fcc/hh/simulation/samples/v01_test/physics/top/bFieldOn/etaTo1.5/1000GeV/simu,,20,,2,,4,,2
-total,,140,,,,14,,8
