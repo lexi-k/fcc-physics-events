@@ -8,7 +8,7 @@
 </head>
 
 <?php
-$txt_file    = file_get_contents('/afs/cern.ch/user/h/helsens/www/Delphesevents_cms.txt');
+$txt_file    = file_get_contents('data/Delphesevents_cms.txt');
 $rows        = explode("\n", $txt_file);
 ?>
 

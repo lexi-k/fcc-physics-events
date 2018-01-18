@@ -8,7 +8,7 @@
 </head>
 
 <?php
-$txt_file    = file_get_contents('/afs/cern.ch/user/h/helsens/www/LHEevents.txt');
+$txt_file    = file_get_contents('data/LHEevents.txt');
 $rows        = explode("\n", $txt_file);
 ?>
 
