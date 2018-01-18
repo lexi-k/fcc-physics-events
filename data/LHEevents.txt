@@ -1,0 +1,24 @@
+gg_aa01j_5f,,19,590,000,,0,,1959,,0,,0,,1959,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/gg_aa01j_5f/,,gluon fusion di-photon + 0/1 jets,,inclusive,,xqcut = 20, qCut = 30,,851.5
+gg_aa01j_mhcut_5f,,18,870,000,,0,,1887,,0,,0,,1887,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/gg_aa01j_mhcut_5f/,,gluon fusion di-photon + 0/1 jets,,50 < m(aa) < 200,,,,484.2
+gg_aa01j_mhcut_5f_HT_0_200,,2,380,000,,0,,238,,0,,2,,238,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/gg_aa01j_mhcut_5f_HT_0_200/,,gluon fusion di-photon + 0/1 jets,,0 < HT < 200,,xqcut = 20, qCut = 30,,60.21
+gg_aa01j_mhcut_5f_HT_200_100000,,35,000,,0,,7,,0,,0,,7,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/gg_aa01j_mhcut_5f_HT_200_100000/,,gluon fusion di-photon + 0/1 jets,,200 < HT < 100000,,xqcut = 20, qCut = 30,,0.02618
+gg_aa01j_mhcut_5f_HT_200_500,,1,210,000,,0,,121,,0,,25,,121,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/gg_aa01j_mhcut_5f_HT_200_500/,,gluon fusion di-photon + 0/1 jets,,200 < HT < 500,,xqcut = 20, qCut = 30,,0.026
+gg_aa01j_mhcut_5f_HT_500_100000,,200,000,,0,,20,,0,,169,,21,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/gg_aa01j_mhcut_5f_HT_500_100000/,,gluon fusion di-photon + 0/1 jets,,500 < HT < 100000,,xqcut = 20, qCut = 30,,0.0002481
+pp_DMSimp_V_jj_gq0p25_gdm1p00_mDM0p01_mMed30p00,,990,000,,0,,99,,0,,0,,99,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_DMSimp_V_jj_gq0p25_gdm1p00_mDM0p01_mMed30p00/,,30TeV DM mediator,,di-jet,,,,1
+pp_aa012j_5f,,19,681,449,,0,,1985,,0,,0,,1985,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_aa012j_5f/,,di-photon + 0/1/2 jets,,inclusive,,xqcut = 20, qCut = 30,,7030
+pp_aa012j_mhcut_5f,,19,920,000,,0,,1992,,0,,0,,1992,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_aa012j_mhcut_5f/,,di-photon + 0/1/2 jets,,50 < m(aa) < 200,,,,1530
+pp_aa012j_mhcut_5f_HT_0_100,,1,720,000,,0,,172,,0,,0,,172,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_aa012j_mhcut_5f_HT_0_100/,,di-photon + 0/1/2 jets,,0 < HT < 100,,xqcut = 30, qCut = 40,,116.8
+pp_aa012j_mhcut_5f_HT_100_300,,1,770,000,,0,,177,,0,,0,,177,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_aa012j_mhcut_5f_HT_100_300/,,di-photon + 0/1/2 jets,,100 < HT < 300,,xqcut = 30, qCut = 40,,61.58
+pp_aa012j_mhcut_5f_HT_1100_100000,,1,790,000,,0,,179,,0,,0,,179,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_aa012j_mhcut_5f_HT_1100_100000/,,di-photon + 0/1/2 jets,,1100 < HT < 100000,,xqcut = 30, qCut = 40,,0.3637
+pp_aa012j_mhcut_5f_HT_300_500,,1,760,000,,0,,176,,0,,0,,176,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_aa012j_mhcut_5f_HT_300_500/,,di-photon + 0/1/2 jets,,300 < HT < 500,,xqcut = 30, qCut = 40,,7.016
+pp_aa012j_mhcut_5f_HT_500_700,,1,700,000,,0,,170,,0,,0,,170,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_aa012j_mhcut_5f_HT_500_700/,,di-photon + 0/1/2 jets,,500 < HT < 700,,xqcut = 30, qCut = 40,,1.203
+pp_aa012j_mhcut_5f_HT_700_900,,1,710,000,,0,,171,,0,,0,,171,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_aa012j_mhcut_5f_HT_700_900/,,di-photon + 0/1/2 jets,,700 < HT < 900,,xqcut = 30, qCut = 40,,0.4198
+pp_aa012j_mhcut_5f_HT_900_1100,,1,650,000,,0,,165,,0,,0,,165,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_aa012j_mhcut_5f_HT_900_1100/,,di-photon + 0/1/2 jets,,900 < HT < 1100,,xqcut = 30, qCut = 40,,0.1834
+pp_aj012j_5f,,19,850,000,,0,,1985,,0,,0,,1985,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_aj012j_5f/,,photon + jet + 0/1/2 jets,,inclusive,,xqcut = 20, qCut = 30,,6.759e+06
+pp_bbaa01j_4f,,9,966,933,,0,,998,,0,,0,,998,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_bbaa01j_4f/,,bbaa + 0,1 jets 4 flavor scheme,,,,xqcut = 25, qCut = 35,,5.899
+pp_bbbbj_4f_PT_0_250,,0,,0,,0,,0,,0,,0,,,,4b + jet,,0 < PT < 250,,,,2516
+pp_bbbbj_4f_PT_1000_100000,,90,000,,0,,9,,0,,0,,9,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_bbbbj_4f_PT_1000_100000/,,4b + jet,,1000 < PT < 100000,,,,0.2959
+pp_bbbbj_4f_PT_200_500,,33,089,108,,0,,3547,,1,,0,,3545,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_bbbbj_4f_PT_200_500/,,4b + jet,,200 < PT < 500,,,,756.4
+pp_bbbbj_4f_PT_250_500,,3,270,000,,0,,327,,0,,0,,327,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_bbbbj_4f_PT_250_500/,,4b + jet,,250 < PT < 500,,,,224.3
+pp_bbbbj_4f_PT_500_1000,,3,150,000,,0,,315,,0,,0,,315,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_bbbbj_4f_PT_500_1000/,,4b + jet,,500 < PT < 1000,,,,20.99
+pp_bbbbj_4f_PT_500_inf,,41,482,721,,0,,4251,,7,,0,,4245,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_bbbbj_4f_PT_500_inf/,,4b + jet,,500 < PT,,,,57.71
