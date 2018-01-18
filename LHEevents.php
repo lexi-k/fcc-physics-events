@@ -3,7 +3,7 @@
 <title>FCC LHE</title>
 
 <style>
-<?php include 'main.css'; ?>
+<?php include 'style/main.css'; ?>
 </style>
 </head>
 
