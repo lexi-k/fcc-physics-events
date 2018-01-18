@@ -4,8 +4,8 @@
 <title>FeedBack Form</title>
 
 <style>
-<?php include 'style_contact.css'; ?>
-<?php include 'main.css'; ?>
+<?php include 'style/style_contact.css'; ?>
+<?php include 'style/main.css'; ?>
 
 </style>
 
