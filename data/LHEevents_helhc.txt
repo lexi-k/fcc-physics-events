@@ -1,0 +1,7 @@
+mg_pp_ee_lo,,1,000,000,,100,,0,,100,,0.10,,/eos/experiment/fcc/helhc/generation/lhe/mg_pp_ee_lo/,,,,inclusive,,,,0.000621
+mg_pp_jj_lo,,1,000,000,,100,,0,,100,,0.10,,/eos/experiment/fcc/helhc/generation/lhe/mg_pp_jj_lo/,,,,inclusive,,,,3871
+mg_pp_mumu_lo,,1,000,000,,100,,0,,100,,0.10,,/eos/experiment/fcc/helhc/generation/lhe/mg_pp_mumu_lo/,,,,inclusive,,,,0.000621
+mg_pp_tt_lo,,5,000,000,,500,,0,,500,,0.50,,/eos/experiment/fcc/helhc/generation/lhe/mg_pp_tt_lo/,,,,inclusive,,,,11.09
+mg_pp_vj_lo,,1,000,000,,100,,0,,100,,0.10,,/eos/experiment/fcc/helhc/generation/lhe/mg_pp_vj_lo/,,,,inclusive,,,,18.54
+mg_pp_vv_lo,,985,392,,100,,0,,100,,0.10,,/eos/experiment/fcc/helhc/generation/lhe/mg_pp_vv_lo/,,,,inclusive,,,,0.1562
+total,,9,985,392,,1,000,,,,,,1.00,,,,

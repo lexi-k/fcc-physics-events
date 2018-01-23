@@ -1,0 +1,2 @@
+p8_pp_Zprime_10TeV_ll,,100,001,,0,,11,,0,,11,,0.74,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_Zprime_10TeV_ll/,,10TeV Z'(SSM) -> ll (l=e,mu,tau),,,,4.749e-5,,1.0,,1.0
+total,,100,001,,11,,,,,,0.74,,,,
