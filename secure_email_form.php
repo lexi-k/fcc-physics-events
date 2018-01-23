@@ -5,7 +5,7 @@
 
 <style>
 <?php include 'style/style_contact.css'; ?>
-<?php include 'style/main.css'; ?>
+ /*<?php include 'style/main.css'; ?>*/
 
 </style>
 
