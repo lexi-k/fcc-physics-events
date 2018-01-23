@@ -14,20 +14,14 @@ if(!isset($gobase)){$gobase="";}
 </style>
 </head>
 
-<div class="topnav">
-  <a class="active" href="http://fcc-physics-events.web.cern.ch/fcc-physics-events/">Home</a>
-  <a href="#about">About</a>
-  <a href="secure_email_form.php">Contact</a>
-  </div>
-</div>
 
+<?php include 'topbar.php'; ?>
 
 
 <body>
 
 
 </body>
-<?php include 'menu.php'; ?>
 
 <p>FCC simulation based on madgraph gridpacks or standalone Pythia8</p>
 
