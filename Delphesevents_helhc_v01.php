@@ -22,7 +22,7 @@ $rows        = explode("\n", $txt_file);
 
 
 $lname=array('NO','Name','Nevents','Nweights',
-             'Nfiles','Nbad','Nrunpend','Neos',
+             'Nfiles','Nbad','Neos','Size',
              'Output Path','Main Process','Final States',
              'Cross Section (pb)','K-factor','Matching eff');
 
