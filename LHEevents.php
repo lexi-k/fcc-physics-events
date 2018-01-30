@@ -19,10 +19,11 @@ $rows        = explode("\n", $txt_file);
  
 <?php
 
-$lname=array('NO','Name','Nevents','Nweights',
-             'Nfiles','Nbad','Nrunpend','Neos',
+$lname=array('NO','Name','Nevents',
+             'Nfiles','Nbad','Neos','Size (GB)',
              'Output Path','Main Process','Final States',
              'Matching Param','Cross Section (pb)');
+
 
 $NbrCol 	= count($lname); // $NbrCol : le nombre de colonnes
 
