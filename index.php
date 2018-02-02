@@ -26,7 +26,7 @@ if(!isset($gobase)){$gobase="";}
 <p>FCC simulation based on madgraph gridpacks or standalone Pythia8</p>
 
 <footer>
-<p>Created by Clement Helsens</p>
+<p>Created by Clement Helsens clement.helsens@cern.ch</p>
 </footer>   
 
    </html>	
