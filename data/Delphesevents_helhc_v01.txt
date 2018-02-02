@@ -1,6 +1,7 @@
-mg_pp_tt_lo,,1,000,000,,0,,100,,0,,0,,22.43,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_tt_lo/,,top pair,,pT(t)>0.5TeV,,11.09,,1.0,,1.0
+mg_pp_tt_lo,,1,030,000,,0,,103,,0,,0,,23.10,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_tt_lo/,,top pair,,pT(t)>0.5TeV,,11.09,,1.0,,1.0
 p8_pp_Zprime_10TeV_ttbar,,500,000,,0,,50,,0,,50,,12.93,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_Zprime_10TeV_ttbar/,,10TeV Z' -> ttbar,,,,0.0175724,,1.0,,1.0
 p8_pp_Zprime_2TeV_ttbar,,500,000,,0,,50,,0,,50,,11.15,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_Zprime_2TeV_ttbar/,,2TeV Z' -> ttbar,,,,7.6378,,1.0,,1.0
 p8_pp_Zprime_5TeV_ttbar,,500,000,,0,,50,,0,,50,,13.18,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_Zprime_5TeV_ttbar/,,5TeV Z' -> ttbar,,,,0.305493,,1.0,,1.0
 p8_pp_Zprime_10TeV_ll,,20,000,,0,,2,,0,,2,,0.15,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_Zprime_10TeV_ll/,,10TeV Z'(SSM) -> ll (l=e,mu,tau),,,,4.749e-5,,1.0,,1.0
-total,,2,520,000,,0.0,,252,,0.0,,152.0,,59.83,,,,
+mg_pp_tt_lo,,0,,0,,0,,0,,0,,0.00,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_Zprime_10TeV_ll/,,top pair,,pT(t)>0.5TeV,,11.09,,1.0,,1.0
+total,,2,550,000,,0.0,,255,,0.0,,152.0,,60.51,,,,

@@ -1,90 +1,150 @@
-gg_aa01j_5f,,19,590,000,,0,,1959,,0,,0,,1959,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/gg_aa01j_5f/,,gluon fusion di-photon + 0/1 jets,,inclusive,,xqcut = 20, qCut = 30,,851.5
-gg_aa01j_mhcut_5f,,18,870,000,,0,,1887,,0,,0,,1887,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/gg_aa01j_mhcut_5f/,,gluon fusion di-photon + 0/1 jets,,50 < m(aa) < 200,,,,484.2
-gg_aa01j_mhcut_5f_HT_0_200,,2,380,000,,0,,238,,0,,0,,238,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/gg_aa01j_mhcut_5f_HT_0_200/,,gluon fusion di-photon + 0/1 jets,,0 < HT < 200,,xqcut = 20, qCut = 30,,60.21
-gg_aa01j_mhcut_5f_HT_200_100000,,35,000,,0,,7,,0,,0,,7,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/gg_aa01j_mhcut_5f_HT_200_100000/,,gluon fusion di-photon + 0/1 jets,,200 < HT < 100000,,xqcut = 20, qCut = 30,,0.02618
-gg_aa01j_mhcut_5f_HT_200_500,,1,210,000,,0,,121,,0,,0,,121,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/gg_aa01j_mhcut_5f_HT_200_500/,,gluon fusion di-photon + 0/1 jets,,200 < HT < 500,,xqcut = 20, qCut = 30,,0.026
-gg_aa01j_mhcut_5f_HT_500_100000,,210,000,,0,,21,,0,,0,,21,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/gg_aa01j_mhcut_5f_HT_500_100000/,,gluon fusion di-photon + 0/1 jets,,500 < HT < 100000,,xqcut = 20, qCut = 30,,0.0002481
-gg_aaj_mhcut_5f_HT_0_150,,3,970,000,,0,,397,,0,,0,,397,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/gg_aaj_mhcut_5f_HT_0_150/,,gluon fusion di-photon + 1 jet,,0 < HT < 150,,,,53.86
-gg_aaj_mhcut_5f_HT_150_100000,,0,,0,,0,,0,,0,,0,,,,gluon fusion di-photon + 1 jet,,150 < HT < 100000,,,,0.08556
-pp_DMSimp_V_jj_gq0p25_gdm1p00_mDM0p01_mMed30p00,,990,000,,0,,99,,0,,0,,99,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_DMSimp_V_jj_gq0p25_gdm1p00_mDM0p01_mMed30p00/,,30TeV DM mediator,,di-jet,,,,1
-pp_Zprime_mumu_5f_Mzp_10TeV,,990,000,,0,,99,,0,,0,,99,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_Zprime_mumu_5f_Mzp_10TeV/,,,,Zp->mu+mu-,,,,4.497e-05
-pp_Zprime_mumu_5f_Mzp_12TeV,,990,000,,0,,99,,0,,0,,99,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_Zprime_mumu_5f_Mzp_12TeV/,,,,Zp->mu+mu-,,,,2.803e-05
-pp_Zprime_mumu_5f_Mzp_14TeV,,890,000,,0,,89,,0,,0,,89,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_Zprime_mumu_5f_Mzp_14TeV/,,,,Zp->mu+mu-,,,,1.968e-05
-pp_Zprime_mumu_5f_Mzp_15TeV,,990,000,,0,,99,,0,,0,,99,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_Zprime_mumu_5f_Mzp_15TeV/,,,,Zp->mu+mu-,,,,1.717e-05
-pp_Zprime_mumu_5f_Mzp_16TeV,,890,000,,0,,89,,0,,0,,89,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_Zprime_mumu_5f_Mzp_16TeV/,,,,Zp->mu+mu-,,,,1.548e-05
-pp_Zprime_mumu_5f_Mzp_18TeV,,830,000,,0,,83,,0,,0,,83,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_Zprime_mumu_5f_Mzp_18TeV/,,,,Zp->mu+mu-,,,,1.321e-05
-pp_Zprime_mumu_5f_Mzp_20TeV,,990,000,,0,,99,,0,,0,,99,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_Zprime_mumu_5f_Mzp_20TeV/,,,,Zp->mu+mu-,,,,1.136e-05
-pp_Zprime_mumu_5f_Mzp_25TeV,,990,000,,0,,99,,0,,0,,99,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_Zprime_mumu_5f_Mzp_25TeV/,,,,Zp->mu+mu-,,,,9.823e-06
-pp_Zprime_mumu_5f_Mzp_30TeV,,990,000,,0,,99,,0,,0,,99,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_Zprime_mumu_5f_Mzp_30TeV/,,,,Zp->mu+mu-,,,,8.493e-06
-pp_Zprime_mumu_5f_Mzp_35TeV,,990,000,,0,,99,,0,,0,,99,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_Zprime_mumu_5f_Mzp_35TeV/,,,,Zp->mu+mu-,,,,7.108e-06
-pp_Zprime_mumu_5f_Mzp_40TeV,,990,000,,0,,99,,0,,0,,99,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_Zprime_mumu_5f_Mzp_40TeV/,,,,Zp->mu+mu-,,,,5.819e-06
-pp_Zprime_mumu_5f_Mzp_45TeV,,1,000,000,,0,,100,,0,,0,,100,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_Zprime_mumu_5f_Mzp_45TeV/,,,,Zp->mu+mu-,,,,4.64e-06
-pp_Zprime_mumu_5f_Mzp_4TeV,,990,000,,0,,99,,0,,0,,99,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_Zprime_mumu_5f_Mzp_4TeV/,,,,Zp->mu+mu-,,,,0.0005878
-pp_Zprime_mumu_5f_Mzp_6TeV,,990,000,,0,,99,,0,,0,,99,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_Zprime_mumu_5f_Mzp_6TeV/,,,,Zp->mu+mu-,,,,0.000202
-pp_Zprime_mumu_5f_Mzp_8TeV,,860,000,,0,,86,,0,,0,,86,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_Zprime_mumu_5f_Mzp_8TeV/,,,,Zp->mu+mu-,,,,8.857e-05
-pp_aa012j_5f,,19,681,449,,0,,1985,,0,,0,,1985,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_aa012j_5f/,,di-photon + 0/1/2 jets,,inclusive,,xqcut = 20, qCut = 30,,7030
-pp_aa012j_mhcut_5f,,19,920,000,,0,,1992,,0,,0,,1992,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_aa012j_mhcut_5f/,,di-photon + 0/1/2 jets,,50 < m(aa) < 200,,,,1530
-pp_aa012j_mhcut_5f_HT_0_100,,2,710,000,,0,,271,,0,,0,,271,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_aa012j_mhcut_5f_HT_0_100/,,di-photon + 0/1/2 jets,,0 < HT < 100,,xqcut = 30, qCut = 40,,116.8
-pp_aa012j_mhcut_5f_HT_100_300,,2,770,000,,0,,277,,0,,0,,277,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_aa012j_mhcut_5f_HT_100_300/,,di-photon + 0/1/2 jets,,100 < HT < 300,,xqcut = 30, qCut = 40,,61.58
-pp_aa012j_mhcut_5f_HT_1100_100000,,2,780,000,,0,,278,,0,,0,,278,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_aa012j_mhcut_5f_HT_1100_100000/,,di-photon + 0/1/2 jets,,1100 < HT < 100000,,xqcut = 30, qCut = 40,,0.3637
-pp_aa012j_mhcut_5f_HT_300_500,,2,760,000,,0,,276,,0,,0,,276,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_aa012j_mhcut_5f_HT_300_500/,,di-photon + 0/1/2 jets,,300 < HT < 500,,xqcut = 30, qCut = 40,,7.016
-pp_aa012j_mhcut_5f_HT_500_700,,2,680,000,,0,,268,,0,,0,,268,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_aa012j_mhcut_5f_HT_500_700/,,di-photon + 0/1/2 jets,,500 < HT < 700,,xqcut = 30, qCut = 40,,1.203
-pp_aa012j_mhcut_5f_HT_700_900,,2,710,000,,0,,271,,0,,0,,271,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_aa012j_mhcut_5f_HT_700_900/,,di-photon + 0/1/2 jets,,700 < HT < 900,,xqcut = 30, qCut = 40,,0.4198
-pp_aa012j_mhcut_5f_HT_900_1100,,2,650,000,,0,,265,,0,,0,,265,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_aa012j_mhcut_5f_HT_900_1100/,,di-photon + 0/1/2 jets,,900 < HT < 1100,,xqcut = 30, qCut = 40,,0.1834
-pp_aj012j_5f,,19,850,000,,0,,1985,,0,,0,,1985,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_aj012j_5f/,,photon + jet + 0/1/2 jets,,inclusive,,xqcut = 20, qCut = 30,,6.759e+06
-pp_bbaa01j_4f,,9,966,933,,0,,998,,0,,0,,998,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_bbaa01j_4f/,,bbaa + 0,1 jets 4 flavor scheme,,,,xqcut = 25, qCut = 35,,5.899
-pp_bbbbj_4f_PT_0_250,,0,,0,,0,,0,,0,,0,,,,4b + jet,,0 < PT < 250,,,,2516
-pp_bbbbj_4f_PT_1000_100000,,90,000,,0,,9,,0,,0,,9,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_bbbbj_4f_PT_1000_100000/,,4b + jet,,1000 < PT < 100000,,,,0.2959
-pp_bbbbj_4f_PT_200_500,,33,089,108,,0,,3547,,1,,0,,3545,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_bbbbj_4f_PT_200_500/,,4b + jet,,200 < PT < 500,,,,756.4
-pp_bbbbj_4f_PT_250_500,,3,270,000,,0,,327,,0,,0,,327,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_bbbbj_4f_PT_250_500/,,4b + jet,,250 < PT < 500,,,,224.3
-pp_bbbbj_4f_PT_500_1000,,3,150,000,,0,,315,,0,,0,,315,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_bbbbj_4f_PT_500_1000/,,4b + jet,,500 < PT < 1000,,,,20.99
-pp_bbbbj_4f_PT_500_inf,,41,482,721,,0,,4251,,7,,0,,4245,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_bbbbj_4f_PT_500_inf/,,4b + jet,,500 < PT,,,,57.71
-pp_bbbbj_QCD,,15,372,685,,0,,1625,,0,,0,,1625,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_bbbbj_QCD/,,4b + jet (QCD only),,250 < PT ,,,,443.1
-pp_bbbbj_QCDQED,,16,472,350,,0,,1661,,0,,0,,1661,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_bbbbj_QCDQED/,,4b + jet (QCD+QED),,250 < PT ,,,,6.204
-pp_bbbbj_QED,,10,529,959,,0,,1687,,0,,0,,1687,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_bbbbj_QED/,,4b + jet (QED),,250 < PT ,,,,0.07206
-pp_bbh,,9,930,000,,0,,993,,0,,0,,993,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_bbh/,,bbar plus higgs,,50 < mbb < 300,,,,0.916
-pp_bbj_4f_PT_0_500,,0,,0,,0,,0,,0,,0,,,,bbbar + jet,,0 < PT < 500,,,,201.4
-pp_bbj_4f_PT_1000_2000,,286,036,,0,,58,,0,,0,,58,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_bbj_4f_PT_1000_2000/,,bbbar + jet,,1000 < PT < 2000,,,,0.004057
-pp_bbj_4f_PT_2000_4000,,3,750,000,,0,,375,,0,,0,,375,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_bbj_4f_PT_2000_4000/,,bbbar + jet,,2000 < PT < 4000,,,,6.688e-06
-pp_bbj_4f_PT_500_1000,,3,020,000,,0,,302,,0,,0,,302,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_bbj_4f_PT_500_1000/,,bbbar + jet,,500 < PT < 1000,,,,0.5511
-pp_bbja_4f,,10,000,000,,0,,1000,,0,,0,,1000,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_bbja_4f/,,bbja 4 flavor scheme,,,,,,4679
-pp_bjaa01j_4f,,10,006,753,,0,,1001,,0,,0,,1001,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_bjaa01j_4f/,,bjaa + 0,1 jets 4 flavor scheme,,,,xqcut = 25, qCut = 35,,16.9
-pp_ee_lo,,9,830,000,,0,,983,,0,,0,,986,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_ee_lo/,,,,m > 10 TeV,,,,9.428e-06
-pp_ee_nlo,,9,250,000,,0,,925,,0,,0,,993,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_ee_nlo/,,e+e- @NLO,,m(ee) > 5 TeV,,,,1.553e-04
-pp_h012j_5f,,22,100,000,,0,,2210,,0,,0,,2210,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_h012j_5f/,,gluon fusion higgs (finite mt) + 0/1/2 jets,,inclusive,,xqcut = 30, qCut = 45,,587.5
-pp_h012j_5f_HT_0_100,,6,900,000,,0,,690,,0,,0,,690,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_h012j_5f_HT_0_100/,,gluon fusion higgs (finite mt) + 0/1/2 jets,,0 < HT < 100,,xqcut = 30, qCut = 45,,312.9
-pp_h012j_5f_HT_1000_1900,,230,000,,0,,23,,0,,0,,23,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_h012j_5f_HT_1000_1900/,,gluon fusion higgs (finite mt) + 0/1/2 jets,,1000 < HT < 1900,,xqcut = 30, qCut = 45,,3.587
-pp_h012j_5f_HT_100_400,,220,000,,0,,22,,0,,0,,22,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_h012j_5f_HT_100_400/,,gluon fusion higgs (finite mt) + 0/1/2 jets,,100 < HT < 400,,xqcut = 30, qCut = 45,,220.4
-pp_h012j_5f_HT_1900_4400,,0,,0,,0,,0,,0,,0,,,,gluon fusion higgs (finite mt) + 0/1/2 jets,,1900 < HT < 4400,,xqcut = 30, qCut = 45,,0.277
-pp_h012j_5f_HT_400_1000,,240,000,,0,,24,,0,,0,,24,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_h012j_5f_HT_400_1000/,,gluon fusion higgs (finite mt) + 0/1/2 jets,,400 < HT < 1000,,xqcut = 30, qCut = 45,,47.28
-pp_h012j_5f_HT_400_100000,,18,000,,0,,9,,0,,0,,9,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_h012j_5f_HT_400_100000/,,gluon fusion higgs (finite mt) + 0/1/2 jets,,400 < HT < 100000,,xqcut = 30, qCut = 45,,51.44
-pp_h012j_5f_HT_4400_8500,,50,000,,0,,5,,0,,0,,5,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_h012j_5f_HT_4400_8500/,,gluon fusion higgs (finite mt) + 0/1/2 jets,,4400 < HT < 8500,,xqcut = 30, qCut = 45,,0.003902
-pp_h012j_5f_HT_8500_100000,,0,,0,,0,,0,,0,,0,,,,gluon fusion higgs (finite mt) + 0/1/2 jets,,8500 < HT < 100000,,xqcut = 30, qCut = 45,,6.368e-05
-pp_hh,,10,000,000,,0,,1000,,0,,0,,1000,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_hh/,,gluon gluon fusion di-higgs,,inclusive,,,,0.65
-pp_hh01j_5f,,53,930,000,,0,,4703,,0,,0,,4694,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_hh01j_5f/,,gluon fusion di-higgs + 0/1 jets,,inclusive,,xqcut = 60, qCut = 90,,1.113
-pp_hh01j_5f_HT_0_300,,8,550,000,,0,,855,,0,,0,,855,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_hh01j_5f_HT_0_300/,,gluon fusion di-higgs + 0/1 jets,,0 < HT < 300,,xqcut = 60, qCut = 90,,0.3501
-pp_hh01j_5f_HT_1400_2900,,7,110,000,,0,,711,,0,,0,,711,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_hh01j_5f_HT_1400_2900/,,gluon fusion di-higgs + 0/1 jets,,1400 < HT < 2900,,xqcut = 60, qCut = 90,,0.01265
-pp_hh01j_5f_HT_2900_5300,,4,100,000,,0,,410,,0,,0,,410,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_hh01j_5f_HT_2900_5300/,,gluon fusion di-higgs + 0/1 jets,,2900 < HT < 5300,,xqcut = 60, qCut = 90,,0.0007173
-pp_hh01j_5f_HT_300_1400,,6,890,000,,0,,690,,0,,0,,689,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_hh01j_5f_HT_300_1400/,,gluon fusion di-higgs + 0/1 jets,,300 < HT < 1400,,xqcut = 60, qCut = 90,,0.7453
-pp_hh_lambda050_5f,,5,840,000,,0,,584,,0,,0,,584,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_hh_lambda050_5f/,,HH, H->bb, H undec., kl = 0.50,,,,,,1.92258
-pp_hh_lambda090_5f,,5,950,000,,0,,595,,0,,0,,595,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_hh_lambda090_5f/,,HH, H->bb, H undec., kl = 0.90,,,,,,1.41752
-pp_hh_lambda095_5f,,5,860,000,,0,,586,,0,,0,,586,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_hh_lambda095_5f/,,HH, H->bb, H undec., kl = 0.95,,,,,,1.36266
-pp_hh_lambda096_5f,,6,980,000,,0,,698,,0,,0,,698,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_hh_lambda096_5f/,,HH, H->bb, H undec., kl = 0.96,,,,,,1.35191
-pp_hh_lambda097_5f,,6,900,000,,0,,690,,0,,0,,690,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_hh_lambda097_5f/,,HH, H->bb, H undec., kl = 0.97,,,,,,1.34124
-pp_hh_lambda098_5f,,6,940,000,,0,,694,,0,,0,,694,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_hh_lambda098_5f/,,HH, H->bb, H undec., kl = 0.98,,,,,,1.33063
-pp_hh_lambda099_5f,,6,910,000,,0,,691,,0,,0,,691,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_hh_lambda099_5f/,,HH, H->bb, H undec., kl = 0.99,,,,,,1.32011
-pp_hh_lambda100_5f,,5,750,000,,0,,575,,0,,0,,575,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_hh_lambda100_5f/,,HH, H->bb, H undec., kl = 1.00,,,,,,1.30965
-pp_hh_lambda101_5f,,6,940,000,,0,,694,,0,,0,,694,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_hh_lambda101_5f/,,HH, H->bb, H undec., kl = 1.01,,,,,,1.29927
-pp_hh_lambda102_5f,,6,980,000,,0,,698,,0,,0,,698,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_hh_lambda102_5f/,,HH, H->bb, H undec., kl = 1.02,,,,,,1.28896
-pp_hh_lambda103_5f,,9,890,000,,0,,989,,0,,0,,989,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_hh_lambda103_5f/,,HH, H->bb, H undec., kl = 1.03,,,,,,1.27872
-pp_hh_lambda104_5f,,7,000,000,,0,,700,,0,,0,,700,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_hh_lambda104_5f/,,HH, H->bb, H undec., kl = 1.04,,,,,,1.26856
-pp_hh_lambda105_5f,,5,860,000,,0,,586,,0,,0,,586,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_hh_lambda105_5f/,,HH, H->bb, H undec., kl = 1.05,,,,,,1.25848
-pp_hh_lambda110_5f,,5,840,000,,0,,584,,0,,0,,584,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_hh_lambda110_5f/,,HH, H->bb, H undec., kl = 1.10,,,,,,1.20914
-pp_hh_lambda150_5f,,5,840,000,,0,,584,,0,,0,,584,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_hh_lambda150_5f/,,HH, H->bb, H undec., kl = 1.50,,,,,,0.88070
-pp_hhj_lambda050_5f,,5,970,000,,0,,597,,0,,0,,597,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_hhj_lambda050_5f/,,HH + 1 jet, pT(HH) > 200, kl = 0.50,,inclusive,,,,0.08285
-pp_hhj_lambda090_5f,,5,970,000,,0,,597,,0,,0,,597,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_hhj_lambda090_5f/,,HH + 1 jet, pT(HH) > 200, kl = 0.90,,inclusive,,,,0.06107
-pp_hhj_lambda095_5f,,31,770,000,,0,,3177,,0,,1,,3177,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_hhj_lambda095_5f/,,HH + 1 jet, pT(HH) > 200, kl = 0.95,,inclusive,,,,0.05870
-pp_hhj_lambda100_5f,,8,750,000,,0,,875,,0,,1,,875,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_hhj_lambda100_5f/,,HH + 1 jet, pT(HH) > 200, kl = 1.00,,inclusive,,,,0.05644
-pp_hhj_lambda105_5f,,8,820,000,,0,,882,,0,,1,,882,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_hhj_lambda105_5f/,,HH + 1 jet, pT(HH) > 200, kl = 1.05,,inclusive,,,,0.05424
-pp_hhj_lambda110_5f,,8,830,000,,0,,883,,0,,2,,883,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_hhj_lambda110_5f/,,HH + 1 jet, pT(HH) > 200, kl = 1.10,,inclusive,,,,0.05209
-pp_hhj_lambda150_5f,,6,920,000,,0,,692,,0,,0,,692,,/eos/experiment/fcc/hh/generation/mg5_amcatnlo/lhe/pp_hhj_lambda150_5f/,,HH + 1 jet, pT(HH) > 200, kl = 1.50,,inclusive,,,,0.03793
+mg_gg_aa01j_5f,,9,730,000,,973,,0,,973,,1.18,,/eos/experiment/fcc/hh/generation/lhe/mg_gg_aa01j_5f/,,gluon fusion di-photon + 0/1 jets,,inclusive,,xqcut = 20, qCut = 30,,851.5
+mg_gg_aa01j_mhcut_5f,,18,870,000,,1887,,0,,1887,,2.18,,/eos/experiment/fcc/hh/generation/lhe/mg_gg_aa01j_mhcut_5f/,,gluon fusion di-photon + 0/1 jets,,50 < m(aa) < 200,,,,484.2
+mg_gg_aa01j_mhcut_5f_HT_0_200,,2,380,000,,238,,0,,238,,0.30,,/eos/experiment/fcc/hh/generation/lhe/mg_gg_aa01j_mhcut_5f_HT_0_200/,,gluon fusion di-photon + 0/1 jets,,0 < HT < 200,,xqcut = 20, qCut = 30,,60.21
+mg_gg_aa01j_mhcut_5f_HT_100_300,,2,450,000,,245,,0,,245,,0.41,,/eos/experiment/fcc/hh/generation/lhe/mg_gg_aa01j_mhcut_5f_HT_100_300/,,gluon fusion di-photon + 0/1 jets,,0 < HT < 500,,xqcut = 20, qCut = 30,,850.4
+mg_gg_aa01j_mhcut_5f_HT_200_10000,,15,000,,3,,0,,3,,0.00,,/eos/experiment/fcc/hh/generation/lhe/mg_gg_aa01j_mhcut_5f_HT_200_10000/,,gluon fusion di-photon + 0/1 jets,,200 < HT < 100000,,xqcut = 20, qCut = 30,,0.02618
+mg_gg_aa01j_mhcut_5f_HT_200_100000,,30,000,,6,,0,,6,,0.01,,/eos/experiment/fcc/hh/generation/lhe/mg_gg_aa01j_mhcut_5f_HT_200_100000/,,gluon fusion di-photon + 0/1 jets,,200 < HT < 100000,,xqcut = 20, qCut = 30,,0.02618
+mg_gg_aa01j_mhcut_5f_HT_200_500,,1,210,000,,121,,0,,121,,0.20,,/eos/experiment/fcc/hh/generation/lhe/mg_gg_aa01j_mhcut_5f_HT_200_500/,,gluon fusion di-photon + 0/1 jets,,200 < HT < 500,,xqcut = 20, qCut = 30,,0.026
+mg_gg_aa01j_mhcut_5f_HT_500_100000,,210,000,,21,,0,,21,,0.04,,/eos/experiment/fcc/hh/generation/lhe/mg_gg_aa01j_mhcut_5f_HT_500_100000/,,gluon fusion di-photon + 0/1 jets,,500 < HT < 100000,,xqcut = 20, qCut = 30,,0.0002481
+mg_gg_aaj_mhcut_5f_HT_0_150,,3,970,000,,397,,0,,397,,0.44,,/eos/experiment/fcc/hh/generation/lhe/mg_gg_aaj_mhcut_5f_HT_0_150/,,gluon fusion di-photon + 1 jet,,0 < HT < 150,,,,53.86
+mg_pp_aa012j_5f,,9,761,110,,986,,0,,986,,1.87,,/eos/experiment/fcc/hh/generation/lhe/mg_pp_aa012j_5f/,,di-photon + 0/1/2 jets,,inclusive,,xqcut = 20, qCut = 30,,7030
+mg_pp_aa012j_mhcut_5f,,19,920,000,,1992,,0,,1992,,3.23,,/eos/experiment/fcc/hh/generation/lhe/mg_pp_aa012j_mhcut_5f/,,di-photon + 0/1/2 jets,,50 < m(aa) < 200,,,,1530
+mg_pp_aa012j_mhcut_5f_HT_0_100,,2,710,000,,271,,0,,271,,0.43,,/eos/experiment/fcc/hh/generation/lhe/mg_pp_aa012j_mhcut_5f_HT_0_100/,,di-photon + 0/1/2 jets,,0 < HT < 100,,xqcut = 30, qCut = 40,,116.8
+mg_pp_aa012j_mhcut_5f_HT_100_300,,2,770,000,,277,,0,,277,,0.57,,/eos/experiment/fcc/hh/generation/lhe/mg_pp_aa012j_mhcut_5f_HT_100_300/,,di-photon + 0/1/2 jets,,100 < HT < 300,,xqcut = 30, qCut = 40,,61.58
+mg_pp_aa012j_mhcut_5f_HT_1100_100000,,2,780,000,,278,,0,,278,,0.61,,/eos/experiment/fcc/hh/generation/lhe/mg_pp_aa012j_mhcut_5f_HT_1100_100000/,,di-photon + 0/1/2 jets,,1100 < HT < 100000,,xqcut = 30, qCut = 40,,0.3637
+mg_pp_aa012j_mhcut_5f_HT_300_500,,2,760,000,,276,,0,,276,,0.59,,/eos/experiment/fcc/hh/generation/lhe/mg_pp_aa012j_mhcut_5f_HT_300_500/,,di-photon + 0/1/2 jets,,300 < HT < 500,,xqcut = 30, qCut = 40,,7.016
+mg_pp_aa012j_mhcut_5f_HT_500_700,,2,680,000,,268,,0,,268,,0.58,,/eos/experiment/fcc/hh/generation/lhe/mg_pp_aa012j_mhcut_5f_HT_500_700/,,di-photon + 0/1/2 jets,,500 < HT < 700,,xqcut = 30, qCut = 40,,1.203
+mg_pp_aa012j_mhcut_5f_HT_700_900,,2,710,000,,271,,0,,271,,0.59,,/eos/experiment/fcc/hh/generation/lhe/mg_pp_aa012j_mhcut_5f_HT_700_900/,,di-photon + 0/1/2 jets,,700 < HT < 900,,xqcut = 30, qCut = 40,,0.4198
+mg_pp_aa012j_mhcut_5f_HT_900_1100,,2,650,000,,265,,0,,265,,0.57,,/eos/experiment/fcc/hh/generation/lhe/mg_pp_aa012j_mhcut_5f_HT_900_1100/,,di-photon + 0/1/2 jets,,900 < HT < 1100,,xqcut = 30, qCut = 40,,0.1834
+mg_pp_aj012j_5f,,9,870,000,,987,,0,,987,,1.58,,/eos/experiment/fcc/hh/generation/lhe/mg_pp_aj012j_5f/,,photon + jet + 0/1/2 jets,,inclusive,,xqcut = 20, qCut = 30,,6.759e+06
+mg_pp_bbaa01j_4f,,9,956,933,,997,,0,,997,,2.45,,/eos/experiment/fcc/hh/generation/lhe/mg_pp_bbaa01j_4f/,,bbaa + 0,1 jets 4 flavor scheme,,,,xqcut = 25, qCut = 35,,5.899
+mg_pp_bbbbj_4f_PT_1000_100000,,90,000,,9,,0,,9,,0.02,,/eos/experiment/fcc/hh/generation/lhe/mg_pp_bbbbj_4f_PT_1000_100000/,,4b + jet,,1000 < PT < 100000,,,,0.2959
+mg_pp_bbbbj_4f_PT_200_500,,33,089,108,,3545,,0,,3545,,8.43,,/eos/experiment/fcc/hh/generation/lhe/mg_pp_bbbbj_4f_PT_200_500/,,4b + jet,,200 < PT < 500,,,,756.4
+mg_pp_bbbbj_4f_PT_250_500,,3,270,000,,327,,0,,327,,0.83,,/eos/experiment/fcc/hh/generation/lhe/mg_pp_bbbbj_4f_PT_250_500/,,4b + jet,,250 < PT < 500,,,,224.3
+mg_pp_bbbbj_4f_PT_500_1000,,3,150,000,,315,,0,,315,,0.81,,/eos/experiment/fcc/hh/generation/lhe/mg_pp_bbbbj_4f_PT_500_1000/,,4b + jet,,500 < PT < 1000,,,,20.99
+mg_pp_bbbbj_4f_PT_500_inf,,41,482,721,,4245,,0,,4245,,10.61,,/eos/experiment/fcc/hh/generation/lhe/mg_pp_bbbbj_4f_PT_500_inf/,,4b + jet,,500 < PT,,,,57.71
+mg_pp_bbbbj_QCD,,15,372,685,,1625,,0,,1625,,3.92,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_bbbbj_QCD/,,4b + jet (QCD only),,250 < PT ,,,,443.1
+mg_pp_bbbbj_QED,,10,529,959,,1687,,0,,1687,,3.44,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_bbbbj_QED/,,4b + jet (QED),,250 < PT ,,,,0.07206
+mg_pp_bbbbj_QCDQED,,16,472,350,,1661,,0,,1661,,4.88,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_bbbbj_QCDQED/,,4b + jet (QCD+QED),,250 < PT ,,,,6.204
+mg_pp_jj_lo_filter_pTjet7.5TeV,,160,000,,16,,0,,16,,0.02,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj_lo_filter_pTjet7.5TeV/,,,,m > 15 TeV,,,,0.07777
+mg_pp_bbh,,9,930,000,,993,,0,,993,,1.41,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_bbh/,,bbar plus higgs,,50 < mbb < 300,,,,0.916
+mg_pp_bbj_4f_PT_1000_2000,,286,036,,58,,0,,58,,0.07,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_bbj_4f_PT_1000_2000/,,bbbar + jet,,1000 < PT < 2000,,,,0.004057
+mg_pp_bbj_4f_PT_2000_4000,,3,750,000,,375,,0,,375,,0.95,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_bbj_4f_PT_2000_4000/,,bbbar + jet,,2000 < PT < 4000,,,,6.688e-06
+mg_pp_bbj_4f_PT_500_1000,,3,020,000,,302,,0,,302,,0.77,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_bbj_4f_PT_500_1000/,,bbbar + jet,,500 < PT < 1000,,,,0.5511
+mg_pp_bbja_4f,,9,990,000,,999,,0,,999,,1.81,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_bbja_4f/,,bbja 4 flavor scheme,,,,,,4679
+mg_pp_bjaa01j_4f,,9,996,753,,1000,,0,,1000,,2.39,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_bjaa01j_4f/,,bjaa + 0,1 jets 4 flavor scheme,,,,xqcut = 25, qCut = 35,,16.9
+mg_pp_ee_lo,,2,000,,2,,0,,3,,0.00,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_ee_lo/,,,,m > 10 TeV,,,,9.428e-06
+mg_pp_h012j_5f,,22,100,000,,2210,,0,,2210,,2.44,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_h012j_5f/,,gluon fusion higgs (finite mt) + 0/1/2 jets,,inclusive,,xqcut = 30, qCut = 45,,587.5
+mg_pp_h012j_5f_HT_0_100,,6,900,000,,690,,0,,690,,0.48,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_h012j_5f_HT_0_100/,,gluon fusion higgs (finite mt) + 0/1/2 jets,,0 < HT < 100,,xqcut = 30, qCut = 45,,312.9
+mg_pp_h012j_5f_HT_1000_1900,,230,000,,23,,0,,23,,0.04,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_h012j_5f_HT_1000_1900/,,gluon fusion higgs (finite mt) + 0/1/2 jets,,1000 < HT < 1900,,xqcut = 30, qCut = 45,,3.587
+mg_pp_h012j_5f_HT_100_400,,220,000,,22,,0,,22,,0.03,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_h012j_5f_HT_100_400/,,gluon fusion higgs (finite mt) + 0/1/2 jets,,100 < HT < 400,,xqcut = 30, qCut = 45,,220.4
+mg_pp_h012j_5f_HT_400_1000,,240,000,,24,,0,,24,,0.04,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_h012j_5f_HT_400_1000/,,gluon fusion higgs (finite mt) + 0/1/2 jets,,400 < HT < 1000,,xqcut = 30, qCut = 45,,47.28
+mg_pp_h012j_5f_HT_400_100000,,18,000,,9,,0,,9,,0.00,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_h012j_5f_HT_400_100000/,,gluon fusion higgs (finite mt) + 0/1/2 jets,,400 < HT < 100000,,xqcut = 30, qCut = 45,,51.44
+mg_pp_h012j_5f_HT_4400_8500,,50,000,,5,,0,,5,,0.01,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_h012j_5f_HT_4400_8500/,,gluon fusion higgs (finite mt) + 0/1/2 jets,,4400 < HT < 8500,,xqcut = 30, qCut = 45,,0.003902
+mg_pp_hh,,10,000,000,,1000,,0,,1000,,0.96,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh/,,gluon gluon fusion di-higgs,,inclusive,,,,0.65
+mg_pp_hh01j_5f,,48,950,000,,4196,,0,,4196,,6.74,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh01j_5f/,,gluon fusion di-higgs + 0/1 jets,,inclusive,,xqcut = 60, qCut = 90,,1.113
+mg_pp_jjaa_4f,,9,990,000,,999,,0,,999,,1.81,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jjaa_4f/,,dijet diphoton 4 flavor scheme,,,,,,431.2
+mg_pp_hh01j_5f_HT_0_300,,8,550,000,,855,,0,,855,,1.03,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh01j_5f_HT_0_300/,,gluon fusion di-higgs + 0/1 jets,,0 < HT < 300,,xqcut = 60, qCut = 90,,0.3501
+mg_pp_hh01j_5f_HT_1400_2900,,7,110,000,,711,,0,,711,,1.13,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh01j_5f_HT_1400_2900/,,gluon fusion di-higgs + 0/1 jets,,1400 < HT < 2900,,xqcut = 60, qCut = 90,,0.01265
+mg_pp_hh01j_5f_HT_2900_5300,,4,100,000,,410,,0,,410,,0.66,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh01j_5f_HT_2900_5300/,,gluon fusion di-higgs + 0/1 jets,,2900 < HT < 5300,,xqcut = 60, qCut = 90,,0.0007173
+mg_pp_hh01j_5f_HT_300_1400,,6,890,000,,689,,0,,689,,1.00,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh01j_5f_HT_300_1400/,,gluon fusion di-higgs + 0/1 jets,,300 < HT < 1400,,xqcut = 60, qCut = 90,,0.7453
+mg_pp_hh_lambda050_5f,,5,840,000,,584,,0,,584,,0.99,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda050_5f/,,HH, H->bb, H undec., kl = 0.50,,,,,,1.92258
+mg_pp_hh_lambda090_5f,,5,950,000,,595,,0,,595,,1.01,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda090_5f/,,HH, H->bb, H undec., kl = 0.90,,,,,,1.41752
+mg_pp_hh_lambda095_5f,,5,860,000,,586,,0,,586,,0.99,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda095_5f/,,HH, H->bb, H undec., kl = 0.95,,,,,,1.36266
+mg_pp_hh_lambda096_5f,,6,980,000,,698,,0,,698,,1.18,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda096_5f/,,HH, H->bb, H undec., kl = 0.96,,,,,,1.35191
+mg_pp_hh_lambda097_5f,,6,900,000,,690,,0,,690,,1.17,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda097_5f/,,HH, H->bb, H undec., kl = 0.97,,,,,,1.34124
+mg_pp_hh_lambda098_5f,,6,940,000,,694,,0,,694,,1.17,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda098_5f/,,HH, H->bb, H undec., kl = 0.98,,,,,,1.33063
+mg_pp_hh_lambda099_5f,,6,910,000,,691,,0,,691,,1.17,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda099_5f/,,HH, H->bb, H undec., kl = 0.99,,,,,,1.32011
+mg_pp_hh_lambda100_5f,,5,750,000,,575,,0,,575,,0.97,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda100_5f/,,HH, H->bb, H undec., kl = 1.00,,,,,,1.30965
+mg_pp_hh_lambda101_5f,,6,940,000,,694,,0,,694,,1.17,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda101_5f/,,HH, H->bb, H undec., kl = 1.01,,,,,,1.29927
+mg_pp_hh_lambda102_5f,,6,980,000,,698,,0,,698,,1.18,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda102_5f/,,HH, H->bb, H undec., kl = 1.02,,,,,,1.28896
+mg_pp_hh_lambda103_5f,,9,890,000,,989,,0,,989,,1.67,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda103_5f/,,HH, H->bb, H undec., kl = 1.03,,,,,,1.27872
+mg_pp_hh_lambda104_5f,,7,000,000,,700,,0,,700,,1.18,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda104_5f/,,HH, H->bb, H undec., kl = 1.04,,,,,,1.26856
+mg_pp_hh_lambda105_5f,,5,860,000,,586,,0,,586,,0.99,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda105_5f/,,HH, H->bb, H undec., kl = 1.05,,,,,,1.25848
+mg_pp_hh_lambda110_5f,,5,840,000,,584,,0,,584,,0.99,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda110_5f/,,HH, H->bb, H undec., kl = 1.10,,,,,,1.20914
+mg_pp_hh_lambda150_5f,,5,840,000,,584,,0,,584,,0.99,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda150_5f/,,HH, H->bb, H undec., kl = 1.50,,,,,,0.88070
+mg_pp_hhj_lambda050_5f,,5,970,000,,597,,0,,597,,0.85,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hhj_lambda050_5f/,,HH + 1 jet, pT(HH) > 200, kl = 0.50,,inclusive,,,,0.08285
+mg_pp_hhj_lambda090_5f,,5,970,000,,597,,0,,597,,0.85,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hhj_lambda090_5f/,,HH + 1 jet, pT(HH) > 200, kl = 0.90,,inclusive,,,,0.06107
+mg_pp_hhj_lambda095_5f,,31,770,000,,3177,,0,,3177,,4.55,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hhj_lambda095_5f/,,HH + 1 jet, pT(HH) > 200, kl = 0.95,,inclusive,,,,0.05870
+mg_pp_hhj_lambda100_5f,,8,750,000,,875,,0,,875,,1.25,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hhj_lambda100_5f/,,HH + 1 jet, pT(HH) > 200, kl = 1.00,,inclusive,,,,0.05644
+mg_pp_hhj_lambda105_5f,,8,820,000,,882,,0,,882,,1.26,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hhj_lambda105_5f/,,HH + 1 jet, pT(HH) > 200, kl = 1.05,,inclusive,,,,0.05424
+mg_pp_hhj_lambda110_5f,,8,830,000,,883,,0,,883,,1.26,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hhj_lambda110_5f/,,HH + 1 jet, pT(HH) > 200, kl = 1.10,,inclusive,,,,0.05209
+mg_pp_hhj_lambda150_5f,,6,920,000,,692,,0,,692,,0.99,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hhj_lambda150_5f/,,HH + 1 jet, pT(HH) > 200, kl = 1.50,,inclusive,,,,0.03793
+mg_pp_hhj_lambda200_5f,,19,430,000,,1943,,0,,1943,,2.78,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hhj_lambda200_5f/,,HH + 1 jet, pT(HH) > 200, kl = 2.00,,inclusive,,,,0.03793
+mg_pp_jjaa01j_5f,,9,075,149,,400,,0,,400,,2.18,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jjaa01j_5f/,,dijet diphoton + 0,1 jets 5 flavor scheme,,,,xqcut = 20, qCut = 30,,55.72
+mg_pp_jjaa_5f,,81,760,000,,8176,,0,,8176,,14.79,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jjaa_5f/,,dijet diphoton,,,,,,17.97
+mg_pp_jjj_5f_PT_500_inf,,19,810,000,,1981,,0,,1981,,3.70,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jjj_5f_PT_500_inf/,,tri-jet,,pT(leading) > 500 GeV,,,,3.236e+04
+mg_pp_jjja01j_5f,,15,586,634,,1386,,0,,1386,,3.86,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jjja01j_5f/,,photon +jets + 0,1 jets 5 flavor scheme,,,,xqcut = 20, qCut = 25,,4.133e+05
+mg_pp_zzzz_5f,,263,905,,111,,0,,111,,0.05,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_zzzz_5f/,,ZZZZ,,inclusive,,,,0.000461
+mg_pp_zzz_5f,,1,940,000,,194,,0,,194,,0.28,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_zzz_5f/,,ZZZ,,inclusive,,,,0.151
+mg_pp_zh,,9,990,000,,999,,0,,999,,0.99,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_zh/,,z plus higgs production,,inclusive,,,,7.42
+mg_pp_jjja_5f,,212,745,546,,21275,,0,,21277,,39.15,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jjja_5f/,,photon +jets,,,,,,1.023e05
+mg_pp_z0123j_4f_HT_500_1000,,1,970,000,,197,,0,,199,,0.42,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_z0123j_4f_HT_500_1000/,,z + 0/1/2/3 jets,,500 < HT < 1000,,xqcut = 30, qCut = 45,,3756
+mg_pp_z0123j_4f_HT_5000_100000,,1,293,629,,198,,0,,198,,0.29,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_z0123j_4f_HT_5000_100000/,,z + 0/1/2/3 jets,,5000 < HT < 100000,,xqcut = 30, qCut = 45,,4.196
+mg_pp_z0123j_4f_HT_300_500,,2,000,000,,200,,0,,200,,0.42,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_z0123j_4f_HT_300_500/,,z + 0/1/2/3 jets,,300 < HT < 500,,xqcut = 30, qCut = 45,,8958
+mg_pp_z0123j_4f_HT_2000_5000,,1,984,759,,199,,0,,199,,0.44,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_z0123j_4f_HT_2000_5000/,,z + 0/1/2/3 jets,,2000 < HT < 5000,,xqcut = 30, qCut = 45,,102.3
+mg_pp_z0123j_4f_HT_150_300,,2,000,000,,200,,0,,200,,0.40,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_z0123j_4f_HT_150_300/,,z + 0/1/2/3 jets,,150 < HT < 300,,xqcut = 30, qCut = 45,,2.944e+04
+mg_pp_z0123j_4f_HT_1000_2000,,1,990,000,,199,,0,,199,,0.44,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_z0123j_4f_HT_1000_2000/,,z + 0/1/2/3 jets,,1000 < HT < 2000,,xqcut = 30, qCut = 45,,703.8
+mg_pp_z0123j_4f_HT_0_150,,2,000,000,,200,,0,,200,,0.16,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_z0123j_4f_HT_0_150/,,z + 0/1/2/3 jets,,0 < HT < 150,,xqcut = 30, qCut = 45,,4.658e+05
+mg_pp_wzzz_5f,,232,937,,104,,0,,104,,0.04,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_wzzz_5f/,,WZZZ,,inclusive,,,,0.001633
+mg_pp_vv012j_4f_HT_0_300,,2,000,000,,200,,0,,200,,0.33,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_vv012j_4f_HT_0_300/,,di-vector boson + 0/1/2 jets (4f),,0 < HT < 300,,xqcut = 40, qCut = 60,,3.093e+04
+mg_pp_vv012j_4f_HT_1400_2900,,2,000,000,,200,,0,,200,,0.43,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_vv012j_4f_HT_1400_2900/,,di-vector boson + 0/1/2 jets (4f),,1400 < HT < 2900,,xqcut = 40, qCut = 60,,69.23
+mg_pp_vv012j_4f_HT_15000_25000,,2,009,520,,1593,,0,,1593,,0.45,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_vv012j_4f_HT_15000_25000/,,di-vector boson + 0/1/2 jets (4f),,15000 < HT < 25000,,xqcut = 40, qCut = 60,,0.009475
+mg_pp_vv012j_4f_HT_25000_35000,,1,470,930,,2351,,0,,2351,,0.34,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_vv012j_4f_HT_25000_35000/,,di-vector boson + 0/1/2 jets (4f),,25000 < HT < 35000,,xqcut = 40, qCut = 60,,0.0003517
+mg_pp_vv012j_4f_HT_2900_5300,,1,994,069,,200,,0,,200,,0.43,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_vv012j_4f_HT_2900_5300/,,di-vector boson + 0/1/2 jets (4f),,2900 < HT < 5300,,xqcut = 40, qCut = 60,,8.001
+mg_pp_vv012j_4f_HT_300_1400,,2,000,000,,200,,0,,200,,0.42,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_vv012j_4f_HT_300_1400/,,di-vector boson + 0/1/2 jets (4f),,300 < HT < 1400,,xqcut = 40, qCut = 60,,2133
+mg_pp_vv012j_5f,,20,812,217,,2082,,0,,2082,,3.49,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_vv012j_5f/,,di-vector boson + 0/1/2 jets,,inclusive,,xqcut = 40, qCut = 60,,3.39e+04
+mg_pp_vv012j_4f_HT_35000_100000,,356,126,,854,,0,,854,,0.08,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_vv012j_4f_HT_35000_100000/,,di-vector boson + 0/1/2 jets (4f),,35000 < HT < 100000,,xqcut = 40, qCut = 60,,2.07e-05
+mg_pp_vv012j_4f_HT_5300_8800,,2,034,338,,242,,0,,242,,0.44,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_vv012j_4f_HT_5300_8800/,,di-vector boson + 0/1/2 jets (4f),,5300 < HT < 8800,,xqcut = 40, qCut = 60,,0.9684
+mg_pp_vv012j_4f_HT_8800_15000,,615,317,,147,,0,,560,,0.14,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_vv012j_4f_HT_8800_15000/,,di-vector boson + 0/1/2 jets (4f),,8800 < HT < 15000,,xqcut = 40, qCut = 60,,0.1286
+mg_pp_vv_lo,,13,870,000,,1387,,0,,1387,,1.37,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_vv_lo/,,,,m > 5 TeV,,,,0.00316
+mg_pp_vv_nlo,,4,970,000,,497,,0,,497,,0.70,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_vv_nlo/,,VV (W/Z) @NLO,,pT(V) > 2.5 TeV,,,,2.926e-04
+mg_pp_vvv01j_5f,,9,990,000,,999,,0,,1000,,1.99,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_vvv01j_5f/,,tri-vector boson + 0/1 jets,,inclusive,,xqcut = 60, qCut = 90,,75.87
+mg_pp_Zprime_mumu_5f_Mzp_4TeV,,100,000,,10,,0,,10,,0.02,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_Zprime_mumu_5f_Mzp_4TeV/,,,,Zp->mu+mu-,,,,0.0005878
+mg_pp_w0123j_4f_HT_0_150,,2,000,000,,200,,0,,200,,0.16,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_w0123j_4f_HT_0_150/,,w + 0/1/2/3 jets,,0 < HT < 150,,xqcut = 30, qCut = 45,,1.478e+06
+mg_pp_w0123j_4f_HT_1000_2000,,1,990,000,,199,,0,,199,,0.44,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_w0123j_4f_HT_1000_2000/,,w + 0/1/2/3 jets,,1000 < HT < 2000,,xqcut = 30, qCut = 45,,1917
+mg_pp_w0123j_4f_HT_150_300,,1,970,000,,197,,0,,197,,0.39,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_w0123j_4f_HT_150_300/,,w + 0/1/2/3 jets,,150 < HT < 300,,xqcut = 30, qCut = 45,,8.377e+04
+mg_pp_w0123j_4f_HT_2000_5000,,1,963,796,,199,,0,,199,,0.43,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_w0123j_4f_HT_2000_5000/,,w + 0/1/2/3 jets,,2000 < HT < 5000,,xqcut = 30, qCut = 45,,273.7
+mg_pp_w0123j_4f_HT_300_500,,1,980,000,,198,,0,,198,,0.42,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_w0123j_4f_HT_300_500/,,w + 0/1/2/3 jets,,300 < HT < 500,,xqcut = 30, qCut = 45,,2.493e+04
+mg_pp_w0123j_4f_HT_5000_100000,,793,169,,99,,0,,99,,0.18,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_w0123j_4f_HT_5000_100000/,,w + 0/1/2/3 jets,,5000 < HT < 100000,,xqcut = 30, qCut = 45,,11.11
+mg_pp_w0123j_4f_HT_500_1000,,1,980,000,,198,,0,,198,,0.43,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_w0123j_4f_HT_500_1000/,,w + 0/1/2/3 jets,,500 < HT < 1000,,xqcut = 30, qCut = 45,,1.037e+04
+mg_pp_wj_4f_M_5000_inf,,5,000,000,,500,,0,,500,,0.69,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_wj_4f_M_5000_inf/,,w+ 1j,,m(wj) > 5 TeV,,,,0.3314
+mg_pp_wwww_4f,,8,918,,49,,0,,49,,0.00,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_wwww_4f/,,WWWW (4FS),,inclusive,,,,0.01361
+mg_pp_wwwz_4f,,167,702,,102,,0,,102,,0.03,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_wwwz_4f/,,WWWZ (4FS),,inclusive,,,,0.01792
+mg_pp_wwz_4f,,1,960,000,,196,,0,,196,,0.28,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_wwz_4f/,,WWZ (4FS),,inclusive,,,,1.437
+mg_pp_wwzz_4f,,156,421,,80,,0,,80,,0.03,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_wwzz_4f/,,WWZZ (4FS),,inclusive,,,,0.01247
+mg_pp_wzz_5f,,1,947,740,,195,,0,,195,,0.28,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_wzz_5f/,,WZZ,,inclusive,,,,0.4479
+mg_pp_ll012j_5f,,19,970,000,,1997,,0,,1997,,2.59,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_ll012j_5f/,,V -> ll (l=e,mu,ve,vm,vt) + ,,inclusive,,xqcut = 30, qCut = 45,,1.235e+04
+mg_pp_vbf_h01j_5f,,540,000,,54,,0,,2296,,0.10,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_vbf_h01j_5f/,,vbf higgs + 0/1 jets,,inclusive,,xqcut = 40, qCut = 60,,84.17
+mg_pp_vbf_h01j_5f_HT_0_2000,,7,120,000,,712,,0,,712,,1.28,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_vbf_h01j_5f_HT_0_2000/,,vbf higgs + 0/1 jets,,0 < HT < 2000,,xqcut = 40, qCut = 60,,83.91
+mg_pp_vbf_h01j_5f_HT_2000_4000,,7,089,788,,712,,0,,712,,1.41,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_vbf_h01j_5f_HT_2000_4000/,,vbf higgs + 0/1 jets,,2000 < HT < 4000,,xqcut = 40, qCut = 60,,0.07215
+mg_pp_lla01j_mhcut_5f,,19,970,000,,1997,,0,,1997,,3.98,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_lla01j_mhcut_5f/,,l+ l- gamma + 0/1 jets,,50 < m(lla) < 200,,,,639.1
+mg_pp_lla01j_mhcut_5f_HT_0_100,,249,525,,43,,0,,255,,0.05,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_lla01j_mhcut_5f_HT_0_100/,,l+ l- gamma + 0/1 jets,,0 < HT < 100,,xqcut = 30, qCut = 40,,39.52
+mg_pp_vbf_h01j_5f_HT_4000_7200,,4,030,479,,704,,0,,704,,0.81,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_vbf_h01j_5f_HT_4000_7200/,,vbf higgs + 0/1 jets,,4000 < HT < 7200,,xqcut = 40, qCut = 60,,0.003946
+mg_pp_vbf_h01j_5f_HT_7200_100000,,983,323,,694,,1,,695,,0.20,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_vbf_h01j_5f_HT_7200_100000/,,vbf higgs + 0/1 jets,,7200 < HT < 100000,,xqcut = 40, qCut = 60,,0.000268
+mg_pp_vbf_hh01j_5f,,698,744,,109,,0,,109,,0.16,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_vbf_hh01j_5f/,,vbf di-higgs + 0/1 jets,,inclusive,,xqcut = 60, qCut = 90,,0.06453
+mg_pp_vbf_v01j_5f,,530,,10,,0,,10,,0.00,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_vbf_v01j_5f/,,vbf vector boson + 0/1 jets,,inclusive,,xqcut = 40, qCut = 60,,7.081e+06
+mg_pp_vh012j_5f,,22,840,000,,2284,,0,,2284,,3.44,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_vh012j_5f/,,higgsstrahlung + 0/1/2 jets,,inclusive,,xqcut = 40, qCut = 60,,37.43
+mg_pp_lla01j_mhcut_5f_HT_100_300,,1,276,363,,257,,0,,257,,0.32,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_lla01j_mhcut_5f_HT_100_300/,,l+ l- gamma + 0/1 jets,,100 < HT < 300,,xqcut = 30, qCut = 40,,1.326
+mg_pp_vh012j_5f_HT_0_300,,8,640,000,,864,,1,,865,,1.18,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_vh012j_5f_HT_0_300/,,higgsstrahlung + 0/1/2 jets,,0 < HT < 300,,xqcut = 40, qCut = 60,,25.24
+mg_pp_lla01j_mhcut_5f_HT_300_100000,,7,715,,1,,0,,1,,0.00,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_lla01j_mhcut_5f_HT_300_100000/,,l+ l- gamma + 0/1 jets,,300 < HT < 100000,,xqcut = 30, qCut = 40,,0.08149
+mg_pp_lla01j_mhcut_5f_HT_300_500,,137,854,,276,,1,,277,,0.04,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_lla01j_mhcut_5f_HT_300_500/,,l+ l- gamma + 0/1 jets,,300 < HT < 500,,xqcut = 30, qCut = 40,,0.004548
+mg_pp_vh012j_5f_HT_1400_2900,,8,610,000,,861,,0,,861,,1.73,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_vh012j_5f_HT_1400_2900/,,higgsstrahlung + 0/1/2 jets,,1400 < HT < 2900,,xqcut = 40, qCut = 60,,0.3437
+mg_pp_llll_5f,,9,980,000,,998,,0,,998,,2.76,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_llll_5f/,,Z/gamma* Z/gamma* to 4l,,inclusive,,xqcut = 40, qCut = 60,,0.6045
+mg_pp_lla01j_mhcut_5f_HT_500_100000,,225,697,,617,,0,,617,,0.06,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_lla01j_mhcut_5f_HT_500_100000/,,l+ l- gamma + 0/1 jets,,500 < HT < 100000,,xqcut = 30, qCut = 40,,0.002727
+mg_pp_vh012j_5f_HT_2900_5300,,8,560,000,,856,,0,,856,,1.75,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_vh012j_5f_HT_2900_5300/,,higgsstrahlung + 0/1/2 jets,,2900 < HT < 5300,,xqcut = 40, qCut = 60,,0.03349
+mg_pp_vh012j_5f_HT_300_1400,,8,610,000,,861,,0,,861,,1.53,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_vh012j_5f_HT_300_1400/,,higgsstrahlung + 0/1/2 jets,,300 < HT < 1400,,xqcut = 40, qCut = 60,,11.7
+mg_pp_vh012j_5f_HT_5300_8800,,7,367,008,,865,,0,,865,,1.52,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_vh012j_5f_HT_5300_8800/,,higgsstrahlung + 0/1/2 jets,,5300 < HT < 8800,,xqcut = 40, qCut = 60,,0.003608
+mg_pp_llaj_mhcut_5f_HT_0_150,,14,200,152,,1589,,1,,1590,,3.07,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_llaj_mhcut_5f_HT_0_150/,,l+ l- gamma + 1 jet,,0 < HT < 150,,,,5.504
+mg_pp_vh012j_5f_HT_8800_100000,,2,848,791,,858,,2,,860,,0.60,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_vh012j_5f_HT_8800_100000/,,higgsstrahlung + 0/1/2 jets,,8800 < HT < 100000,,xqcut = 40, qCut = 60,,0.0004647
+mg_pp_vj_4f_M_5000_inf,,9,560,000,,956,,0,,956,,1.32,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_vj_4f_M_5000_inf/,,w/z+ 1j,,m(vj) > 5 TeV,,,,0.4679
+mg_pp_llaj_mhcut_5f_HT_150_100000,,513,040,,401,,0,,401,,0.11,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_llaj_mhcut_5f_HT_150_100000/,,l+ l- gamma + 1 jet,,150 < HT < 100000,,,,0.2045
+mg_pp_llll01j_5f,,12,290,000,,1229,,0,,1229,,3.67,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_llll01j_5f/,,Z/gamma* Z/gamma* to 4l + 0/1 jets,,inclusive,,xqcut = 40, qCut = 60,,0.899
+mg_pp_llll01j_mhcut_5f,,9,990,000,,999,,0,,999,,2.64,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_llll01j_mhcut_5f/,,4l + 0/1 jets,,50 < m(4l) < 200,,,,0.1517
+mg_pp_llll01j_mhcut_5f_HT_0_200,,4,330,000,,433,,0,,433,,1.10,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_llll01j_mhcut_5f_HT_0_200/,,Z/gamma* Z/gamma* to 4l + 0/1 jets,,0 < HT < 200,,xqcut = 40, qCut = 60,,0.04957
+mg_pp_llll01j_mhcut_5f_HT_1100_100000,,555,175,,419,,0,,419,,0.16,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_llll01j_mhcut_5f_HT_1100_100000/,,Z/gamma* Z/gamma* to 4l + 0/1 jets,,1100 < HT < 100000,,xqcut = 40, qCut = 60,,1.361e-07
+mg_pp_llll01j_mhcut_5f_HT_200_500,,4,380,000,,438,,0,,438,,1.27,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_llll01j_mhcut_5f_HT_200_500/,,Z/gamma* Z/gamma* to 4l + 0/1 jets,,200 < HT < 500,,xqcut = 40, qCut = 60,,0.0002159
+mg_pp_llll01j_mhcut_5f_HT_500_1100,,3,600,096,,441,,0,,441,,1.03,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_llll01j_mhcut_5f_HT_500_1100/,,Z/gamma* Z/gamma* to 4l + 0/1 jets,,500 < HT < 1100,,xqcut = 40, qCut = 60,,5.573e-06
+mg_pp_llv01j_5f,,9,941,219,,999,,0,,999,,1.82,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_llv01j_5f/,, di-vector with V -> ll (l=e,mu,ve,vm,vt) + 0/1 jets,,inclusive,,xqcut = 40, qCut = 60,,110.3
+mg_pp_mumu012j_mhcut_5f,,19,880,000,,1988,,5,,1993,,2.92,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_mumu012j_mhcut_5f/,,mu+ mu- + 0/1/2 jets,,50 < m(mumu) < 200,,,,1.4e+04
+total,,1,269,090,976,,135,270,,11.0,,138,154.0,,231.79,,,,
