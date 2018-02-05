@@ -32,7 +32,7 @@
     <ul>
       <li><a href="data/statlhe_FCC.html">LHE 100TeV</a></li>
       <li><a href="data/statlhe_HELHC.html">LHE 27TeV</a></li>
-      <li><a href="data/statdelphesfcc_v02_HELHC.html">FCC v02</a></li>
+      <li><a href="data/statdelphesfcc_v02_FCC.html">FCC v02</a></li>
       <li><a href="data/statdelpheshelhc_v01_HELHC.html">HE-LHC v01</a></li>
     </ul>
   </li>
