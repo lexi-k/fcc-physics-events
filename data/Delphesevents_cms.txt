@@ -1,31 +1,10 @@
-pp_Zprime_10TeV_ll,,1,960,000,,1,960,000,,196,,0,,0,,196,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/pp_Zprime_10TeV_ll/,,10TeV Z'(SSM) -> ll (l=e,mu,tau),,,,5.914e-3,,1.0,,1.0
-pp_Zprime_10TeV_ttbar,,2,000,000,,2,000,000,,200,,0,,0,,200,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/pp_Zprime_10TeV_ttbar/,,10TeV Z' -> ttbar,,,,0.0175724,,1.0,,1.0
-pp_Zprime_15TeV_ll,,2,000,000,,2,000,000,,200,,0,,0,,200,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/pp_Zprime_15TeV_ll/,,15TeV Z'(SSM) -> ll (l=e,mu,tau),,,,7.989e-4,,1.0,,1.0
-pp_Zprime_15TeV_ttbar,,2,000,000,,2,000,000,,200,,0,,0,,200,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/pp_Zprime_15TeV_ttbar/,,15TeV Z' -> ttbar,,,,0.002439429,,1.0,,1.0
-pp_Zprime_20TeV_ll,,1,950,000,,1,950,000,,195,,0,,0,,195,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/pp_Zprime_20TeV_ll/,,20TeV Z'(SSM) -> ll (l=e,mu,tau),,,,1.639e-4,,1.0,,1.0
-pp_Zprime_20TeV_ttbar,,1,990,000,,1,990,000,,199,,0,,0,,199,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/pp_Zprime_20TeV_ttbar/,,20TeV Z' -> ttbar,,,,0.0004845249,,1.0,,1.0
-pp_Zprime_25TeV_ll,,1,960,000,,1,960,000,,196,,0,,0,,196,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/pp_Zprime_25TeV_ll/,,25TeV Z'(SSM) -> ll (l=e,mu,tau),,,,4.437e-5,,1.0,,1.0
-pp_Zprime_25TeV_ttbar,,1,990,000,,1,990,000,,199,,0,,0,,199,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/pp_Zprime_25TeV_ttbar/,,25TeV Z' -> ttbar,,,,0.0001164359,,1.0,,1.0
-pp_Zprime_2TeV_ttbar,,2,000,000,,2,000,000,,200,,0,,0,,200,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/pp_Zprime_2TeV_ttbar/,,2TeV Z' -> ttbar,,,,7.6378,,1.0,,1.0
-pp_Zprime_30TeV_ll,,1,950,000,,1,950,000,,195,,0,,0,,195,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/pp_Zprime_30TeV_ll/,,30TeV Z'(SSM) -> ll (l=e,mu,tau),,,,1.375e-5,,1.0,,1.0
-pp_Zprime_30TeV_ttbar,,1,990,000,,1,990,000,,199,,0,,0,,199,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/pp_Zprime_30TeV_ttbar/,,30TeV Z' -> ttbar,,,,3.16759213029e-05,,1.0,,1.0
-pp_Zprime_35TeV_ll,,1,990,000,,1,990,000,,199,,0,,0,,199,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/pp_Zprime_35TeV_ll/,,35TeV Z'(SSM) -> ll (l=e,mu,tau),,,,4.821e-6,,1.0,,1.0
-pp_Zprime_35TeV_ttbar,,2,000,000,,2,000,000,,200,,0,,0,,200,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/pp_Zprime_35TeV_ttbar/,,35TeV Z' -> ttbar,,,,9.65649631373e-06,,1.0,,1.0
-pp_Zprime_40TeV_ll,,1,980,000,,1,980,000,,198,,0,,0,,198,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/pp_Zprime_40TeV_ll/,,40TeV Z'(SSM) -> ll (l=e,mu,tau),,,,2.171e-6,,1.0,,1.0
-pp_Zprime_40TeV_ttbar,,1,980,000,,1,980,000,,198,,0,,0,,198,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/pp_Zprime_40TeV_ttbar/,,40TeV Z' -> ttbar,,,,3.4131033281e-06,,1.0,,1.0
-pp_Zprime_45TeV_ll,,1,990,000,,1,990,000,,199,,0,,0,,199,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/pp_Zprime_45TeV_ll/,,45TeV Z'(SSM) -> ll (l=e,mu,tau),,,,1.165e-6,,1.0,,1.0
-pp_Zprime_50TeV_ll,,1,980,000,,1,980,000,,198,,0,,0,,198,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/pp_Zprime_50TeV_ll/,,50TeV Z'(SSM) -> ll (l=e,mu,tau),,,,6.863e-7,,1.0,,1.0
-pp_Zprime_5TeV_ll,,1,990,000,,1,990,000,,199,,0,,0,,199,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/pp_Zprime_5TeV_ll/,,5TeV Z'(SSM) -> ll (l=e,mu,tau),,,,1.043e-1,,1.0,,1.0
-pp_Zprime_5TeV_ttbar,,1,990,000,,1,990,000,,199,,0,,0,,199,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/pp_Zprime_5TeV_ttbar/,,5TeV Z' -> ttbar,,,,0.305493,,1.0,,1.0
-pp_jj_PT_10000_12000,,1,990,000,,1,990,000,,199,,0,,0,,199,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/pp_jj_PT_10000_12000/,,di-jet,,10000 < PT < 12000,,9.919e-03,,1.0,,1.0
-pp_jj_PT_1000_2000,,1,940,000,,1,940,000,,194,,0,,0,,194,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/pp_jj_PT_1000_2000/,,di-jet,,1000 < PT < 2000,,3.472e+03,,1.0,,1.0
-pp_jj_PT_12000_14000,,1,980,000,,1,980,000,,198,,0,,0,,200,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/pp_jj_PT_12000_14000/,,di-jet,,12000 < PT < 14000,,2.348e-03,,1.0,,1.0
-pp_jj_PT_14000_16000,,1,930,000,,1,930,000,,193,,0,,0,,199,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/pp_jj_PT_14000_16000/,,di-jet,,14000 < PT < 16000,,6.380e-04,,1.0,,1.0
-pp_jj_PT_16000_20000,,1,970,000,,1,970,000,,197,,0,,0,,199,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/pp_jj_PT_16000_20000/,,di-jet,,16000 < PT < 20000,,2.268e-04,,1.0,,1.0
-pp_jj_PT_20000_100000,,1,980,000,,1,980,000,,198,,0,,0,,199,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/pp_jj_PT_20000_100000/,,di-jet,,20000 < PT < 100000,,2.541e-05,,1.0,,1.0
-pp_jj_PT_2000_4000,,1,940,000,,1,940,000,,194,,0,,0,,194,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/pp_jj_PT_2000_4000/,,di-jet,,2000 < PT < 4000,,1.475e+02,,1.0,,1.0
-pp_jj_PT_4000_6000,,1,970,000,,1,970,000,,197,,0,,0,,197,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/pp_jj_PT_4000_6000/,,di-jet,,4000 < PT < 6000,,3.891e+00,,1.0,,1.0
-pp_jj_PT_500_1000,,1,910,000,,1,910,000,,191,,0,,0,,191,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/pp_jj_PT_500_1000/,,di-jet,,500 < PT < 1000,,7.166e+04,,1.0,,1.0
-pp_jj_PT_6000_8000,,1,960,000,,1,960,000,,196,,0,,0,,196,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/pp_jj_PT_6000_8000/,,di-jet,,6000 < PT < 8000,,3.252e-01,,1.0,,1.0
-pp_jj_PT_8000_10000,,1,880,000,,1,880,000,,188,,0,,0,,188,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/pp_jj_PT_8000_10000/,,di-jet,,8000 < PT < 10000,,5.247e-02,,1.0,,1.0
-pp_ll012j_5f_HT_0_200,,1,649,214,,1,649,148,,194,,0,,0,,194,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/pp_ll012j_5f_HT_0_200/,,V -> ll (l=e,mu,ve,vm,vt) + ,,0 < HT < 200,,1.158e+04,,1.20,,0.85
+p8_pp_Zprime_15TeV_ll,,1,000,000,,0,,100,,0,,100,,15.33,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/p8_pp_Zprime_15TeV_ll/,,15TeV Z'(SSM) -> ll (l=e,mu,tau),,,,7.989e-4,,1.0,,1.0
+p8_pp_Zprime_20TeV_ll,,1,000,000,,0,,100,,0,,100,,15.67,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/p8_pp_Zprime_20TeV_ll/,,20TeV Z'(SSM) -> ll (l=e,mu,tau),,,,1.639e-4,,1.0,,1.0
+p8_pp_Zprime_25TeV_ll,,1,000,000,,0,,100,,0,,100,,15.58,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/p8_pp_Zprime_25TeV_ll/,,25TeV Z'(SSM) -> ll (l=e,mu,tau),,,,4.437e-5,,1.0,,1.0
+p8_pp_Zprime_30TeV_ll,,1,000,000,,0,,100,,0,,100,,15.16,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/p8_pp_Zprime_30TeV_ll/,,30TeV Z'(SSM) -> ll (l=e,mu,tau),,,,1.375e-5,,1.0,,1.0
+p8_pp_Zprime_35TeV_ll,,1,000,000,,0,,100,,0,,100,,14.45,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/p8_pp_Zprime_35TeV_ll/,,35TeV Z'(SSM) -> ll (l=e,mu,tau),,,,4.821e-6,,1.0,,1.0
+p8_pp_Zprime_40TeV_ll,,1,000,000,,0,,100,,0,,100,,13.68,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/p8_pp_Zprime_40TeV_ll/,,40TeV Z'(SSM) -> ll (l=e,mu,tau),,,,2.171e-6,,1.0,,1.0
+p8_pp_Zprime_45TeV_ll,,1,000,000,,0,,100,,0,,100,,13.09,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/p8_pp_Zprime_45TeV_ll/,,45TeV Z'(SSM) -> ll (l=e,mu,tau),,,,1.165e-6,,1.0,,1.0
+p8_pp_Zprime_50TeV_ll,,1,000,000,,0,,100,,0,,100,,12.75,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/p8_pp_Zprime_50TeV_ll/,,50TeV Z'(SSM) -> ll (l=e,mu,tau),,,,6.863e-7,,1.0,,1.0
+mgp8_pp_mumu_lo,,10,000,000,,0,,1000,,0,,1000,,220.14,,/eos/experiment/fcc/hh/generation/DelphesEvents/cms/mgp8_pp_mumu_lo/,,,,m > 10 TeV,,9.428e-06,,2.0,,1.0
+total,,18,000,000,,0.0,,1,800,,0.0,,1,800.0,,335.85,,,,

@@ -7,7 +7,6 @@
   <li><b href="#">100TeV FCC Physics</b>
     <ul>
       <li><a href="LHEevents.php">LHE 100TeV</a></li>
-      <li><a href="Delphesevents_fcc_v01.php">FCC v01</a></li>
       <li><a href="Delphesevents_fcc_v02.php">FCC v02</a></li>
       <li><a href="Delphesevents_cms.php">CMS</a></li>
     </ul>

@@ -21,7 +21,7 @@ $rows        = explode("\n", $txt_file);
 
 
 
-$lname=array('NO','Dir','Nevents','Nfiles','Neos','Nbad', 'Size(GB)','aleksa','azaborow','cneubuse','djamin','helsens','jhrdinka','novaj','selvaggi','vavolkl');
+$lname=array('NO','Dir','Nevents','Nfiles','Neos','Nbad', 'Size(GB)','aleksa','azaborow','cneubuse','djamin','helsens','jhrdinka','jkiesele','novaj','selvaggi','vavolkl');
 
 
 
