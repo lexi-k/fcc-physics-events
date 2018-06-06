@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>FCC LHE</title>
+<title>fcc v02 ATLAS</title>
 
 <style>
 <?php include 'style/main.css'; ?>
