@@ -162,7 +162,7 @@ mg_pp_tt012j_5f_HT_35000_100000,,716,280,,100,,0,,100,,0.16,,/eos/experiment/fcc
 mg_pp_tt012j_5f_HT_5300_8100,,3,090,000,,309,,0,,309,,0.66,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_tt012j_5f_HT_5300_8100/,,top pair + 0/1/2 jets,,5300 < HT < 8100,,xqcut = 60, qCut = 90,,6.484
 mg_pp_tt012j_5f_HT_600_1200,,6,950,000,,695,,0,,695,,1.32,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_tt012j_5f_HT_600_1200/,,top pair + 0/1/2 jets,,600 < HT < 1200,,xqcut = 60, qCut = 90,,8883
 mg_pp_tt012j_5f_HT_8100_15000,,3,090,000,,309,,0,,309,,0.67,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_tt012j_5f_HT_8100_15000/,,top pair + 0/1/2 jets,,8100 < HT < 15000,,xqcut = 60, qCut = 90,,0.8583
-mg_pp_tt2l_4f,,9,810,000,,981,,0,,981,,2.10,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_tt2l_4f/,,tt2l non resonant,,inclusive,,,,4.389
+mg_pp_tt2l_4f,,19,980,000,,1998,,0,,1998,,4.28,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_tt2l_4f/,,tt2l non resonant,,inclusive,,,,4.389
 mg_pp_tt4l_4f,,3,090,000,,309,,0,,309,,0.91,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_tt4l_4f/,,tt4l non resonant,,inclusive,,,,4.122e-05
 mg_pp_tt_lo,,9,810,000,,981,,0,,981,,0.97,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_tt_lo/,,,,m > 5 TeV,,,,0.1373
 mg_pp_tt_nlo,,5,000,000,,500,,0,,500,,0.71,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_tt_nlo/,,ttbar @NLO,,pT(top) > 2.5 TeV,,,,2.008e-02
@@ -201,7 +201,7 @@ mg_pp_mumu_lo,,10,060,000,,1006,,0,,1006,,0.98,,/eos/experiment/fcc/hh/generatio
 mg_pp_mumu_lo_2TeV,,5,000,000,,500,,0,,500,,0.49,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_mumu_lo_2TeV/,,,,pT > 2 TeV,,,,0.00717
 mg_pp_Zprime_mumu_5f_Mzp_45TeV,,1,000,000,,100,,0,,100,,0.14,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_Zprime_mumu_5f_Mzp_45TeV/,,,,Zp->mu+mu-,,,,4.64e-06
 mg_pp_tautau_lo,,9,950,000,,995,,0,,995,,0.97,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_tautau_lo/,,,,m > 5 TeV,,,,0.0002289
-mg_pp_jj012j_5f_HT_0_500,,621,147,,63,,0,,63,,0.08,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_0_500/,,di-jet + 0/1/2 jets,,0 < HT < 500,,xqcut = 20, qCut = 30,,6.517e+09
+mg_pp_jj012j_5f_HT_0_500,,2,772,942,,281,,0,,281,,0.38,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_0_500/,,di-jet + 0/1/2 jets,,0 < HT < 500,,xqcut = 20, qCut = 30,,6.517e+09
 mg_pp_tt012j_5f_HT_0_600,,2,500,000,,58,,0,,58,,0.36,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_tt012j_5f_HT_0_600/,,top pair + 0/1/2 jets,,0 < HT < 600,,xqcut = 60, qCut = 90,,3.207e+04
 mg_pp_tt012j_5f_HT_1200_2100,,1,590,000,,59,,0,,59,,0.32,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_tt012j_5f_HT_1200_2100/,,top pair + 0/1/2 jets,,1200 < HT < 2100,,xqcut = 60, qCut = 90,,1737
 mg_pp_ttj_4f,,39,210,000,,3921,,0,,3921,,5.72,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_ttj_4f/,,tt + 1j in 4f,,pT(j) > 150 GeV,,,,4789
@@ -209,14 +209,14 @@ mg_pp_tt012j_5f_HT_2100_3400,,3,190,000,,179,,0,,179,,0.67,,/eos/experiment/fcc/
 mg_pp_tt012j_5f_HT_3400_5300,,3,190,000,,179,,0,,179,,0.68,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_tt012j_5f_HT_3400_5300/,,top pair + 0/1/2 jets,,3400 < HT < 5300,,xqcut = 60, qCut = 90,,44.91
 mg_pp_tt012j_5f_HT_15000_25000,,540,000,,54,,0,,54,,0.12,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_tt012j_5f_HT_15000_25000/,,top pair + 0/1/2 jets,,15000 < HT < 25000,,xqcut = 60, qCut = 90,,0.0219
 mg_pp_tt012j_5f_HT_25000_35000,,530,000,,53,,0,,53,,0.12,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_tt012j_5f_HT_25000_35000/,,top pair + 0/1/2 jets,,25000 < HT < 35000,,xqcut = 60, qCut = 90,,0.0004247
-mg_pp_jj012j_5f_HT_1000_2000,,570,000,,57,,0,,57,,0.13,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_1000_2000/,,di-jet + 0/1/2 jets,,1000 < HT < 2000,,xqcut = 20, qCut = 30,,1.673e+06
-mg_pp_jj012j_5f_HT_15000_25000,,199,000,,199,,0,,199,,0.05,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_15000_25000/,,di-jet + 0/1/2 jets,,15000 < HT < 25000,,xqcut = 20, qCut = 30,,7.349
-mg_pp_jj012j_5f_HT_2000_4000,,405,465,,41,,0,,41,,0.09,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_2000_4000/,,di-jet + 0/1/2 jets,,2000 < HT < 4000,,xqcut = 20, qCut = 30,,1.32e+05
-mg_pp_jj012j_5f_HT_25000_35000,,197,000,,197,,0,,197,,0.05,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_25000_35000/,,di-jet + 0/1/2 jets,,25000 < HT < 35000,,xqcut = 20, qCut = 30,,0.1759
-mg_pp_jj012j_5f_HT_35000_100000,,195,000,,195,,0,,195,,0.05,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_35000_100000/,,di-jet + 0/1/2 jets,,35000 < HT < 100000,,xqcut = 20, qCut = 30,,0.007654
-mg_pp_jj012j_5f_HT_4000_7200,,450,000,,45,,0,,45,,0.10,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_4000_7200/,,di-jet + 0/1/2 jets,,4000 < HT < 7200,,xqcut = 20, qCut = 30,,7316
-mg_pp_jj012j_5f_HT_500_1000,,182,859,,22,,0,,22,,0.04,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_500_1000/,,di-jet + 0/1/2 jets,,500 < HT < 1000,,xqcut = 20, qCut = 30,,1.642e+07
-mg_pp_jj012j_5f_HT_7200_15000,,230,000,,23,,0,,23,,0.05,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_7200_15000/,,di-jet + 0/1/2 jets,,7200 < HT < 15000,,xqcut = 20, qCut = 30,,474.9
+mg_pp_jj012j_5f_HT_1000_2000,,97,085,602,,<h2><mark>9940</mark></h2>,,0,,<h2><mark>10168</mark></h2>,,21.37,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_1000_2000/,,di-jet + 0/1/2 jets,,1000 < HT < 2000,,xqcut = 20, qCut = 30,,1.673e+06
+mg_pp_jj012j_5f_HT_15000_25000,,9,836,701,,1267,,0,,1267,,2.26,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_15000_25000/,,di-jet + 0/1/2 jets,,15000 < HT < 25000,,xqcut = 20, qCut = 30,,7.349
+mg_pp_jj012j_5f_HT_2000_4000,,25,273,720,,<h2><mark>2808</mark></h2>,,0,,<h2><mark>3690</mark></h2>,,5.67,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_2000_4000/,,di-jet + 0/1/2 jets,,2000 < HT < 4000,,xqcut = 20, qCut = 30,,1.32e+05
+mg_pp_jj012j_5f_HT_25000_35000,,910,025,,330,,0,,330,,0.21,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_25000_35000/,,di-jet + 0/1/2 jets,,25000 < HT < 35000,,xqcut = 20, qCut = 30,,0.1759
+mg_pp_jj012j_5f_HT_35000_100000,,746,668,,430,,0,,430,,0.17,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_35000_100000/,,di-jet + 0/1/2 jets,,35000 < HT < 100000,,xqcut = 20, qCut = 30,,0.007654
+mg_pp_jj012j_5f_HT_4000_7200,,10,709,225,,1105,,0,,1105,,2.43,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_4000_7200/,,di-jet + 0/1/2 jets,,4000 < HT < 7200,,xqcut = 20, qCut = 30,,7316
+mg_pp_jj012j_5f_HT_500_1000,,96,491,060,,12918,,0,,12918,,20.75,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_500_1000/,,di-jet + 0/1/2 jets,,500 < HT < 1000,,xqcut = 20, qCut = 30,,1.642e+07
+mg_pp_jj012j_5f_HT_7200_15000,,10,922,305,,1102,,0,,1102,,2.49,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_7200_15000/,,di-jet + 0/1/2 jets,,7200 < HT < 15000,,xqcut = 20, qCut = 30,,474.9
 mg_pp_ll012j_5f_HT_0_200,,100,000,,10,,0,,10,,0.01,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_ll012j_5f_HT_0_200/,,V -> ll (l=e,mu,ve,vm,vt) + ,,0 < HT < 200,,xqcut = 30, qCut = 45,,1.158e+04
 mg_pp_ll012j_5f_HT_15000_25000,,70,000,,7,,0,,7,,0.02,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_ll012j_5f_HT_15000_25000/,,V -> ll (l=e,mu,ve,vm,vt) + ,,15000 < HT < 25000,,xqcut = 30, qCut = 45,,0.000314
 mg_pp_ll012j_5f_HT_1500_2700,,100,000,,10,,0,,10,,0.02,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_ll012j_5f_HT_1500_2700/,,V -> ll (l=e,mu,ve,vm,vt) + ,,1500 < HT < 2700,,xqcut = 30, qCut = 45,,3.723
@@ -231,7 +231,7 @@ mg_pp_tthh01j_5f,,100,000,,10,,0,,10,,0.02,,/eos/experiment/fcc/hh/generation/lh
 mg_pp_wwjj_2l2v_LL,,5,408,,3,,0,,3,,0.00,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_wwjj_2l2v_LL/,,WW(LL) + jj EWK same sign,,inclusive,,,,0.489
 mg_pp_wwjj_2l2v_TL,,31,012,,3,,0,,3,,0.01,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_wwjj_2l2v_TL/,,WW(TL) + jj EWK same sign,,inclusive,,,,2.8
 mg_pp_wwjj_2l2v_TT,,49,811,,3,,0,,3,,0.02,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_wwjj_2l2v_TT/,,WW(TT) + jj EWK same sign,,inclusive,,,,4.51
-mg_pp_ttbb_4f,,30,671,365,,<h2><mark>7559</mark></h2>,,0,,<h2><mark>7775</mark></h2>,,5.45,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_ttbb_4f/,,tt+bb in 4f,,pT(bb) > 150 GeV,,,,86.69
+mg_pp_ttbb_4f,,36,072,443,,8873,,0,,8873,,6.41,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_ttbb_4f/,,tt+bb in 4f,,pT(bb) > 150 GeV,,,,86.69
 mg_pp_tt012j_5f,,19,710,000,,1971,,0,,1971,,3.12,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_tt012j_5f/,,top pair + 0/1/2 jets,,inclusive,,xqcut = 60, qCut = 90,,4.311e+04
 mg_pp_tt_tlep_act,,990,000,,99,,0,,99,,0.29,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_tt_tlep_act/,,top pair FCNC tca,,,,,,1.0
 mg_pp_tt_tlep_aut,,990,000,,99,,0,,99,,0.29,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_tt_tlep_aut/,,top pair FCNC tua,,,,,,1.0
@@ -249,6 +249,7 @@ mg_pp_zzjj_4l_LL,,30,072,,4,,0,,0,,0.01,,/eos/experiment/fcc/hh/generation/lhe//
 mg_pp_zzjj_4l_TL,,309,527,,31,,0,,0,,0.08,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_zzjj_4l_TL/,,ZZ(TL) + jj EWK ,,inclusive,,,,51.23
 mg_pp_zzjj_4l_TT,,551,095,,56,,0,,0,,0.15,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_zzjj_4l_TT/,,ZZ(TT) + jj EWK ,,inclusive,,,,51.23
 mg_pp_lllljj_5f,,19,640,000,,1964,,0,,1964,,6.44,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_lllljj_5f/,,ZZbb non resonant,,inclusive,,,,0.242
+mg_pp_jjjj_5f,,970,000,,97,,0,,0,,0.22,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jjjj_5f/,,,,,,,,
 mg_pp_w0123j_4f,,980,000,,98,,0,,98,,0.09,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_w0123j_4f/,,w + 0/1/2/3 jets,,inclusive,,xqcut = 30, qCut = 45,,1.599e+06
 mg_pp_tt_hadronic_aut,,987,100,,988,,0,,988,,0.37,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_tt_hadronic_aut/,,top pair FCNC tua,,pT>1TeV,,,,1.0
 mg_pp_jj_lo_PT_1000_2500,,29,720,000,,2972,,0,,2972,,3.05,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj_lo_PT_1000_2500/,,,,2.5 > pT > 1 TeV,,,,3021
@@ -272,6 +273,7 @@ mg_pp_stopstop_5f_mStop_5p0TeV,,160,000,,25,,0,,25,,0.02,,/eos/experiment/fcc/hh
 mg_pp_stopstop_5f_mStop_5p5TeV,,100,000,,10,,0,,10,,0.01,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_stopstop_5f_mStop_5p5TeV/,,,,inclusive,,,,0.0002802
 mg_pp_stopstop_5f_mStop_6p0TeV,,159,000,,24,,0,,24,,0.02,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_stopstop_5f_mStop_6p0TeV/,,,,inclusive,,,,0.0001573
 mg_pp_stopstop_5f_mStop_6p5TeV,,80,000,,8,,0,,8,,0.01,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_stopstop_5f_mStop_6p5TeV/,,,,inclusive,,,,9.056e-05
+mg_pp_bbbb,,100,000,,10,,0,,0,,0.02,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_bbbb/,,,,,,,,
 mg_pp_stopstop_5f_mStop_7p0TeV,,179,000,,26,,0,,26,,0.02,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_stopstop_5f_mStop_7p0TeV/,,,,inclusive,,,,5.359e-05
 mg_pp_stopstop_5f_mStop_7p5TeV,,100,000,,10,,0,,10,,0.01,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_stopstop_5f_mStop_7p5TeV/,,,,inclusive,,,,3.238e-05
 mg_pp_stopstop_5f_mStop_8p0TeV,,189,000,,27,,0,,27,,0.02,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_stopstop_5f_mStop_8p0TeV/,,,,inclusive,,,,1.985e-05
@@ -334,6 +336,7 @@ mg_pp_tautau_5f_HT_10000_27000,,4,950,000,,495,,0,,495,,0.48,,/eos/experiment/fc
 mg_pp_tautau_5f_HT_27000_100000,,4,960,000,,496,,0,,496,,0.47,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_tautau_5f_HT_27000_100000/,,tautau,,27000 < HT < 100000,,no matching,,8.537e-09
 mg_pp_wwjj_ss_2l2v_QED2_QCD2_LL,,48,284,,5,,0,,5,,0.01,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_wwjj_ss_2l2v_QED2_QCD2_LL/,,WW(LL) + jj QCD same sign,,inclusive,,,,0.489
 mg_pp_zzjj_4l_QED4_QCD0_LL,,40,000,,4,,0,,4,,0.01,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_zzjj_4l_QED4_QCD0_LL/,,ZZ(LL) + jj EWK,,inclusive,,,,0.489
+mg_gg_hh_2HDM,,10,000,,1,,0,,0,,0.00,,/eos/experiment/fcc/hh/generation/lhe//mg_gg_hh_2HDM/,,,,,,,,
 mg_pp_zzjj_4l_QED4_QCD0_TL,,354,268,,36,,0,,36,,0.10,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_zzjj_4l_QED4_QCD0_TL/,,ZZ(TL) + jj EWK,,inclusive,,,,0.489
 mg_pp_zzjj_4l_QED4_QCD0_TT,,586,653,,59,,0,,59,,0.16,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_zzjj_4l_QED4_QCD0_TT/,,ZZ(TT) + jj EWK,,inclusive,,,,0.489
 mg_pp_wwjj_ss_2l2v_QED4_QCD0_LL,,36,793,,4,,0,,4,,0.01,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_wwjj_ss_2l2v_QED4_QCD0_LL/,,WW(LL) + jj EWK same sign,,inclusive,,,,0.489
@@ -347,4 +350,29 @@ mg_pp_wwjj_ss_2l2v_QED4_TT,,202,336,,21,,0,,0,,0.05,,/eos/experiment/fcc/hh/gene
 mg_pp_zzjj_4l_QED4_LL,,30,072,,4,,0,,0,,0.01,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_zzjj_4l_QED4_LL/,,,,,,,,
 mg_pp_zzjj_4l_QED4_TL,,309,527,,31,,0,,0,,0.08,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_zzjj_4l_QED4_TL/,,,,,,,,
 mg_pp_zzjj_4l_QED4_TT,,551,095,,56,,0,,0,,0.15,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_zzjj_4l_QED4_TT/,,,,,,,,
-total,,2,153,985,242,,237,698,,0.0,,236,774.0,,361.63,,,,
+mg_pp_LQ_mumu_5f_MLQ_2TeV,,1,000,000,,100,,0,,100,,0.14,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_LQ_mumu_5f_MLQ_2TeV/,,bs->mumu (t-channel LQ),,,,,,1.183e-06
+mg_pp_LQ_mumu_5f_MLQ_4TeV,,980,000,,98,,0,,98,,0.14,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_LQ_mumu_5f_MLQ_4TeV/,,bs->mumu (t-channel LQ),,,,,,3.892e-06
+mg_pp_LQ_mumu_5f_MLQ_6TeV,,980,000,,98,,0,,98,,0.14,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_LQ_mumu_5f_MLQ_6TeV/,,bs->mumu (t-channel LQ),,,,,,5.98e-06
+mg_pp_LQ_mumu_5f_MLQ_8TeV,,1,000,000,,100,,0,,100,,0.14,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_LQ_mumu_5f_MLQ_8TeV/,,bs->mumu (t-channel LQ),,,,,,7.485e-06
+mg_pp_LQ_mumu_5f_MLQ_10TeV,,1,000,000,,100,,0,,100,,0.14,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_LQ_mumu_5f_MLQ_10TeV/,,bs->mumu (t-channel LQ),,,,,,8.529e-06
+mg_pp_LQ_mumu_5f_MLQ_12TeV,,990,000,,99,,0,,99,,0.14,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_LQ_mumu_5f_MLQ_12TeV/,,bs->mumu (t-channel LQ),,,,,,9.259e-06
+mg_pp_LQ_mumu_5f_MLQ_14TeV,,1,000,000,,100,,0,,100,,0.14,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_LQ_mumu_5f_MLQ_14TeV/,,bs->mumu (t-channel LQ),,,,,,9.876e-06
+mg_pp_LQ_mumu_5f_MLQ_16TeV,,1,000,000,,100,,0,,100,,0.14,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_LQ_mumu_5f_MLQ_16TeV/,,bs->mumu (t-channel LQ),,,,,,1.028e-05
+mg_pp_LQ_mumu_5f_MLQ_18TeV,,1,000,000,,100,,0,,100,,0.14,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_LQ_mumu_5f_MLQ_18TeV/,,bs->mumu (t-channel LQ),,,,,,1.059e-05
+mg_pp_LQ_mumu_5f_MLQ_20TeV,,990,000,,99,,0,,99,,0.14,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_LQ_mumu_5f_MLQ_20TeV/,,bs->mumu (t-channel LQ),,,,,,1.085e-05
+mg_pp_LQ_mumu_5f_MLQ_22TeV,,1,000,000,,100,,0,,100,,0.14,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_LQ_mumu_5f_MLQ_22TeV/,,bs->mumu (t-channel LQ),,,,,,1.105e-05
+mg_pp_LQ_mumu_5f_MLQ_24TeV,,980,000,,98,,0,,98,,0.14,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_LQ_mumu_5f_MLQ_24TeV/,,bs->mumu (t-channel LQ),,,,,,1.12e-05
+mg_pp_LQ_mumu_5f_MLQ_26TeV,,1,000,000,,100,,0,,100,,0.14,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_LQ_mumu_5f_MLQ_26TeV/,,bs->mumu (t-channel LQ),,,,,,1.133e-05
+mg_pp_LQ_mumu_5f_MLQ_28TeV,,1,000,000,,100,,0,,100,,0.14,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_LQ_mumu_5f_MLQ_28TeV/,,bs->mumu (t-channel LQ),,,,,,1.142e-05
+mg_pp_LQ_mumu_5f_MLQ_30TeV,,1,000,000,,100,,0,,100,,0.14,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_LQ_mumu_5f_MLQ_30TeV/,,bs->mumu (t-channel LQ),,,,,,1.152e-05
+mg_pp_LQ_mumu_5f_MLQ_32TeV,,990,000,,99,,0,,99,,0.14,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_LQ_mumu_5f_MLQ_32TeV/,,bs->mumu (t-channel LQ),,,,,,1.158e-05
+mg_pp_LQ_mumu_5f_MLQ_34TeV,,1,000,000,,100,,0,,100,,0.14,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_LQ_mumu_5f_MLQ_34TeV/,,bs->mumu (t-channel LQ),,,,,,1.175e-05
+mg_pp_LQ_mumu_5f_MLQ_36TeV,,1,000,000,,100,,0,,100,,0.14,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_LQ_mumu_5f_MLQ_36TeV/,,bs->mumu (t-channel LQ),,,,,,1.18e-05
+mg_pp_LQ_mumu_5f_MLQ_38TeV,,990,000,,99,,0,,99,,0.14,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_LQ_mumu_5f_MLQ_38TeV/,,bs->mumu (t-channel LQ),,,,,,1.179e-05
+mg_pp_LQ_mumu_5f_MLQ_40TeV,,1,000,000,,100,,0,,100,,0.14,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_LQ_mumu_5f_MLQ_40TeV/,,bs->mumu (t-channel LQ),,,,,,1.188e-05
+mg_pp_jj_5f_HT_0_500,,20,100,000,,2010,,0,,0,,2.08,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj_5f_HT_0_500/,,,,,,,,
+mg_gg_hh_new_heavy_scalar,,10,099,614,,1010,,0,,0,,0.99,,/eos/experiment/fcc/hh/generation/lhe//mg_gg_hh_new_heavy_scalar/,,,,,,,,
+mg_pp_tt_aut_cut500,,998,000,,998,,0,,994,,0.22,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_tt_aut_cut500/,,top pair FCNC tua,,pT>1TeV,,,,1.0
+mg_pp_tt_act_cut500,,999,000,,999,,0,,492,,0.22,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_tt_act_cut500/,,top pair FCNC tua,,pT>1TeV,,,,1.0
+mg_pp_jj012j_5f_HT_500_750,,84,162,,10,,0,,0,,0.02,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_500_750/,,,,,,,,
+total,,2,474,514,873,,276,493,,0.0,,272,814.0,,426.40,,,,

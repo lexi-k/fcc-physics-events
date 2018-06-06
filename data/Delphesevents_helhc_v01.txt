@@ -2,12 +2,13 @@ mgp8_pp_tt_lo,,1,030,000,,0,,103,,0,,103,,23.10,,/eos/experiment/fcc/helhc/gener
 p8_pp_Zprime_10TeV_ttbar,,990,000,,0,,99,,0,,99,,29.55,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_Zprime_10TeV_ttbar/,,10TeV Z' -> ttbar,,,,0.0175724,,1.0,,1.0
 p8_pp_Zprime_2TeV_ttbar,,980,000,,0,,98,,0,,98,,25.37,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_Zprime_2TeV_ttbar/,,2TeV Z' -> ttbar,,,,7.6378,,1.0,,1.0
 p8_pp_Zprime_5TeV_ttbar,,1,000,000,,0,,100,,0,,100,,30.45,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_Zprime_5TeV_ttbar/,,5TeV Z' -> ttbar,,,,0.305493,,1.0,,1.0
-p8_pp_ZprimeSSM_12TeV_ll,,1,000,000,,0,,100,,0,,100,,9.08,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeSSM_12TeV_ll/,,12TeV Z'(SSM) -> ll (l=e,mu,tau),,,,1.578e-5,,1.0,,1.0
-p8_pp_ZprimeSSM_4TeV_ll,,1,000,000,,0,,100,,0,,100,,10.32,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeSSM_4TeV_ll/,,4TeV Z'(SSM) -> ll (l=e,mu,tau),,,,1.267e-2,,1.0,,1.0
-p8_pp_ZprimeSSM_6TeV_ll,,1,000,000,,0,,100,,0,,100,,10.59,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeSSM_6TeV_ll/,,6TeV Z'(SSM) -> ll (l=e,mu,tau),,,,1.306e-3,,1.0,,1.0
-p8_pp_ZprimeSSM_8TeV_ll,,990,000,,0,,99,,0,,99,,10.20,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeSSM_8TeV_ll/,,8TeV Z'(SSM) -> ll (l=e,mu,tau),,,,2.125e-4,,1.0,,1.0
-p8_pp_ZprimeSSM_10TeV_ll,,1,020,000,,0,,102,,0,,102,,9.82,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeSSM_10TeV_ll/,,10TeV Z'(SSM) -> ll (l=e,mu,tau),,,,4.749e-5,,1.0,,1.0
-p8_pp_ZprimeSSM_14TeV_ll,,990,000,,0,,99,,0,,99,,8.68,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeSSM_14TeV_ll/,,14TeV Z'(SSM) -> ll (l=e,mu,tau),,,,7.688e-6,,1.0,,1.0
+p8_pp_ZprimeSSM_12TeV_ll,,1,000,000,,0,,100,,0,,100,,9.08,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeSSM_12TeV_ll/,,12TeV Z'(SSM) -> ll (l=e,mu,tau),,,,1.6009e-05,,1.0,,1.0
+p8_pp_ZprimeSSM_4TeV_ll,,1,000,000,,0,,100,,0,,100,,10.32,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeSSM_4TeV_ll/,,4TeV Z'(SSM) -> ll (l=e,mu,tau),,,,0.0125426,,1.0,,1.0
+p8_pp_ZprimeSSM_6TeV_ll,,1,000,000,,0,,100,,0,,100,,10.59,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeSSM_6TeV_ll/,,6TeV Z'(SSM) -> ll (l=e,mu,tau),,,,0.00127705,,1.0,,1.0
+p8_pp_ZprimeSSM_8TeV_ll,,990,000,,0,,99,,0,,99,,10.20,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeSSM_8TeV_ll/,,8TeV Z'(SSM) -> ll (l=e,mu,tau),,,,0.000204715,,1.0,,1.0
+p8_pp_ZprimeSSM_10TeV_ll,,1,020,000,,0,,102,,0,,102,,9.82,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeSSM_10TeV_ll/,,10TeV Z'(SSM) -> ll (l=e,mu,tau),,,,4.76451e-05,,1.0,,1.0
+p8_pp_ZprimeSSM_14TeV_ll,,990,000,,0,,99,,0,,99,,8.68,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeSSM_14TeV_ll/,,14TeV Z'(SSM) -> ll (l=e,mu,tau),,,,7.50234e-06,,1.0,,1.0
+p8_pp_ZprimeSSM_5TeV_ll,,1,000,000,,0,,100,,0,,100,,10.54,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeSSM_5TeV_ll/,,,,,,,,,,
 p8_pp_RSGraviton_2TeV_ww,,1,990,000,,0,,199,,0,,199,,49.23,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_RSGraviton_2TeV_ww/,,2TeV Z' -> WW,,,,1.811e1,,1.0,,1.0
 p8_pp_RSGraviton_10TeV_ww,,1,000,000,,0,,100,,0,,100,,21.37,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_RSGraviton_10TeV_ww/,,10TeV Z' -> WW,,,,7.686e-3,,1.0,,1.0
 p8_pp_Zprime_4TeV_ttbar,,1,000,000,,0,,100,,0,,100,,33.49,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_Zprime_4TeV_ttbar/,,4TeV Z' -> ttbar,,,,-9999,,1.0,,1.0
@@ -20,7 +21,7 @@ p8_pp_RSGraviton_6TeV_ww,,1,000,000,,0,,100,,0,,100,,24.04,,/eos/experiment/fcc/
 p8_pp_RSGraviton_8TeV_ww,,990,000,,0,,99,,0,,99,,22.49,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_RSGraviton_8TeV_ww/,,8TeV Z' -> WW,,,,-9999,,1.0,,1.0
 p8_pp_RSGraviton_12TeV_ww,,1,000,000,,0,,100,,0,,100,,20.18,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_RSGraviton_12TeV_ww/,,12TeV Z' -> WW,,,,-9999,,1.0,,1.0
 p8_pp_RSGraviton_14TeV_ww,,1,000,000,,0,,100,,0,,100,,19.38,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_RSGraviton_14TeV_ww/,,14TeV Z' -> WW,,,,-9999,,1.0,,1.0
-p8_pp_Zprime_5TeV_ll,,1,000,000,,0,,100,,0,,100,,10.54,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_Zprime_5TeV_ll/,,,,,,,,,,
+p8_pp_ZprimeETA_2TeV_ll,,1,700,000,,0,,170,,0,,170,,23.88,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeETA_2TeV_ll/,,2TeV Z'(ETA) -> ll (l=e,mu,tau),,,,0.0975244,,1.0,,1.0
 mgp8_pp_mumu_5f_HT_500_1000,,6,190,000,,0,,619,,0,,619,,73.32,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_mumu_5f_HT_500_1000/,,mumu,,500 < HT < 1000,,0.1267,,2.00,,1.0
 mgp8_pp_mumu_5f_HT_1000_2000,,6,190,000,,0,,619,,0,,619,,79.17,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_mumu_5f_HT_1000_2000/,,mumu,,1000 < HT < 2000,,0.01034,,2.00,,1.0
 mgp8_pp_mumu_5f_HT_2000_5000,,6,200,000,,0,,620,,0,,620,,84.72,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_mumu_5f_HT_2000_5000/,,mumu,,2000 < HT < 5000,,0.0006172,,2.00,,1.0
@@ -52,10 +53,75 @@ mgp8_pp_tautau_5f_HT_2000_5000,,6,090,000,,0,,609,,0,,609,,90.66,,/eos/experimen
 mgp8_pp_tautau_5f_HT_5000_10000,,6,100,000,,0,,610,,0,,610,,93.04,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_tautau_5f_HT_5000_10000/,,tautau,,5000 < HT < 10000,,2.603e-06,,2.00,,1.0
 mgp8_pp_tautau_5f_HT_10000_27000,,6,100,000,,0,,610,,0,,610,,85.42,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_tautau_5f_HT_10000_27000/,,tautau,,10000 < HT < 27000,,6.65e-09,,2.00,,1.0
 mgp8_pp_vv_5f_HT_500_1000,,6,190,000,,0,,619,,0,,619,,116.71,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_vv_5f_HT_500_1000/,,di boson,,500 < HT < 1000,,1.74,,2.00,,1.0
-mgp8_pp_jjja_5f,,106,950,000,,0,,<h2><mark>10695</mark></h2>,,0,,<h2><mark>10700</mark></h2>,,2117.68,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_jjja_5f/,,photon +jets,,,,1.125e+04,,1.0,,1.0
+mgp8_pp_jjja_5f,,196,800,000,,0,,19680,,0,,19680,,3896.85,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_jjja_5f/,,photon +jets,,,,1.125e+04,,1.0,,1.0
 mgp8_pp_vv_5f_HT_1000_2000,,5,838,411,,0,,620,,0,,620,,117.38,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_vv_5f_HT_1000_2000/,,di boson,,1000 < HT < 2000,,0.1483,,2.00,,1.0
 mgp8_pp_vv_5f_HT_2000_5000,,6,200,000,,0,,620,,0,,620,,127.70,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_vv_5f_HT_2000_5000/,,di boson,,2000 < HT < 5000,,0.008341,,2.00,,1.0
 mgp8_pp_vv_5f_HT_5000_10000,,6,200,000,,0,,620,,0,,620,,126.37,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_vv_5f_HT_5000_10000/,,di boson,,5000 < HT < 10000,,4.367e-05,,2.00,,1.0
 mgp8_pp_vv_5f_HT_10000_27000,,6,190,000,,0,,619,,0,,619,,116.00,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_vv_5f_HT_10000_27000/,,di boson,,10000 < HT < 27000,,7.496e-08,,2.00,,1.0
-p8_pp_ZprimeSSM_2TeV_ll,,990,000,,0,,99,,0,,99,,9.28,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeSSM_2TeV_ll/,,2TeV Z'(SSM) -> ll (l=e,mu,tau),,,,5.276e-2,,1.0,,1.0
-total,,346,228,411,,0.0,,34,659,,0.0,,34,664.0,,7226.33,,,,
+p8_pp_ZprimeSSM_2TeV_ll,,990,000,,0,,99,,0,,99,,9.28,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeSSM_2TeV_ll/,,2TeV Z'(SSM) -> ll (l=e,mu,tau),,,,0.299201,,1.0,,1.0
+p8_pp_ZprimeCHI_2TeV_ll,,1,700,000,,0,,170,,0,,170,,23.59,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeCHI_2TeV_ll/,,2TeV Z'(CHI) -> ll (l=e,mu,tau),,,,0.181617,,1.0,,1.0
+p8_pp_ZprimeI_2TeV_ll,,1,700,000,,0,,170,,0,,170,,23.47,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeI_2TeV_ll/,,2TeV Z'(I) -> ll (l=e,mu,tau),,,,0.153677,,1.0,,1.0
+p8_pp_ZprimeLRM_2TeV_ll,,1,000,000,,0,,100,,0,,100,,13.93,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeLRM_2TeV_ll/,,2TeV Z'(LRM) -> ll (l=e,mu,tau),,,,0.193013,,1.0,,1.0
+p8_pp_ZprimePSI_2TeV_ll,,1,700,000,,0,,170,,0,,170,,23.86,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimePSI_2TeV_ll/,,2TeV Z'(PSI) -> ll (l=e,mu,tau),,,,0.085362,,1.0,,1.0
+p8_pp_ZprimeETA_4TeV_ll,,1,690,000,,0,,169,,0,,169,,24.91,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeETA_4TeV_ll/,,4TeV Z'(ETA) -> ll (l=e,mu,tau),,,,0.0038843,,1.0,,1.0
+p8_pp_ZprimeCHI_4TeV_ll,,1,700,000,,0,,170,,0,,170,,24.61,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeCHI_4TeV_ll/,,4TeV Z'(CHI) -> ll (l=e,mu,tau),,,,0.00703298,,1.0,,1.0
+p8_pp_ZprimeI_4TeV_ll,,1,700,000,,0,,170,,0,,170,,24.41,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeI_4TeV_ll/,,4TeV Z'(I) -> ll (l=e,mu,tau),,,,0.00582704,,1.0,,1.0
+p8_pp_ZprimeLRM_4TeV_ll,,1,000,000,,0,,100,,0,,100,,14.57,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeLRM_4TeV_ll/,,4TeV Z'(LRM) -> ll (l=e,mu,tau),,,,0.00797759,,1.0,,1.0
+p8_pp_ZprimePSI_4TeV_ll,,1,700,000,,0,,170,,0,,170,,24.99,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimePSI_4TeV_ll/,,4TeV Z'(PSI) -> ll (l=e,mu,tau),,,,0.00336506,,1.0,,1.0
+p8_pp_ZprimeETA_6TeV_ll,,1,690,000,,0,,169,,0,,169,,25.02,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeETA_6TeV_ll/,,6TeV Z'(ETA) -> ll (l=e,mu,tau),,,,0.000373203,,1.0,,1.0
+p8_pp_ZprimeCHI_6TeV_ll,,1,700,000,,0,,170,,0,,170,,24.60,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeCHI_6TeV_ll/,,6TeV Z'(CHI) -> ll (l=e,mu,tau),,,,0.000658995,,1.0,,1.0
+p8_pp_ZprimeI_6TeV_ll,,1,700,000,,0,,170,,0,,170,,24.34,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeI_6TeV_ll/,,6TeV Z'(I) -> ll (l=e,mu,tau),,,,0.000515749,,1.0,,1.0
+p8_pp_ZprimeLRM_6TeV_ll,,1,000,000,,0,,100,,0,,100,,14.54,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeLRM_6TeV_ll/,,6TeV Z'(LRM) -> ll (l=e,mu,tau),,,,0.000787521,,1.0,,1.0
+p8_pp_ZprimePSI_6TeV_ll,,1,700,000,,0,,170,,0,,170,,25.08,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimePSI_6TeV_ll/,,6TeV Z'(PSI) -> ll (l=e,mu,tau),,,,0.000319221,,1.0,,1.0
+p8_pp_ZprimeETA_8TeV_ll,,1,700,000,,0,,170,,0,,170,,24.62,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeETA_8TeV_ll/,,8TeV Z'(ETA) -> ll (l=e,mu,tau),,,,4.90595e-05,,1.0,,1.0
+p8_pp_ZprimeCHI_8TeV_ll,,1,700,000,,0,,170,,0,,170,,24.01,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeCHI_8TeV_ll/,,8TeV Z'(CHI) -> ll (l=e,mu,tau),,,,8.70986e-05,,1.0,,1.0
+p8_pp_ZprimeI_8TeV_ll,,1,700,000,,0,,170,,0,,170,,23.72,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeI_8TeV_ll/,,8TeV Z'(I) -> ll (l=e,mu,tau),,,,6.57607e-05,,1.0,,1.0
+p8_pp_ZprimeLRM_8TeV_ll,,1,000,000,,0,,100,,0,,100,,14.13,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeLRM_8TeV_ll/,,8TeV Z'(LRM) -> ll (l=e,mu,tau),,,,0.000115722,,1.0,,1.0
+p8_pp_ZprimePSI_8TeV_ll,,1,690,000,,0,,169,,0,,169,,24.42,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimePSI_8TeV_ll/,,8TeV Z'(PSI) -> ll (l=e,mu,tau),,,,4.16344e-05,,1.0,,1.0
+p8_pp_ZprimeETA_10TeV_ll,,1,700,000,,0,,170,,0,,170,,23.75,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeETA_10TeV_ll/,,10TeV Z'(ETA) -> ll (l=e,mu,tau),,,,8.00358e-06,,1.0,,1.0
+p8_pp_ZprimeCHI_10TeV_ll,,1,700,000,,0,,170,,0,,170,,23.12,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeCHI_10TeV_ll/,,10TeV Z'(CHI) -> ll (l=e,mu,tau),,,,1.57176e-05,,1.0,,1.0
+p8_pp_ZprimeI_10TeV_ll,,1,700,000,,0,,170,,0,,170,,22.86,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeI_10TeV_ll/,,10TeV Z'(I) -> ll (l=e,mu,tau),,,,1.17107e-05,,1.0,,1.0
+p8_pp_ZprimeLRM_10TeV_ll,,1,000,000,,0,,100,,0,,100,,13.63,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeLRM_10TeV_ll/,,10TeV Z'(LRM) -> ll (l=e,mu,tau),,,,2.45152e-05,,1.0,,1.0
+p8_pp_ZprimePSI_10TeV_ll,,1,700,000,,0,,170,,0,,170,,23.71,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimePSI_10TeV_ll/,,10TeV Z'(PSI) -> ll (l=e,mu,tau),,,,6.47563e-06,,1.0,,1.0
+p8_pp_ZprimeETA_12TeV_ll,,1,700,000,,0,,170,,0,,170,,22.95,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeETA_12TeV_ll/,,12TeV Z'(ETA) -> ll (l=e,mu,tau),,,,1.80172e-06,,1.0,,1.0
+p8_pp_ZprimeCHI_12TeV_ll,,1,700,000,,0,,170,,0,,170,,22.46,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeCHI_12TeV_ll/,,12TeV Z'(CHI) -> ll (l=e,mu,tau),,,,4.46175e-06,,1.0,,1.0
+mgp8_pp_jjaa_5f,,33,750,000,,0,,3375,,0,,3375,,589.59,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_jjaa_5f/,,dijet diphoton,,,,5.941,,1.0,,1.0
+p8_pp_ZprimeI_12TeV_ll,,1,700,000,,0,,170,,0,,170,,22.21,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeI_12TeV_ll/,,12TeV Z'(I) -> ll (l=e,mu,tau),,,,3.37889e-06,,1.0,,1.0
+p8_pp_ZprimeLRM_12TeV_ll,,1,000,000,,0,,100,,0,,100,,13.29,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeLRM_12TeV_ll/,,12TeV Z'(LRM) -> ll (l=e,mu,tau),,,,7.68388e-06,,1.0,,1.0
+p8_pp_ZprimePSI_12TeV_ll,,1,690,000,,0,,169,,0,,169,,22.77,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimePSI_12TeV_ll/,,12TeV Z'(PSI) -> ll (l=e,mu,tau),,,,1.39881e-06,,1.0,,1.0
+p8_pp_ZprimeETA_14TeV_ll,,1,700,000,,0,,170,,0,,170,,22.59,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeETA_14TeV_ll/,,14TeV Z'(ETA) -> ll (l=e,mu,tau),,,,6.12268e-07,,1.0,,1.0
+p8_pp_ZprimeCHI_14TeV_ll,,1,680,000,,0,,168,,0,,168,,21.94,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeCHI_14TeV_ll/,,14TeV Z'(CHI) -> ll (l=e,mu,tau),,,,1.89368e-06,,1.0,,1.0
+p8_pp_ZprimeI_14TeV_ll,,1,700,000,,0,,170,,0,,170,,22.01,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeI_14TeV_ll/,,14TeV Z'(I) -> ll (l=e,mu,tau),,,,1.46041e-06,,1.0,,1.0
+p8_pp_ZprimeLRM_14TeV_ll,,1,000,000,,0,,100,,0,,100,,13.16,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeLRM_14TeV_ll/,,14TeV Z'(LRM) -> ll (l=e,mu,tau),,,,3.48641e-06,,1.0,,1.0
+p8_pp_ZprimePSI_14TeV_ll,,1,700,000,,0,,170,,0,,170,,22.51,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimePSI_14TeV_ll/,,14TeV Z'(PSI) -> ll (l=e,mu,tau),,,,4.60545e-07,,1.0,,1.0
+mgp8_pp_bbh_4f_haa,,33,260,000,,0,,3326,,0,,3326,,605.79,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_bbh_4f_haa/,,bbar plus higgs,,50 < mbb < 300,,1.0,,1.0,,1.0
+mgp8_pp_tth01j_5f_haa,,23,059,331,,0,,3394,,0,,3394,,638.71,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_tth01j_5f_haa/,,higgs associated with top pair + 0/1 jets,,inclusive,,3.274,,1.22,,0.612
+mgp8_pp_hh_5f_kl_0500_haa,,8,210,000,,0,,821,,0,,821,,181.05,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_hh_5f_kl_0500_haa/,,HH, H->bb, H undec., kl = ,,inclusive,,0.1612,,1.0,,1.0
+mgp8_pp_hh_5f_kl_0750_haa,,8,370,000,,0,,837,,0,,837,,185.45,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_hh_5f_kl_0750_haa/,,HH, H->bb, H undec., kl = ,,inclusive,,0.1349,,1.0,,1.0
+mgp8_pp_hh_5f_kl_0800_haa,,8,350,000,,0,,835,,0,,835,,185.18,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_hh_5f_kl_0800_haa/,,HH, H->bb, H undec., kl = ,,inclusive,,0.1307,,1.0,,1.0
+mgp8_pp_hh_5f_kl_0850_haa,,8,220,000,,0,,822,,0,,822,,182.50,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_hh_5f_kl_0850_haa/,,HH, H->bb, H undec., kl = ,,inclusive,,0.1253,,1.0,,1.0
+mgp8_pp_hh_5f_kl_0875_haa,,8,380,000,,0,,838,,0,,838,,186.13,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_hh_5f_kl_0875_haa/,,HH, H->bb, H undec., kl = ,,inclusive,,0.1231,,1.0,,1.0
+mgp8_pp_hh_5f_kl_0900_haa,,8,330,000,,0,,833,,0,,833,,185.10,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_hh_5f_kl_0900_haa/,,HH, H->bb, H undec., kl = ,,inclusive,,0.1213,,1.0,,1.0
+mgp8_pp_hh_5f_kl_0925_haa,,8,330,000,,0,,833,,0,,833,,185.16,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_hh_5f_kl_0925_haa/,,HH, H->bb, H undec., kl = ,,inclusive,,0.1192,,1.0,,1.0
+mgp8_pp_hh_5f_kl_0950_haa,,8,310,000,,0,,831,,0,,831,,184.83,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_hh_5f_kl_0950_haa/,,HH, H->bb, H undec., kl = ,,inclusive,,0.1169,,1.0,,1.0
+mgp8_pp_hh_5f_kl_0975_haa,,8,310,000,,0,,831,,0,,831,,184.95,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_hh_5f_kl_0975_haa/,,HH, H->bb, H undec., kl = ,,inclusive,,0.1148,,1.0,,1.0
+mgp8_pp_hh_5f_kl_1000_haa,,8,240,000,,0,,824,,0,,824,,183.45,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_hh_5f_kl_1000_haa/,,HH, H->bb, H undec., kl = ,,inclusive,,0.1127,,1.0,,1.0
+mgp8_pp_hh_5f_kl_1025_haa,,8,280,000,,0,,828,,0,,828,,184.45,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_hh_5f_kl_1025_haa/,,HH, H->bb, H undec., kl = ,,inclusive,,0.11,,1.0,,1.0
+mgp8_pp_hh_5f_kl_1050_haa,,8,400,000,,0,,840,,0,,840,,187.17,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_hh_5f_kl_1050_haa/,,HH, H->bb, H undec., kl = ,,inclusive,,0.1084,,1.0,,1.0
+mgp8_pp_hh_5f_kl_1075_haa,,8,300,000,,0,,830,,0,,830,,185.12,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_hh_5f_kl_1075_haa/,,HH, H->bb, H undec., kl = ,,inclusive,,0.1059,,1.0,,1.0
+mgp8_pp_hh_5f_kl_1100_haa,,8,270,000,,0,,827,,0,,827,,184.53,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_hh_5f_kl_1100_haa/,,HH, H->bb, H undec., kl = ,,inclusive,,0.1039,,1.0,,1.0
+mgp8_pp_hh_5f_kl_1125_haa,,8,310,000,,0,,831,,0,,831,,185.50,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_hh_5f_kl_1125_haa/,,HH, H->bb, H undec., kl = ,,inclusive,,0.1019,,1.0,,1.0
+mgp8_pp_hh_5f_kl_1150_haa,,8,320,000,,0,,832,,0,,832,,185.85,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_hh_5f_kl_1150_haa/,,HH, H->bb, H undec., kl = ,,inclusive,,0.1005,,1.0,,1.0
+mgp8_pp_hh_5f_kl_1200_haa,,8,320,000,,0,,832,,0,,832,,186.03,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_hh_5f_kl_1200_haa/,,HH, H->bb, H undec., kl = ,,inclusive,,0.09671,,1.0,,1.0
+mgp8_pp_hh_5f_kl_1250_haa,,8,310,000,,0,,831,,0,,831,,186.01,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_hh_5f_kl_1250_haa/,,HH, H->bb, H undec., kl = ,,inclusive,,0.09307,,1.0,,1.0
+mgp8_pp_hh_5f_kl_1500_haa,,8,350,000,,0,,835,,0,,835,,187.77,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_hh_5f_kl_1500_haa/,,HH, H->bb, H undec., kl = ,,inclusive,,0.07687,,1.0,,1.0
+p8_pp_ZprimeSSM_Interf_6TeV_ll,,1,000,000,,0,,100,,0,,100,,14.76,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeSSM_Interf_6TeV_ll/,,6TeV Z'(SSM) -> ll (l=e,mu,tau) full interference,,,,0.00127705,,1.0,,1.0
+p8_pp_ZprimeCHI_Interf_6TeV_ll,,1,000,000,,0,,100,,0,,100,,14.64,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeCHI_Interf_6TeV_ll/,,6TeV Z'(CHI) -> ll (l=e,mu,tau) full interference,,,,0.000658995,,1.0,,1.0
+mgp8_pp_ttz_5f,,28,218,,0,,10,,0,,10,,0.80,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_ttz_5f/,,,,,,,,,,
+p8_pp_ZprimePSI_Interf_6TeV_ll,,990,000,,0,,99,,0,,99,,14.60,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimePSI_Interf_6TeV_ll/,,6TeV Z'(PSI) -> ll (l=e,mu,tau) full interference,,,,0.000319221,,1.0,,1.0
+p8_pp_ZprimeI_Interf_6TeV_ll,,1,000,000,,0,,100,,0,,100,,14.60,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeI_Interf_6TeV_ll/,,6TeV Z'(I) -> ll (l=e,mu,tau) full interference,,,,0.000515749,,1.0,,1.0
+p8_pp_ZprimeETA_Interf_6TeV_ll,,980,000,,0,,98,,0,,98,,14.47,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeETA_Interf_6TeV_ll/,,6TeV Z'(ETA) -> ll (l=e,mu,tau) full interference,,,,0.000373203,,1.0,,1.0
+p8_pp_ZprimeLRM_Interf_6TeV_ll,,970,000,,0,,97,,0,,97,,14.28,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/p8_pp_ZprimeLRM_Interf_6TeV_ll/,,6TeV Z'(LRM) -> ll (l=e,mu,tau) full interference,,,,0.000787521,,1.0,,1.0
+mgp8_pp_ttw_5f,,10,000,,0,,10,,0,,10,,0.26,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_ttw_5f/,,,,,,,,,,
+mgp8_pp_vh012j_5f_haa,,6,391,529,,0,,998,,0,,998,,94.75,,/eos/experiment/fcc/helhc/generation/DelphesEvents/helhc_v01/mgp8_pp_vh012j_5f_haa/,,,,,,,,,,
+total,,750,967,489,,0.0,,76,596,,0.0,,76,596.0,,15298.62,,,,
