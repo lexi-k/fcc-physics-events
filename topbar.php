@@ -6,16 +6,17 @@
 <ul>
   <li><b href="#">100TeV FCC Physics</b>
     <ul>
-      <li><a href="LHEevents.php">LHE 100TeV</a></li>
+      <li><a href="LHEevents.php"            >Les Houches</a></li>
       <li><a href="Delphesevents_fcc_v02.php">FCC v02</a></li>
-      <li><a href="Delphesevents_cms.php">CMS</a></li>
+      <li><a href="Delphesevents_fcc_v02_ATLASgran.php">FCC v02 ALTAS Granularity</a></li>
+      <li><a href="Delphesevents_cms.php"    >CMS v01</a></li>
     </ul>
   </li>
 
 
   <li><b href="#">27TeV HE-LHC Physics</b>
    <ul>
-      <li><a href="LHEevents_helhc.php">LHE 27TeV</a></li>
+      <li><a href="LHEevents_helhc.php">Les Houches </a></li>
       <li><a href="Delphesevents_helhc_v01.php">HE-LHC v01</a></li>
    </ul>
   </li>
