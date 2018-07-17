@@ -48,21 +48,21 @@ mg_pp_hh01j_5f_HT_0_300,,8,550,000,,855,,0,,855,,1.03,,/eos/experiment/fcc/hh/ge
 mg_pp_hh01j_5f_HT_1400_2900,,7,110,000,,711,,0,,711,,1.13,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh01j_5f_HT_1400_2900/,,gluon fusion di-higgs + 0/1 jets,,1400 < HT < 2900,,xqcut = 60, qCut = 90,,0.01265
 mg_pp_hh01j_5f_HT_2900_5300,,4,100,000,,410,,0,,410,,0.66,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh01j_5f_HT_2900_5300/,,gluon fusion di-higgs + 0/1 jets,,2900 < HT < 5300,,xqcut = 60, qCut = 90,,0.0007173
 mg_pp_hh01j_5f_HT_300_1400,,6,890,000,,689,,0,,689,,1.00,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh01j_5f_HT_300_1400/,,gluon fusion di-higgs + 0/1 jets,,300 < HT < 1400,,xqcut = 60, qCut = 90,,0.7453
-mg_pp_hh_lambda050_5f,,5,840,000,,584,,0,,584,,0.99,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda050_5f/,,HH, H->bb, H undec., kl = 0.50,,,,,,1.92258
-mg_pp_hh_lambda090_5f,,5,950,000,,595,,0,,595,,1.01,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda090_5f/,,HH, H->bb, H undec., kl = 0.90,,,,,,1.41752
-mg_pp_hh_lambda095_5f,,5,860,000,,586,,0,,586,,0.99,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda095_5f/,,HH, H->bb, H undec., kl = 0.95,,,,,,1.36266
-mg_pp_hh_lambda096_5f,,6,980,000,,698,,0,,698,,1.18,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda096_5f/,,HH, H->bb, H undec., kl = 0.96,,,,,,1.35191
-mg_pp_hh_lambda097_5f,,6,900,000,,690,,0,,690,,1.17,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda097_5f/,,HH, H->bb, H undec., kl = 0.97,,,,,,1.34124
-mg_pp_hh_lambda098_5f,,6,940,000,,694,,0,,694,,1.17,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda098_5f/,,HH, H->bb, H undec., kl = 0.98,,,,,,1.33063
-mg_pp_hh_lambda099_5f,,6,910,000,,691,,0,,691,,1.17,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda099_5f/,,HH, H->bb, H undec., kl = 0.99,,,,,,1.32011
-mg_pp_hh_lambda100_5f,,5,750,000,,<h2><mark>575</mark></h2>,,0,,<h2><mark>583</mark></h2>,,0.97,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda100_5f/,,HH, H->bb, H undec., kl = 1.00,,,,,,1.30965
-mg_pp_hh_lambda101_5f,,6,940,000,,694,,0,,694,,1.17,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda101_5f/,,HH, H->bb, H undec., kl = 1.01,,,,,,1.29927
-mg_pp_hh_lambda102_5f,,6,980,000,,698,,0,,698,,1.18,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda102_5f/,,HH, H->bb, H undec., kl = 1.02,,,,,,1.28896
-mg_pp_hh_lambda103_5f,,9,890,000,,989,,0,,989,,1.67,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda103_5f/,,HH, H->bb, H undec., kl = 1.03,,,,,,1.27872
-mg_pp_hh_lambda104_5f,,7,000,000,,700,,0,,700,,1.18,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda104_5f/,,HH, H->bb, H undec., kl = 1.04,,,,,,1.26856
-mg_pp_hh_lambda105_5f,,5,860,000,,586,,0,,586,,0.99,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda105_5f/,,HH, H->bb, H undec., kl = 1.05,,,,,,1.25848
-mg_pp_hh_lambda110_5f,,5,840,000,,584,,0,,584,,0.99,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda110_5f/,,HH, H->bb, H undec., kl = 1.10,,,,,,1.20914
-mg_pp_hh_lambda150_5f,,5,840,000,,584,,0,,584,,0.99,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda150_5f/,,HH, H->bb, H undec., kl = 1.50,,,,,,0.88070
+mg_pp_hh_lambda050_5f,,5,840,000,,584,,0,,584,,0.99,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda050_5f/,,HH, H->bb, H undec., kl = 0.500,,,,,,2.08434106402
+mg_pp_hh_lambda090_5f,,5,950,000,,595,,0,,595,,1.01,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda090_5f/,,HH, H->bb, H undec., kl = 0.900,,,,,,1.5367833498
+mg_pp_hh_lambda095_5f,,5,860,000,,586,,0,,586,,0.99,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda095_5f/,,HH, H->bb, H undec., kl = 0.950,,,,,,1.47731437096
+mg_pp_hh_lambda096_5f,,6,980,000,,698,,0,,0,,1.18,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda096_5f/,,,,,,,,
+mg_pp_hh_lambda097_5f,,6,900,000,,690,,0,,690,,1.17,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda097_5f/,,HH, H->bb, H undec., kl = 0.975,,,,,,1.4483278595
+mg_pp_hh_lambda098_5f,,6,940,000,,694,,0,,0,,1.17,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda098_5f/,,,,,,,,
+mg_pp_hh_lambda099_5f,,6,910,000,,691,,0,,0,,1.17,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda099_5f/,,,,,,,,
+mg_pp_hh_lambda100_5f,,5,750,000,,<h2><mark>575</mark></h2>,,0,,<h2><mark>583</mark></h2>,,0.97,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda100_5f/,,HH, H->bb, H undec., kl = 1.000,,,,,,1.41984
+mg_pp_hh_lambda101_5f,,6,940,000,,694,,0,,0,,1.17,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda101_5f/,,,,,,,,
+mg_pp_hh_lambda102_5f,,6,980,000,,698,,0,,698,,1.18,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda102_5f/,,HH, H->bb, H undec., kl = 1.025,,,,,,1.39185079247
+mg_pp_hh_lambda103_5f,,9,890,000,,989,,0,,0,,1.67,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda103_5f/,,,,,,,,
+mg_pp_hh_lambda104_5f,,7,000,000,,700,,0,,0,,1.18,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda104_5f/,,,,,,,,
+mg_pp_hh_lambda105_5f,,5,860,000,,586,,0,,586,,0.99,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda105_5f/,,HH, H->bb, H undec., kl = 1.050,,,,,,1.36436023692
+mg_pp_hh_lambda110_5f,,5,840,000,,584,,0,,584,,0.99,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda110_5f/,,HH, H->bb, H undec., kl = 1.100,,,,,,1.31087508171
+mg_pp_hh_lambda150_5f,,5,840,000,,584,,0,,584,,0.99,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda150_5f/,,HH, H->bb, H undec., kl = 1.500,,,,,,0.954799723568
 mg_pp_hhj_lambda050_5f,,5,970,000,,597,,0,,597,,0.85,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hhj_lambda050_5f/,,HH + 1 jet, pT(HH) > 200, kl = 0.50,,inclusive,,,,0.08285
 mg_pp_hhj_lambda090_5f,,5,970,000,,597,,0,,597,,0.85,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hhj_lambda090_5f/,,HH + 1 jet, pT(HH) > 200, kl = 0.90,,inclusive,,,,0.06107
 mg_pp_hhj_lambda095_5f,,31,770,000,,3177,,0,,3177,,4.55,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hhj_lambda095_5f/,,HH + 1 jet, pT(HH) > 200, kl = 0.95,,inclusive,,,,0.05870
@@ -209,14 +209,14 @@ mg_pp_tt012j_5f_HT_2100_3400,,3,190,000,,179,,0,,179,,0.67,,/eos/experiment/fcc/
 mg_pp_tt012j_5f_HT_3400_5300,,3,190,000,,179,,0,,179,,0.68,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_tt012j_5f_HT_3400_5300/,,top pair + 0/1/2 jets,,3400 < HT < 5300,,xqcut = 60, qCut = 90,,44.91
 mg_pp_tt012j_5f_HT_15000_25000,,540,000,,54,,0,,54,,0.12,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_tt012j_5f_HT_15000_25000/,,top pair + 0/1/2 jets,,15000 < HT < 25000,,xqcut = 60, qCut = 90,,0.0219
 mg_pp_tt012j_5f_HT_25000_35000,,530,000,,53,,0,,53,,0.12,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_tt012j_5f_HT_25000_35000/,,top pair + 0/1/2 jets,,25000 < HT < 35000,,xqcut = 60, qCut = 90,,0.0004247
-mg_pp_jj012j_5f_HT_1000_2000,,97,085,602,,<h2><mark>9940</mark></h2>,,0,,<h2><mark>10168</mark></h2>,,21.37,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_1000_2000/,,di-jet + 0/1/2 jets,,1000 < HT < 2000,,xqcut = 20, qCut = 30,,1.673e+06
-mg_pp_jj012j_5f_HT_15000_25000,,9,836,701,,1267,,0,,1267,,2.26,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_15000_25000/,,di-jet + 0/1/2 jets,,15000 < HT < 25000,,xqcut = 20, qCut = 30,,7.349
-mg_pp_jj012j_5f_HT_2000_4000,,25,273,720,,<h2><mark>2808</mark></h2>,,0,,<h2><mark>3690</mark></h2>,,5.67,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_2000_4000/,,di-jet + 0/1/2 jets,,2000 < HT < 4000,,xqcut = 20, qCut = 30,,1.32e+05
-mg_pp_jj012j_5f_HT_25000_35000,,910,025,,330,,0,,330,,0.21,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_25000_35000/,,di-jet + 0/1/2 jets,,25000 < HT < 35000,,xqcut = 20, qCut = 30,,0.1759
-mg_pp_jj012j_5f_HT_35000_100000,,746,668,,430,,0,,430,,0.17,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_35000_100000/,,di-jet + 0/1/2 jets,,35000 < HT < 100000,,xqcut = 20, qCut = 30,,0.007654
-mg_pp_jj012j_5f_HT_4000_7200,,10,709,225,,1105,,0,,1105,,2.43,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_4000_7200/,,di-jet + 0/1/2 jets,,4000 < HT < 7200,,xqcut = 20, qCut = 30,,7316
-mg_pp_jj012j_5f_HT_500_1000,,96,491,060,,12918,,0,,12918,,20.75,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_500_1000/,,di-jet + 0/1/2 jets,,500 < HT < 1000,,xqcut = 20, qCut = 30,,1.642e+07
-mg_pp_jj012j_5f_HT_7200_15000,,10,922,305,,1102,,0,,1102,,2.49,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_7200_15000/,,di-jet + 0/1/2 jets,,7200 < HT < 15000,,xqcut = 20, qCut = 30,,474.9
+mg_pp_jj012j_5f_HT_1000_2000,,148,518,924,,15192,,0,,15192,,32.69,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_1000_2000/,,di-jet + 0/1/2 jets,,1000 < HT < 2000,,xqcut = 20, qCut = 30,,1.673e+06
+mg_pp_jj012j_5f_HT_15000_25000,,33,156,077,,3818,,0,,3818,,7.62,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_15000_25000/,,di-jet + 0/1/2 jets,,15000 < HT < 25000,,xqcut = 20, qCut = 30,,7.349
+mg_pp_jj012j_5f_HT_2000_4000,,65,672,829,,7374,,0,,7374,,14.73,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_2000_4000/,,di-jet + 0/1/2 jets,,2000 < HT < 4000,,xqcut = 20, qCut = 30,,1.32e+05
+mg_pp_jj012j_5f_HT_25000_35000,,11,563,636,,2259,,0,,2259,,2.66,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_25000_35000/,,di-jet + 0/1/2 jets,,25000 < HT < 35000,,xqcut = 20, qCut = 30,,0.1759
+mg_pp_jj012j_5f_HT_35000_100000,,7,859,549,,3325,,0,,3325,,1.81,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_35000_100000/,,di-jet + 0/1/2 jets,,35000 < HT < 100000,,xqcut = 20, qCut = 30,,0.007654
+mg_pp_jj012j_5f_HT_4000_7200,,49,102,540,,5105,,0,,5105,,11.13,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_4000_7200/,,di-jet + 0/1/2 jets,,4000 < HT < 7200,,xqcut = 20, qCut = 30,,7316
+mg_pp_jj012j_5f_HT_500_1000,,153,855,886,,20565,,0,,20565,,33.08,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_500_1000/,,di-jet + 0/1/2 jets,,500 < HT < 1000,,xqcut = 20, qCut = 30,,1.642e+07
+mg_pp_jj012j_5f_HT_7200_15000,,50,497,322,,5088,,0,,5088,,11.53,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_7200_15000/,,di-jet + 0/1/2 jets,,7200 < HT < 15000,,xqcut = 20, qCut = 30,,474.9
 mg_pp_ll012j_5f_HT_0_200,,100,000,,10,,0,,10,,0.01,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_ll012j_5f_HT_0_200/,,V -> ll (l=e,mu,ve,vm,vt) + ,,0 < HT < 200,,xqcut = 30, qCut = 45,,1.158e+04
 mg_pp_ll012j_5f_HT_15000_25000,,70,000,,7,,0,,7,,0.02,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_ll012j_5f_HT_15000_25000/,,V -> ll (l=e,mu,ve,vm,vt) + ,,15000 < HT < 25000,,xqcut = 30, qCut = 45,,0.000314
 mg_pp_ll012j_5f_HT_1500_2700,,100,000,,10,,0,,10,,0.02,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_ll012j_5f_HT_1500_2700/,,V -> ll (l=e,mu,ve,vm,vt) + ,,1500 < HT < 2700,,xqcut = 30, qCut = 45,,3.723
@@ -232,12 +232,12 @@ mg_pp_wwjj_2l2v_LL,,5,408,,3,,0,,3,,0.00,,/eos/experiment/fcc/hh/generation/lhe/
 mg_pp_wwjj_2l2v_TL,,31,012,,3,,0,,3,,0.01,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_wwjj_2l2v_TL/,,WW(TL) + jj EWK same sign,,inclusive,,,,2.8
 mg_pp_wwjj_2l2v_TT,,49,811,,3,,0,,3,,0.02,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_wwjj_2l2v_TT/,,WW(TT) + jj EWK same sign,,inclusive,,,,4.51
 mg_pp_ttbb_4f,,36,072,443,,8873,,0,,8873,,6.41,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_ttbb_4f/,,tt+bb in 4f,,pT(bb) > 150 GeV,,,,86.69
-mg_pp_tt012j_5f,,19,710,000,,1971,,0,,1971,,3.12,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_tt012j_5f/,,top pair + 0/1/2 jets,,inclusive,,xqcut = 60, qCut = 90,,4.311e+04
+mg_pp_tt012j_5f,,49,680,000,,4968,,0,,4968,,7.87,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_tt012j_5f/,,top pair + 0/1/2 jets,,inclusive,,xqcut = 60, qCut = 90,,4.311e+04
 mg_pp_tt_tlep_act,,990,000,,99,,0,,99,,0.29,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_tt_tlep_act/,,top pair FCNC tca,,,,,,1.0
 mg_pp_tt_tlep_aut,,990,000,,99,,0,,99,,0.29,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_tt_tlep_aut/,,top pair FCNC tua,,,,,,1.0
 mg_pp_ta_tlep_act_pt_1000_inf,,986,100,,987,,0,,987,,0.29,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_ta_tlep_act_pt_1000_inf/,,top pair FCNC tca,,pT>1TeV,,,,1.0
 mg_pp_ta_tlep_aut_pt_1000_inf,,995,000,,995,,0,,995,,0.30,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_ta_tlep_aut_pt_1000_inf/,,top pair FCNC tua,,pT>1TeV,,,,1.0
-mg_pp_z0123j_4f,,1,000,000,,100,,0,,100,,0.09,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_z0123j_4f/,,z + 0/1/2/3 jets,,inclusive,,xqcut = 30, qCut = 45,,5.091e+05
+mg_pp_z0123j_4f,,10,980,000,,1098,,0,,1098,,0.99,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_z0123j_4f/,,z + 0/1/2/3 jets,,inclusive,,xqcut = 30, qCut = 45,,5.091e+05
 mg_pp_ttz01j_5f_HT_0_1100,,2,940,000,,294,,0,,294,,0.55,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_ttz01j_5f_HT_0_1100/,,z associated with top pair + 0/1 jets,,0 < HT < 1100,,xqcut = 80, qCut = 120,,57.36
 mg_pp_ttz01j_5f_HT_1100_2700,,2,980,000,,298,,0,,298,,0.61,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_ttz01j_5f_HT_1100_2700/,,z associated with top pair + 0/1 jets,,1100 < HT < 2700,,xqcut = 80, qCut = 120,,12.08
 mg_pp_ttz01j_5f_HT_2700_4900,,2,940,000,,294,,0,,294,,0.62,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_ttz01j_5f_HT_2700_4900/,,z associated with top pair + 0/1 jets,,2700 < HT < 4900,,xqcut = 80, qCut = 120,,0.7717
@@ -336,7 +336,7 @@ mg_pp_tautau_5f_HT_10000_27000,,4,950,000,,495,,0,,495,,0.48,,/eos/experiment/fc
 mg_pp_tautau_5f_HT_27000_100000,,4,960,000,,496,,0,,496,,0.47,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_tautau_5f_HT_27000_100000/,,tautau,,27000 < HT < 100000,,no matching,,8.537e-09
 mg_pp_wwjj_ss_2l2v_QED2_QCD2_LL,,48,284,,5,,0,,5,,0.01,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_wwjj_ss_2l2v_QED2_QCD2_LL/,,WW(LL) + jj QCD same sign,,inclusive,,,,0.489
 mg_pp_zzjj_4l_QED4_QCD0_LL,,40,000,,4,,0,,4,,0.01,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_zzjj_4l_QED4_QCD0_LL/,,ZZ(LL) + jj EWK,,inclusive,,,,0.489
-mg_gg_hh_2HDM,,10,000,,1,,0,,0,,0.00,,/eos/experiment/fcc/hh/generation/lhe//mg_gg_hh_2HDM/,,,,,,,,
+mg_gg_hh_2HDM,,7,640,000,,764,,0,,0,,0.90,,/eos/experiment/fcc/hh/generation/lhe//mg_gg_hh_2HDM/,,,,,,,,
 mg_pp_zzjj_4l_QED4_QCD0_TL,,354,268,,36,,0,,36,,0.10,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_zzjj_4l_QED4_QCD0_TL/,,ZZ(TL) + jj EWK,,inclusive,,,,0.489
 mg_pp_zzjj_4l_QED4_QCD0_TT,,586,653,,59,,0,,59,,0.16,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_zzjj_4l_QED4_QCD0_TT/,,ZZ(TT) + jj EWK,,inclusive,,,,0.489
 mg_pp_wwjj_ss_2l2v_QED4_QCD0_LL,,36,793,,4,,0,,4,,0.01,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_wwjj_ss_2l2v_QED4_QCD0_LL/,,WW(LL) + jj EWK same sign,,inclusive,,,,0.489
@@ -368,6 +368,7 @@ mg_pp_LQ_mumu_5f_MLQ_30TeV,,1,000,000,,100,,0,,100,,0.14,,/eos/experiment/fcc/hh
 mg_pp_LQ_mumu_5f_MLQ_32TeV,,990,000,,99,,0,,99,,0.14,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_LQ_mumu_5f_MLQ_32TeV/,,bs->mumu (t-channel LQ),,,,,,1.158e-05
 mg_pp_LQ_mumu_5f_MLQ_34TeV,,1,000,000,,100,,0,,100,,0.14,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_LQ_mumu_5f_MLQ_34TeV/,,bs->mumu (t-channel LQ),,,,,,1.175e-05
 mg_pp_LQ_mumu_5f_MLQ_36TeV,,1,000,000,,100,,0,,100,,0.14,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_LQ_mumu_5f_MLQ_36TeV/,,bs->mumu (t-channel LQ),,,,,,1.18e-05
+mg_pp_wz012j_4f,,9,940,000,,<h2><mark>994</mark></h2>,,0,,<h2><mark>995</mark></h2>,,1.71,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_wz012j_4f/,,WZ + 0/1/2 jets,,inclusive,,xqcut = 40, qCut = 60,,786.6
 mg_pp_LQ_mumu_5f_MLQ_38TeV,,990,000,,99,,0,,99,,0.14,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_LQ_mumu_5f_MLQ_38TeV/,,bs->mumu (t-channel LQ),,,,,,1.179e-05
 mg_pp_LQ_mumu_5f_MLQ_40TeV,,1,000,000,,100,,0,,100,,0.14,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_LQ_mumu_5f_MLQ_40TeV/,,bs->mumu (t-channel LQ),,,,,,1.188e-05
 mg_pp_jj_5f_HT_0_500,,20,100,000,,2010,,0,,0,,2.08,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj_5f_HT_0_500/,,,,,,,,
@@ -375,4 +376,13 @@ mg_gg_hh_new_heavy_scalar,,10,099,614,,1010,,0,,0,,0.99,,/eos/experiment/fcc/hh/
 mg_pp_tt_aut_cut500,,998,000,,998,,0,,994,,0.22,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_tt_aut_cut500/,,top pair FCNC tua,,pT>1TeV,,,,1.0
 mg_pp_tt_act_cut500,,999,000,,999,,0,,492,,0.22,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_tt_act_cut500/,,top pair FCNC tua,,pT>1TeV,,,,1.0
 mg_pp_jj012j_5f_HT_500_750,,84,162,,10,,0,,0,,0.02,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_jj012j_5f_HT_500_750/,,,,,,,,
-total,,2,474,514,873,,276,493,,0.0,,272,814.0,,426.40,,,,
+mg_gg_hh_2HDM_mh2_600_mh3_900_mhp_360,,10,100,000,,1010,,0,,0,,1.15,,/eos/experiment/fcc/hh/generation/lhe//mg_gg_hh_2HDM_mh2_600_mh3_900_mhp_360/,,,,,,,,
+mg_pp_hh_lambda-100_5f,,5,060,000,,506,,0,,506,,0.86,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda-100_5f/,,HH, H->bb, H undec., kl = -1.000,,,,,,5.27460898164
+mg_pp_hh_lambda-050_5f,,5,040,000,,504,,0,,504,,0.85,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda-050_5f/,,HH, H->bb, H undec., kl = -0.500,,,,,,4.01172555484
+mg_pp_hh_lambda000_5f,,5,020,000,,502,,0,,502,,0.85,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda000_5f/,,HH, H->bb, H undec., kl = 0.000,,,,,,2.94830291564
+mg_pp_hh_lambda200_5f,,5,030,000,,503,,0,,503,,0.85,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda200_5f/,,HH, H->bb, H undec., kl = 2.000,,,,,,0.689220234727
+mg_pp_hh_lambda250_5f,,5,020,000,,502,,0,,502,,0.85,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda250_5f/,,HH, H->bb, H undec., kl = 2.500,,,,,,0.623101533476
+mg_pp_hh_lambda300_5f,,5,040,000,,504,,0,,504,,0.85,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_hh_lambda300_5f/,,HH, H->bb, H undec., kl = 3.000,,,,,,0.756443619817
+mg_pp_tt_tuH,,110,000,,11,,0,,0,,0.04,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_tt_tuH/,,,,,,,,
+mg_pp_tt_tuH_pt500,,1,000,000,,100,,0,,0,,0.37,,/eos/experiment/fcc/hh/generation/lhe//mg_pp_tt_tuH_pt500/,,,,,,,,
+total,,2,841,706,330,,319,213,,0.0,,308,075.0,,501.23,,,,

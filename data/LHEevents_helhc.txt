@@ -40,41 +40,45 @@ mg_pp_tautau_5f_HT_2000_5000,,6,100,000,,610,,0,,610,,0.59,,/eos/experiment/fcc/
 mg_pp_tautau_5f_HT_5000_10000,,6,100,000,,610,,0,,610,,0.59,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_tautau_5f_HT_5000_10000/,,tautau,,5000 < HT < 10000,,no matching,,2.603e-06
 mg_pp_tautau_5f_HT_10000_27000,,6,100,000,,610,,0,,610,,0.58,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_tautau_5f_HT_10000_27000/,,tautau,,10000 < HT < 27000,,no matching,,6.65e-09
 mg_pp_jjja_5f,,196,829,995,,19683,,0,,19683,,36.16,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_jjja_5f/,,photon +jets,,,,,,1.125e+04
-mg_pp_t123j_5f,,1,000,173,,8844,,0,,0,,0.28,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_t123j_5f/,,,,,,,,
-mg_pp_tv012j_5f,,1,004,453,,1340,,0,,0,,0.23,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_tv012j_5f/,,,,,,,,
-mg_pp_z0123j_4f,,1,022,394,,1205,,0,,0,,0.23,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_z0123j_4f/,,,,,,,,
-mg_pp_w0123j_4f,,1,046,369,,1197,,0,,0,,0.24,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_w0123j_4f/,,,,,,,,
-mg_pp_bbh_4f,,33,260,000,,3326,,0,,3326,,4.56,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_bbh_4f/,,bbar plus higgs,,50 < mbb < 300,,,,1.0
+mg_pp_t123j_5f,,3,362,345,,360,,0,,0,,0.47,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_t123j_5f/,,,,,,,,
+mg_pp_tv012j_5f,,2,010,000,,201,,0,,0,,0.30,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_tv012j_5f/,,,,,,,,
+mg_pp_z0123j_4f,,2,000,000,,200,,0,,0,,0.16,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_z0123j_4f/,,,,,,,,
+mg_pp_w0123j_4f,,1,990,000,,199,,0,,0,,0.15,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_w0123j_4f/,,,,,,,,
+mg_pp_bbh_4f,,33,260,000,,3326,,0,,3326,,4.56,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_bbh_4f/,,bbar plus higgs,,100 < mbb < 150,,,,0.29200332
 mg_pp_tth01j_5f,,33,940,000,,3394,,0,,3394,,6.34,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_tth01j_5f/,,higgs associated with top pair + 0/1 jets,,inclusive,,xqcut = 80, qCut = 120,,3.274
 mg_pp_jjaa_5f,,33,750,000,,3375,,0,,3375,,6.10,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_jjaa_5f/,,dijet diphoton,,,,,,5.941
-mg_pp_hh_5f_kl_0500,,8,210,000,,821,,0,,821,,1.39,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_0500/,,HH, H->bb, H undec., kl = ,,inclusive,,,,0.1612
-mg_pp_hh_5f_kl_0750,,8,370,000,,837,,0,,837,,1.41,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_0750/,,HH, H->bb, H undec., kl = ,,inclusive,,,,0.1349
-mg_pp_hh_5f_kl_0800,,8,350,000,,835,,0,,835,,1.41,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_0800/,,HH, H->bb, H undec., kl = ,,inclusive,,,,0.1307
-mg_pp_hh_5f_kl_0850,,8,220,000,,822,,0,,822,,1.39,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_0850/,,HH, H->bb, H undec., kl = ,,inclusive,,,,0.1253
-mg_pp_hh_5f_kl_0875,,8,380,000,,838,,0,,838,,1.41,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_0875/,,HH, H->bb, H undec., kl = ,,inclusive,,,,0.1231
-mg_pp_hh_5f_kl_0900,,8,330,000,,833,,0,,833,,1.41,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_0900/,,HH, H->bb, H undec., kl = ,,inclusive,,,,0.1213
-mg_pp_hh_5f_kl_0925,,8,330,000,,833,,0,,833,,1.41,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_0925/,,HH, H->bb, H undec., kl = ,,inclusive,,,,0.1192
-mg_pp_hh_5f_kl_0950,,8,310,000,,831,,0,,831,,1.40,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_0950/,,HH, H->bb, H undec., kl = ,,inclusive,,,,0.1169
-mg_pp_hh_5f_kl_0975,,8,310,000,,831,,0,,831,,1.40,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_0975/,,HH, H->bb, H undec., kl = ,,inclusive,,,,0.1148
+mg_pp_hh_5f_kl_0500,,8,210,000,,821,,0,,821,,1.39,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_0500/,,HH, H->bb, H undec., kl = 0.500,,inclusive,,,,0.23823473436
+mg_pp_hh_5f_kl_0750,,8,370,000,,837,,0,,837,,1.41,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_0750/,,HH, H->bb, H undec., kl = 0.750,,inclusive,,,,0.197409636361
+mg_pp_hh_5f_kl_0800,,8,350,000,,835,,0,,835,,1.41,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_0800/,,HH, H->bb, H undec., kl = 0.800,,inclusive,,,,0.189928552157
+mg_pp_hh_5f_kl_0850,,8,220,000,,822,,0,,822,,1.39,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_0850/,,HH, H->bb, H undec., kl = 0.850,,inclusive,,,,0.18267544642
+mg_pp_hh_5f_kl_0875,,8,380,000,,838,,0,,838,,1.41,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_0875/,,HH, H->bb, H undec., kl = 0.875,,inclusive,,,,0.179134385475
+mg_pp_hh_5f_kl_0900,,8,330,000,,833,,0,,833,,1.41,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_0900/,,HH, H->bb, H undec., kl = 0.900,,inclusive,,,,0.175650319148
+mg_pp_hh_5f_kl_0925,,8,330,000,,833,,0,,833,,1.41,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_0925/,,HH, H->bb, H undec., kl = 0.925,,inclusive,,,,0.172223247436
+mg_pp_hh_5f_kl_0950,,8,310,000,,831,,0,,831,,1.40,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_0950/,,HH, H->bb, H undec., kl = 0.950,,inclusive,,,,0.168853170341
+mg_pp_hh_5f_kl_0975,,8,310,000,,831,,0,,831,,1.40,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_0975/,,HH, H->bb, H undec., kl = 0.975,,inclusive,,,,0.165540087862
 mg_pp_ttw_5f,,1,020,000,,30,,0,,0,,0.17,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_ttw_5f/,,,,,,,,
-mg_pp_hh_5f_kl_1000,,8,240,000,,824,,0,,824,,1.39,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_1000/,,HH, H->bb, H undec., kl = ,,inclusive,,,,0.1127
-mg_pp_hh_5f_kl_1025,,8,280,000,,828,,0,,828,,1.40,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_1025/,,HH, H->bb, H undec., kl = ,,inclusive,,,,0.11
-mg_pp_hh_5f_kl_1050,,8,400,000,,840,,0,,840,,1.42,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_1050/,,HH, H->bb, H undec., kl = ,,inclusive,,,,0.1084
-mg_pp_hh_5f_kl_1075,,8,300,000,,830,,0,,830,,1.40,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_1075/,,HH, H->bb, H undec., kl = ,,inclusive,,,,0.1059
-mg_pp_hh_5f_kl_1100,,8,270,000,,827,,0,,827,,1.39,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_1100/,,HH, H->bb, H undec., kl = ,,inclusive,,,,0.1039
-mg_pp_hh_5f_kl_1125,,8,310,000,,831,,0,,831,,1.40,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_1125/,,HH, H->bb, H undec., kl = ,,inclusive,,,,0.1019
-mg_pp_hh_5f_kl_1150,,8,320,000,,832,,0,,832,,1.40,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_1150/,,HH, H->bb, H undec., kl = ,,inclusive,,,,0.1005
-mg_pp_hh_5f_kl_1200,,8,320,000,,832,,0,,832,,1.40,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_1200/,,HH, H->bb, H undec., kl = ,,inclusive,,,,0.09671
-mg_pp_hh_5f_kl_1250,,8,310,000,,831,,0,,831,,1.40,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_1250/,,HH, H->bb, H undec., kl = ,,inclusive,,,,0.09307
-mg_pp_hh_5f_kl_1500,,8,350,000,,835,,0,,835,,1.41,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_1500/,,HH, H->bb, H undec., kl = ,,inclusive,,,,0.07687
+mg_pp_hh_5f_kl_1000,,8,240,000,,824,,0,,824,,1.39,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_1000/,,HH, H->bb, H undec., kl = 1.000,,inclusive,,,,0.162284
+mg_pp_hh_5f_kl_1025,,8,280,000,,828,,0,,828,,1.40,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_1025/,,HH, H->bb, H undec., kl = 1.025,,inclusive,,,,0.159084906754
+mg_pp_hh_5f_kl_1050,,8,400,000,,840,,0,,840,,1.42,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_1050/,,HH, H->bb, H undec., kl = 1.050,,inclusive,,,,0.155942808125
+mg_pp_hh_5f_kl_1075,,8,300,000,,830,,0,,830,,1.40,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_1075/,,HH, H->bb, H undec., kl = 1.075,,inclusive,,,,0.152857704111
+mg_pp_hh_5f_kl_1100,,8,270,000,,827,,0,,827,,1.39,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_1100/,,HH, H->bb, H undec., kl = 1.100,,inclusive,,,,0.149829594715
+mg_pp_hh_5f_kl_1125,,8,310,000,,831,,0,,831,,1.40,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_1125/,,HH, H->bb, H undec., kl = 1.125,,inclusive,,,,0.146858479934
+mg_pp_hh_5f_kl_1150,,8,320,000,,832,,0,,832,,1.40,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_1150/,,HH, H->bb, H undec., kl = 1.150,,inclusive,,,,0.14394435977
+mg_pp_hh_5f_kl_1200,,8,320,000,,832,,0,,832,,1.40,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_1200/,,HH, H->bb, H undec., kl = 1.200,,inclusive,,,,0.138287103291
+mg_pp_hh_5f_kl_1250,,8,310,000,,831,,0,,831,,1.40,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_1250/,,HH, H->bb, H undec., kl = 1.250,,inclusive,,,,0.132857825278
+mg_pp_hh_5f_kl_1500,,8,350,000,,835,,0,,835,,1.41,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_hh_5f_kl_1500/,,HH, H->bb, H undec., kl = 1.500,,inclusive,,,,0.109131112195
 mg_pp_ttww_4f,,1,137,099,,54,,0,,0,,0.24,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_ttww_4f/,,,,,,,,
 mg_pp_ttz_5f,,2,169,513,,54,,0,,0,,0.36,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_ttz_5f/,,,,,,,,
 mg_pp_ttwz_5f,,1,025,880,,122,,0,,0,,0.21,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_ttwz_5f/,,,,,,,,
 mg_pp_ttbb_4f,,1,010,000,,101,,0,,0,,0.21,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_ttbb_4f/,,,,,,,,
 mg_pp_ttzz_5f,,1,030,000,,103,,0,,0,,0.21,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_ttzz_5f/,,,,,,,,
-mg_pp_tt0123j_4f,,888,582,,96,,0,,0,,0.24,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_tt0123j_4f/,,,,,,,,
-mg_pp_vv012j_5f,,1,030,000,,103,,0,,0,,0.22,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_vv012j_5f/,,,,,,,,
+mg_pp_tt0123j_4f,,2,010,000,,201,,0,,0,,0.31,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_tt0123j_4f/,,,,,,,,
+mg_pp_vv012j_5f,,2,120,000,,212,,0,,0,,0.33,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_vv012j_5f/,,,,,,,,
 mg_pp_jj_lo_PT_30_inf,,1,130,000,,113,,0,,0,,0.14,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_jj_lo_PT_30_inf/,,,,,,,,
-mg_pp_vh012j_5f,,9,990,000,,999,,0,,0,,1.42,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_vh012j_5f/,,,,,,,,
+mg_pp_vh012j_5f,,9,990,000,,999,,0,,999,,1.42,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_vh012j_5f/,,higgsstrahlung + 0/1/2 jets,,inclusive,,xqcut = 40, qCut = 60,,7.255
 mg_pp_jjj_5f,,1,010,000,,101,,0,,0,,0.23,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_jjj_5f/,,,,,,,,
-total,,706,668,271,,82,616,,0.0,,68,154.0,,106.72,,,,
+mg_pp_tt012j_5f,,2,010,000,,201,,0,,0,,0.30,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_tt012j_5f/,,,,,,,,
+mg_pp_tth0123j_5f,,10,000,,1,,0,,0,,0.00,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_tth0123j_5f/,,,,,,,,
+mg_pp_ttx0_cosa_-10_0123j_x0bb_5f,,1,000,000,,100,,0,,0,,0.21,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_ttx0_cosa_-10_0123j_x0bb_5f/,,,,,,,,
+mg_pp_ttx0_cosa_-10_0123j_5f,,10,000,,1,,0,,0,,0.00,,/eos/experiment/fcc/helhc/generation/lhe//mg_pp_ttx0_cosa_-10_0123j_5f/,,,,,,,,
+total,,717,198,645,,71,507,,0.0,,69,153.0,,107.53,,,,
