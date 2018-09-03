@@ -4,6 +4,8 @@ function search() {
   var input, filter, table, tr, td, i;
   input = document.getElementById("myInput");
   filter = input.value.toUpperCase();
+  filters = explode($filter, "*");
+  echo $filters
   table = document.getElementById("myTable");
   tr = table.getElementsByTagName("tr");
 
