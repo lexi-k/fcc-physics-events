@@ -3,7 +3,7 @@
     <option value="LHEevents.php">Les Houches Events</option>
     <option value="Delphesevents_fcc_v01.php">Delphes events fcc_v01</option>
     <option value="Delphesevents_fcc_v02.php">Delphes events fcc_v02</option>
-    <option value="Delphesevents_cms.php">Delphes events CMS</option>
+    <option value="Delphesevents_fcc_v03.php">Delphes events fcc_v03</option>
     <option value="secure_email_form.php">Contact</option>
 </select>
 
