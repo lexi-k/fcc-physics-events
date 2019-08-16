@@ -8,7 +8,7 @@
 </head>
 
 <?php
-$txt_file    = file_get_contents('data/FCCsim_v03_ecal.txt');
+$txt_file    = file_get_contents('data/FCChh/FCCsim_v03_ecal.txt');
 $rows        = explode("\n", $txt_file);
 ?>
 

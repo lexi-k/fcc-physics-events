@@ -23,7 +23,6 @@
 
   <li><b href="#">Full Simulation FCChh</b>
     <ul>
-      <li><a href="FCCsim_v01.php">FCCSim v01</a></li>
       <li><a href="FCCsim_v02_pre.php">FCCSim v02_pre</a></li>
       <li><a href="FCCsim_v03.php">FCCSim v03</a></li>
       <li><a href="FCCsim_v03_ecal.php">FCCSim v03 ecal</a></li>
@@ -32,16 +31,19 @@
 
   <li><b href="#">FCCee Physics</b>
     <ul>
-
+      <li><a href="Delphesevents_fccee_v01.php">FCC v01</a></li>
     </ul>
   </li>
 
   <li><b href="#">Stat</b>
     <ul>
-      <li><a href="data/statlhe_FCC.html">LHE 100TeV</a></li>
-      <li><a href="data/statlhe_HELHC.html">LHE 27TeV</a></li>
-      <li><a href="data/statdelphesfcc_v02_FCC.html">FCC v02</a></li>
-      <li><a href="data/statdelpheshelhc_v01_HELHC.html">HE-LHC v01</a></li>
+      <li><a href="data/FCChh/statlhe.html">LHE 100TeV</a></li>
+      <li><a href="data/HELHC/statlhe.html">LHE 27TeV</a></li>
+      <li><a href="data/FCChh/statdelphesfcc_v02.html">FCC v02</a></li>
+      <li><a href="data/FCChh/statdelphesfcc_v03.html">FCC v03</a></li>
+      <li><a href="data/HELHC/statdelpheshelhc_v01.html">HE-LHC v01</a></li>
+      <li><a href="data/FCCee/statdelphesfcc_v01.html">FCCee v01</a></li>
+
     </ul>
   </li>
 

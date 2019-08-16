@@ -8,7 +8,7 @@
 </head>
 
 <?php
-$txt_file    = file_get_contents('data/Delphesevents_fcc_v03.txt');
+$txt_file    = file_get_contents('data/FCChh/Delphesevents_fcc_v03.txt');
 $rows        = explode("\n", $txt_file);
 ?>
 
