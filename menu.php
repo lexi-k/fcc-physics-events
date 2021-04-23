@@ -10,5 +10,6 @@
 <select name="selection" onchange="document.location.href = this.options[this.selectedIndex].value;">
     <option selected="selected">Menu Simulation</option>
     <option value="FCCsim_v01.php">FCCSim v01</option>
+    <option value="FCCsim_v02.php">FCCSim v02</option>
     <option value="secure_email_form.php">Contact</option>
 </select>

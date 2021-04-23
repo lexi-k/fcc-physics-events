@@ -9,6 +9,7 @@
       <li><a href="LHEevents.php"            >Les Houches</a></li>
       <li><a href="Delphesevents_fcc_v02.php">FCC v02</a></li>
       <li><a href="Delphesevents_fcc_v03.php">FCC v03</a></li>
+      <li><a href="Delphesevents_fcc_v04.php">FCC v04</a></li>
     </ul>
   </li>
 
@@ -31,7 +32,13 @@
 
   <li><b href="#">FCCee Physics</b>
     <ul>
+      <li><a href="LHEevents_FCCee.php"            >Les Houches</a></li>
       <li><a href="Delphesevents_fccee_v01.php">FCC v01</a></li>
+      <li><a href="Delphesevents_fccee_v02.php">FCC v02</a></li>
+      <li><a href="Delphesevents_fccee_tmp.php">FCC tmp</a></li>
+      <li><a href="Delphesevents_fccee_tmp_v02.php">FCC tmp v02</a></li>
+      <li><a href="Delphesevents_fccee_tmp_v03.php">FCC tmp v03</a></li>
+      <li><a href="Delphesevents_fccee_tmp_training.php">FCC tmp training</a></li>
     </ul>
   </li>
 
