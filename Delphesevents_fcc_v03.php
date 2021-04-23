@@ -47,7 +47,7 @@ $NbrLigne 	= count($info);  // $NbrLigne : le nombre de lignes
 <?php include 'search.php'; ?>
 
 
-<h2>Delphes FCC Physic events v0.2</h2>
+<h2>Delphes FCC Physic events v0.3</h2>
 <input type="text" id="myInput" onkeyup="search()" placeholder="Search for names.." title="Type in a name">
 <table id="myTable">
   <thead>

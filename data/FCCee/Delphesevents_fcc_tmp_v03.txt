@@ -1,0 +1,15 @@
+p8_ee_Zbb_ecm91_EvtGen_Bc2TauNuTAUHADNU,,2,000,000,,0,,200,,0,,200,,10.16,,/eos/experiment/fcc/ee/generation/DelphesEvents/fcc_tmp_v03/p8_ee_Zbb_ecm91_EvtGen_Bc2TauNuTAUHADNU/,,Z/Gamma* ecm=91.188GeV to bb,,EvtGen Bc+ -> tau+ nu, tau -> 3pi nu TAUHADNU model,,0.011680911114880002,,1.0,,1.0
+p8_ee_Zbb_ecm91_EvtGen_Bu2TauNuTAUHADNU,,1,990,000,,0,,199,,0,,199,,10.26,,/eos/experiment/fcc/ee/generation/DelphesEvents/fcc_tmp_v03/p8_ee_Zbb_ecm91_EvtGen_Bu2TauNuTAUHADNU/,,Z/Gamma* ecm=91.188GeV to bb,,EvtGen B+ -> tau+ nu, tau -> 3pi nu TAUHADNU model,,0.05799621863924,,1.0,,1.0
+p8_ee_Zbb_ecm91,,1,000,000,000,,0,,10000,,0,,10000,,5732.64,,/eos/experiment/fcc/ee/generation/DelphesEvents/fcc_tmp_v03/p8_ee_Zbb_ecm91/,,Z/Gamma* ecm=91.188GeV to bb,,inclusive decays,,6645.46,,1.0,,1.0
+p8_ee_Zcc_ecm91,,1,000,000,000,,0,,10000,,0,,10000,,5410.91,,/eos/experiment/fcc/ee/generation/DelphesEvents/fcc_tmp_v03/p8_ee_Zcc_ecm91/,,Z/Gamma* ecm=91.188GeV to cc,,inclusive decays,,5215.46,,1.0,,1.0
+p8_ee_Zuds_ecm91,,1,000,000,000,,0,,10000,,0,,10000,,5148.42,,/eos/experiment/fcc/ee/generation/DelphesEvents/fcc_tmp_v03/p8_ee_Zuds_ecm91/,,Z/Gamma* ecm=91.188GeV to uds,,inclusive decays,,18616.5,,1.0,,1.0
+mgp8_ee_tbw_FCNC_tua_ecm240,,50,000,,0,,5,,0,,5,,0.31,,/eos/experiment/fcc/ee/generation/DelphesEvents/fcc_tmp_v03/mgp8_ee_tbw_FCNC_tua_ecm240/,,single top FCNC,,to be added,,1.0,,1.0,,1.0
+mgp8_ee_tbw_FCNC_tuz_ecm240,,50,000,,0,,5,,0,,5,,0.31,,/eos/experiment/fcc/ee/generation/DelphesEvents/fcc_tmp_v03/mgp8_ee_tbw_FCNC_tuz_ecm240/,,single top FCNC,,to be added,,1.0,,1.0,,1.0
+mgp8_ee_tbw_FCNC_tuz_ecm365,,50,000,,0,,5,,0,,5,,0.38,,/eos/experiment/fcc/ee/generation/DelphesEvents/fcc_tmp_v03/mgp8_ee_tbw_FCNC_tuz_ecm365/,,single top FCNC,,to be added,,1.0,,1.0,,1.0
+mgp8_ee_tbw_FCNC_tca_ecm240,,50,000,,0,,5,,0,,5,,0.31,,/eos/experiment/fcc/ee/generation/DelphesEvents/fcc_tmp_v03/mgp8_ee_tbw_FCNC_tca_ecm240/,,single top FCNC,,to be added,,1.0,,1.0,,1.0
+mgp8_ee_tbw_FCNC_tca_ecm365,,50,000,,0,,5,,0,,5,,0.39,,/eos/experiment/fcc/ee/generation/DelphesEvents/fcc_tmp_v03/mgp8_ee_tbw_FCNC_tca_ecm365/,,single top FCNC,,to be added,,1.0,,1.0,,1.0
+mgp8_ee_tbw_FCNC_tcz_ecm240,,50,000,,0,,5,,0,,5,,0.31,,/eos/experiment/fcc/ee/generation/DelphesEvents/fcc_tmp_v03/mgp8_ee_tbw_FCNC_tcz_ecm240/,,single top FCNC,,to be added,,1.0,,1.0,,1.0
+mgp8_ee_tt_FCNC_tca_ecm365,,50,000,,0,,5,,0,,5,,0.34,,/eos/experiment/fcc/ee/generation/DelphesEvents/fcc_tmp_v03/mgp8_ee_tt_FCNC_tca_ecm365/,,ttbar FCNC,,to be added,,1.0,,1.0,,1.0
+mgp8_ee_tt_FCNC_tua_ecm365,,50,000,,0,,5,,0,,5,,0.33,,/eos/experiment/fcc/ee/generation/DelphesEvents/fcc_tmp_v03/mgp8_ee_tt_FCNC_tua_ecm365/,,ttbar FCNC,,to be added,,1.0,,1.0,,1.0
+mgp8_ee_tt_FCNC_tuz_ecm365,,50,000,,0,,5,,0,,5,,0.48,,/eos/experiment/fcc/ee/generation/DelphesEvents/fcc_tmp_v03/mgp8_ee_tt_FCNC_tuz_ecm365/,,ttbar FCNC,,to be added,,1.0,,1.0,,1.0
+mgp8_ee_tt_FCNC_tcz_ecm365,,50,000,,0,,5,,0,,5,,0.49,,/eos/experiment/fcc/ee/generation/DelphesEvents/fcc_tmp_v03/mgp8_ee_tt_FCNC_tcz_ecm365/,,ttbar FCNC,,to be added,,1.0,,1.0,,1.0

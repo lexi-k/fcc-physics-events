@@ -1,0 +1,15 @@
+mg_ee_tt_ecm350,,100,000,,10,,0,,10,,0.00,,/eos/experiment/fcc/ee/generation/lhe//mg_ee_tt_ecm350/,,tt,,tt inclusive,,,,1.0
+mg_ee_zh_ecm240,,10,000,000,,1000,,0,,0,,0.38,,/eos/experiment/fcc/ee/generation/lhe//mg_ee_zh_ecm240/,,,,,,,,
+mg_ee_tt_FCNC_tH_ecm365,,100,000,,10,,0,,10,,0.01,,/eos/experiment/fcc/ee/generation/lhe//mg_ee_tt_FCNC_tH_ecm365/,,tt,,tt inclusive,,,,1.0
+mg_ee_tbw_FCNC_tca_ecm240,,2,000,000,,200,,0,,200,,0.40,,/eos/experiment/fcc/ee/generation/lhe//mg_ee_tbw_FCNC_tca_ecm240/,,single top FCNC,,to be added,,,,1.0
+mg_ee_tbw_FCNC_tca_ecm365,,2,000,000,,200,,0,,200,,0.41,,/eos/experiment/fcc/ee/generation/lhe//mg_ee_tbw_FCNC_tca_ecm365/,,single top FCNC,,to be added,,,,1.0
+mg_ee_tbw_FCNC_tcz_ecm240,,2,000,000,,200,,0,,200,,0.40,,/eos/experiment/fcc/ee/generation/lhe//mg_ee_tbw_FCNC_tcz_ecm240/,,single top FCNC,,to be added,,,,1.0
+mg_ee_tbw_FCNC_tua_ecm240,,2,000,000,,200,,0,,200,,0.40,,/eos/experiment/fcc/ee/generation/lhe//mg_ee_tbw_FCNC_tua_ecm240/,,single top FCNC,,to be added,,,,1.0
+mg_ee_tbw_FCNC_tua_ecm365,,2,000,000,,200,,0,,200,,0.41,,/eos/experiment/fcc/ee/generation/lhe//mg_ee_tbw_FCNC_tua_ecm365/,,single top FCNC,,to be added,,,,1.0
+mg_ee_tbw_FCNC_tuz_ecm240,,2,000,000,,200,,0,,200,,0.40,,/eos/experiment/fcc/ee/generation/lhe//mg_ee_tbw_FCNC_tuz_ecm240/,,single top FCNC,,to be added,,,,1.0
+mg_ee_tbw_FCNC_tuz_ecm365,,2,000,000,,200,,0,,200,,0.41,,/eos/experiment/fcc/ee/generation/lhe//mg_ee_tbw_FCNC_tuz_ecm365/,,single top FCNC,,to be added,,,,1.0
+mg_ee_tt_FCNC_tca_ecm365,,5,000,000,,500,,0,,500,,1.37,,/eos/experiment/fcc/ee/generation/lhe//mg_ee_tt_FCNC_tca_ecm365/,,ttbar FCNC,,to be added,,,,1.0
+mg_ee_tt_FCNC_tcz_ecm365,,5,000,000,,500,,0,,500,,1.36,,/eos/experiment/fcc/ee/generation/lhe//mg_ee_tt_FCNC_tcz_ecm365/,,ttbar FCNC,,to be added,,,,1.0
+mg_ee_tt_FCNC_tua_ecm365,,5,000,000,,500,,0,,500,,1.37,,/eos/experiment/fcc/ee/generation/lhe//mg_ee_tt_FCNC_tua_ecm365/,,ttbar FCNC,,to be added,,,,1.0
+mg_ee_tt_FCNC_tuz_ecm365,,5,000,000,,500,,0,,500,,1.36,,/eos/experiment/fcc/ee/generation/lhe//mg_ee_tt_FCNC_tuz_ecm365/,,ttbar FCNC,,to be added,,,,1.0
+total,,44,200,000,,4,420,,0.0,,3,420.0,,8.69,,,,
