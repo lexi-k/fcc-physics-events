@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>fcc tmp_training</title>
+<title>spring2021 IDEA 3T</title>
 
 <style>
 <?php include 'style/main.css'; ?>
@@ -8,7 +8,7 @@
 </head>
 
 <?php
-$txt_file    = file_get_contents('data/FCCee/Delphesevents_fcc_tmp_training.txt');
+$txt_file    = file_get_contents('data/FCCee/Delphesevents_spring2021_IDEA_3T.txt');
 $rows        = explode("\n", $txt_file);
 ?>
 
@@ -47,7 +47,7 @@ $NbrLigne 	= count($info);  // $NbrLigne : le nombre de lignes
 <?php include 'search.php'; ?>
 
 
-<h2>Delphes FCCee Physic events tmp version for training (orthogonal seeds) (IDEA with Track Covariance full matrix lower triangle)</h2>
+<h2>Delphes FCCee Physic events spring 2021 production (IDEA with Track Covariance full matrix lower triangle)</h2>
 <input type="text" id="myInput" onkeyup="search()" placeholder="Search for names.." title="Type in a name">
 <table id="myTable">
   <thead>

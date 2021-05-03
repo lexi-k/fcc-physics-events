@@ -1,0 +1,4 @@
+p8_ee_ZH_ecm240,,10,000,000,,0,,100,,0,,100,,96.37,,/eos/experiment/fcc/ee/generation/DelphesEvents/spring2021/IDEA_3T/p8_ee_ZH_ecm240/,,ZH ecm=240GeV,,inclusive decays,,0.201037,,1.0,,1.0
+p8_ee_ZZ_ecm240,,10,000,000,,0,,100,,0,,100,,71.08,,/eos/experiment/fcc/ee/generation/DelphesEvents/spring2021/IDEA_3T/p8_ee_ZZ_ecm240/,,ZZ ecm=240GeV,,inclusive decays,,1.35899,,1.0,,1.0
+p8_ee_WW_ecm240,,10,000,000,,0,,100,,0,,100,,68.56,,/eos/experiment/fcc/ee/generation/DelphesEvents/spring2021/IDEA_3T/p8_ee_WW_ecm240/,,WW ecm=240GeV,,inclusive decays,,16.4385,,1.0,,1.0
+total,,30,000,000,,0.0,,300,,0.0,,300.0,,236.00,,,,
