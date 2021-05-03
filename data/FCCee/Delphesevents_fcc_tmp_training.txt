@@ -1,6 +1,0 @@
-p8_ee_Zuds_ecm91,,599,500,000,,0,,5995,,0,,5995,,3086.83,,/eos/experiment/fcc/ee/generation/DelphesEvents/fcc_tmp_training/p8_ee_Zuds_ecm91/,,Z/Gamma* ecm=91.188GeV to uds,,inclusive decays,,18616.5,,1.0,,1.0
-p8_ee_Zcc_ecm91,,200,000,000,,0,,2000,,0,,2000,,1082.32,,/eos/experiment/fcc/ee/generation/DelphesEvents/fcc_tmp_training/p8_ee_Zcc_ecm91/,,Z/Gamma* ecm=91.188GeV to cc,,inclusive decays,,5215.46,,1.0,,1.0
-p8_ee_Zbb_ecm91,,200,000,000,,0,,2000,,0,,2000,,1146.68,,/eos/experiment/fcc/ee/generation/DelphesEvents/fcc_tmp_training/p8_ee_Zbb_ecm91/,,Z/Gamma* ecm=91.188GeV to bb,,inclusive decays,,6645.46,,1.0,,1.0
-p8_ee_Zbb_ecm91_EvtGen_Bu2TauNuTAUHADNU,,500,000,,0,,50,,0,,50,,2.58,,/eos/experiment/fcc/ee/generation/DelphesEvents/fcc_tmp_training/p8_ee_Zbb_ecm91_EvtGen_Bu2TauNuTAUHADNU/,,Z/Gamma* ecm=91.188GeV to bb,,EvtGen B+ -> tau+ nu, tau -> 3pi nu TAUHADNU model,,0.05799621863924,,1.0,,1.0
-p8_ee_Zbb_ecm91_EvtGen_Bc2TauNuTAUHADNU,,500,000,,0,,50,,0,,50,,2.54,,/eos/experiment/fcc/ee/generation/DelphesEvents/fcc_tmp_training/p8_ee_Zbb_ecm91_EvtGen_Bc2TauNuTAUHADNU/,,Z/Gamma* ecm=91.188GeV to bb,,EvtGen Bc+ -> tau+ nu, tau -> 3pi nu TAUHADNU model,,0.011680911114880002,,1.0,,1.0
-total,,1,000,500,000,,0.0,,10,095,,0.0,,10,095.0,,5320.95,,,,

@@ -20,15 +20,27 @@
     </ul>
 
 
-  <li><b href="#">FCCee Physics</b>
+  <li><b href="#">FCCee Physics LHE</b>
     <ul>
-      <li><a href="LHEevents_FCCee.php"            >Les Houches</a></li>
+      <li><a href="LHEevents_FCCee.php">Les Houches</a></li>
+    </ul>
+  </li>
+
+  <li><b href="#">FCCee Physics IDEA</b>
+    <ul>
       <li><a href="Delphesevents_fccee_v01.php">FCC v01</a></li>
       <li><a href="Delphesevents_fccee_v02.php">FCC v02</a></li>
       <li><a href="Delphesevents_fccee_tmp.php">FCC tmp</a></li>
       <li><a href="Delphesevents_fccee_tmp_v02.php">FCC tmp v02</a></li>
       <li><a href="Delphesevents_fccee_tmp_v03.php">FCC tmp v03</a></li>
-      <li><a href="Delphesevents_fccee_tmp_training.php">FCC tmp training</a></li>
+      <li><a href="Delphesevents_spring2021_IDEA.php">spring 2021</a></li>      
+      <li><a href="Delphesevents_spring2021_training_IDEA.php">spring 2021 training</a></li>      
+    </ul>
+  </li>
+
+  <li><b href="#">FCCee Physics IDEA 3T</b>
+    <ul>
+      <li><a href="Delphesevents_spring2021_IDEA_3T.php">spring 2021</a></li>      
     </ul>
   </li>
 
