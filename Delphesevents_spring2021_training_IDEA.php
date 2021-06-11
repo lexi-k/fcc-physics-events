@@ -12,7 +12,7 @@ $txt_file    = file_get_contents('data/FCCee/Delphesevents_spring2021_training_I
 $rows        = explode("\n", $txt_file);
 ?>
 
-<?php include 'topbar.php'; ?>
+<?php include 'topbar_fccee_spring2021_training.php'; ?>
 
 <body>
 

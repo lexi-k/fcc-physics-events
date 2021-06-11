@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>spring2021 IDEA</title>
+<title>spring2021 IDEA FullSilicon</title>
 
 <style>
 <?php include 'style/main.css'; ?>
@@ -8,7 +8,7 @@
 </head>
 
 <?php
-$txt_file    = file_get_contents('data/FCCee/Delphesevents_spring2021_IDEA.txt');
+$txt_file    = file_get_contents('data/FCCee/Delphesevents_spring2021_IDEA_FullSilicon.txt');
 $rows        = explode("\n", $txt_file);
 ?>
 

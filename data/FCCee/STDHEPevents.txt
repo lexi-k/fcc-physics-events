@@ -1,0 +1,23 @@
+wz_ee_mumuH_ecm240,,1,000,000,,10,,0,,0,,4.86,,/eos/experiment/fcc/ee/generation/stdhep//wz_ee_mumuH_ecm240/,,,,,,,,
+wzp6_ee_mumuH_ecm240_v2,,1,000,000,,10,,0,,0,,4.82,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_mumuH_ecm240_v2/,,mumuH ecm=240 GeV,,inclusive Higgs decays,,,,6.7643e-3
+wzp6_noBES_ee_mumuH_ecm240,,1,000,000,,10,,0,,0,,4.78,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_noBES_ee_mumuH_ecm240/,,mumuH ecm=240 GeV,,inclusive Higgs decays,,,,6.7626e-3
+wzp6_ee_mumuH_ecm240,,1,000,000,,10,,0,,0,,4.82,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_mumuH_ecm240/,,mumuH ecm=240 GeV,,inclusive Higgs decays,,,,6.7643e-3
+wzp6_ee_mumuH_mH-higher-100MeV_ecm240,,1,000,000,,10,,0,,0,,4.82,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_mumuH_mH-higher-100MeV_ecm240/,,mumuH ecm=240 GeV, vary mH,,inclusive Higgs decays,,,,6.7393e-3
+wzp6_ee_mumuH_mH-higher-50MeV_ecm240,,1,000,000,,10,,0,,0,,4.82,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_mumuH_mH-higher-50MeV_ecm240/,,mumuH ecm=240 GeV, vary mH,,inclusive Higgs decays,,,,6.7488e-3
+wzp6_ee_mumuH_mH-lower-50MeV_ecm240,,1,000,000,,10,,0,,0,,4.82,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_mumuH_mH-lower-50MeV_ecm240/,,mumuH ecm=240 GeV, vary mH,,inclusive Higgs decays,,,,6.7738e-3
+wzp6_ee_mumuH_mH-lower-100MeV_ecm240,,1,000,000,,10,,0,,0,,4.82,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_mumuH_mH-lower-100MeV_ecm240/,,mumuH ecm=240 GeV, vary mH,,inclusive Higgs decays,,,,6.7849e-3
+wzp6_ee_mumuH_BES-higher-6pc_ecm240,,1,000,000,,10,,0,,0,,4.82,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_mumuH_BES-higher-6pc_ecm240/,,mumuH ecm=240 GeV, vary BES,,inclusive Higgs decays,,,,6.76052e-3
+wzp6_ee_mumuH_BES-lower-6pc_ecm240,,1,000,000,,10,,0,,0,,4.82,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_mumuH_BES-lower-6pc_ecm240/,,mumuH ecm=240 GeV, vary BES,,inclusive Higgs decays,,,,6.76602e-3
+wzp6_ee_tautauH_ecm240,,1,000,000,,10,,0,,0,,5.26,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_tautauH_ecm240/,,tautauH ecm=240 GeV,,inclusive Higgs decays,,,,6.7518e-3
+wzp6_ee_eeH_ecm240,,1,000,000,,10,,0,,0,,4.84,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_eeH_ecm240/,,eeH ecm=240 GeV,,inclusive Higgs decays,,,,7.1611e-3
+wzp6_ee_nunuH_ecm240,,3,000,000,,30,,0,,0,,14.28,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_nunuH_ecm240/,,nunuH ecm=240 GeV (all nu flavours),,inclusive Higgs decays,,,,46.191e-3
+wzp6_ee_qqH_ecm240,,10,000,000,,100,,0,,0,,84.23,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_qqH_ecm240/,,qqH ecm=240 GeV, q = u,d,s,c,b,,inclusive Higgs decays,,,,136.35e-3
+wzp6_egamma_eZ_Zmumu_ecm240,,5,000,000,,50,,0,,0,,1.88,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_egamma_eZ_Zmumu_ecm240/,,e(e)Z EPA, e- gamma, ecm=240 GeV,,Z to mumu,,,,103.68e-3
+wzp6_gammae_eZ_Zmumu_ecm240,,5,000,000,,50,,0,,0,,1.87,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_gammae_eZ_Zmumu_ecm240/,,e(e)Z EPA, e+ gamma, ecm=240 GeV,,Z to mumu,,,,103.68e-3
+wzp6_ee_mumuH_noISR_ecm240,,1,000,000,,10,,0,,0,,4.67,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_mumuH_noISR_ecm240/,,mumuH ecm=240 GeV, no ISR,,inclusive Higgs decays,,,,7.9757e-3
+wzp6_gaga_mumu_60_ecm240,,30,000,000,,300,,0,,0,,6.96,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_gaga_mumu_60_ecm240/,,gammagamma to mumu, M(mumu) > 60 GeV,  ecm=240 GeV,,,,,,1.5523
+wzp6_gaga_tautau_60_ecm240,,20,000,000,,200,,0,,0,,13.84,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_gaga_tautau_60_ecm240/,,gammagamma to tautau, M(tautau) > 60 GeV,  ecm=240 GeV,,,,,,0.836
+wzp6_ee_mumuH_ISRnoRecoil_ecm240,,1,000,000,,10,,0,,0,,4.74,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_mumuH_ISRnoRecoil_ecm240/,,mumuH ecm=240 GeV, ISR  pT=0,,inclusive Higgs decays,,,,6.7223e-3
+wzp6_ee_mumuH_BES-higher-1pc_ecm240,,1,000,000,,10,,0,,0,,4.82,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_mumuH_BES-higher-1pc_ecm240/,,mumuH ecm=240 GeV, vary BES,,inclusive Higgs decays,,,,6.76140e-3
+wzp6_ee_mumuH_BES-lower-1pc_ecm240,,1,000,000,,10,,0,,0,,4.82,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_mumuH_BES-lower-1pc_ecm240/,,mumuH ecm=240 GeV, vary BES,,inclusive Higgs decays,,,,6.76093e-3
+total,,89,000,000,,890,,0.0,,0.0,,200.39,,,,

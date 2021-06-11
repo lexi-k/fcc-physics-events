@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>spring2021 IDEA</title>
+<title>FCCee STDHEP</title>
 
 <style>
 <?php include 'style/main.css'; ?>
@@ -8,7 +8,7 @@
 </head>
 
 <?php
-$txt_file    = file_get_contents('data/FCCee/Delphesevents_spring2021_IDEA.txt');
+$txt_file    = file_get_contents('data/FCCee/STDHEPevents.txt');
 $rows        = explode("\n", $txt_file);
 ?>
 
@@ -19,13 +19,10 @@ $rows        = explode("\n", $txt_file);
  
 <?php
 
-
-$lname=array('NO','Name','Nevents','Nweights',
+$lname=array('NO','Name','Nevents',
              'Nfiles','Nbad','Neos','Size (GB)',
              'Output Path','Main Process','Final States',
-             'Cross Section (pb)','K-factor','Matching eff');
-
-
+             'Matching Param','Cross Section (pb)');
 
 $NbrCol 	= count($lname); // $NbrCol : le nombre de colonnes
 
@@ -47,7 +44,7 @@ $NbrLigne 	= count($info);  // $NbrLigne : le nombre de lignes
 <?php include 'search.php'; ?>
 
 
-<h2>Delphes FCCee Physic events spring 2021 production (IDEA with Track Covariance full matrix lower triangle)</h2>
+<h2>FCCee STDHEP Physic events</h2>
 <input type="text" id="myInput" onkeyup="search()" placeholder="Search for names.." title="Type in a name">
 <table id="myTable">
   <thead>

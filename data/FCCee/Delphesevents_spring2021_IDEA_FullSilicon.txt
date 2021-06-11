@@ -1,0 +1,10 @@
+p8_ee_ZH_ecm240,,9,936,348,,0,,100,,0,,100,,96.89,,/eos/experiment/fcc/ee/generation/DelphesEvents/spring2021/IDEA_FullSilicon/p8_ee_ZH_ecm240/,,ZH ecm=240GeV,,inclusive decays,,0.201868,,1.0,,1.0
+p8_ee_ZZ_ecm240,,10,000,000,,0,,100,,0,,100,,71.81,,/eos/experiment/fcc/ee/generation/DelphesEvents/spring2021/IDEA_FullSilicon/p8_ee_ZZ_ecm240/,,ZZ ecm=240GeV,,inclusive decays,,1.35899,,1.0,,1.0
+p8_ee_WW_ecm240,,10,000,000,,0,,100,,0,,100,,69.27,,/eos/experiment/fcc/ee/generation/DelphesEvents/spring2021/IDEA_FullSilicon/p8_ee_WW_ecm240/,,WW ecm=240GeV,,inclusive decays,,16.4385,,1.0,,1.0
+p8_noBES_ee_ZH_ecm240,,9,809,900,,0,,100,,0,,100,,95.35,,/eos/experiment/fcc/ee/generation/DelphesEvents/spring2021/IDEA_FullSilicon/p8_noBES_ee_ZH_ecm240/,,ZH ecm=240GeV, no BES,,inclusive decays,,0.201037,,1.0,,1.0
+p8_noBES_ee_ZZ_ecm240,,10,000,000,,0,,100,,0,,100,,71.60,,/eos/experiment/fcc/ee/generation/DelphesEvents/spring2021/IDEA_FullSilicon/p8_noBES_ee_ZZ_ecm240/,,ZZ ecm=240GeV, no BES,,inclusive decays,,1.35899,,1.0,,1.0
+p8_noBES_ee_WW_ecm240,,10,000,000,,0,,100,,0,,100,,68.97,,/eos/experiment/fcc/ee/generation/DelphesEvents/spring2021/IDEA_FullSilicon/p8_noBES_ee_WW_ecm240/,,WW ecm=240GeV, no BES,,inclusive decays,,16.4385,,1.0,,1.0
+p8_ee_WW_mumu_ecm240,,10,000,000,,0,,100,,0,,100,,9.29,,/eos/experiment/fcc/ee/generation/DelphesEvents/spring2021/IDEA_FullSilicon/p8_ee_WW_mumu_ecm240/,,WW ecm=240GeV,,W->mu and W ->tau->mu,,0.25792,,1.0,,1.0
+p8_noBES_ee_WW_mumu_ecm240,,10,000,000,,0,,100,,0,,100,,8.92,,/eos/experiment/fcc/ee/generation/DelphesEvents/spring2021/IDEA_FullSilicon/p8_noBES_ee_WW_mumu_ecm240/,,WW ecm=240GeV,,W->mu and W ->tau->mu,,0.25792,,1.0,,1.0
+wzp6_ee_mumuH_ecm240,,1,000,000,,0,,10,,0,,10,,5.81,,/eos/experiment/fcc/ee/generation/DelphesEvents/spring2021/IDEA_FullSilicon/wzp6_ee_mumuH_ecm240/,,mumuH ecm=240 GeV,,inclusive Higgs decays,,0.0067643,,1.0,,1.0
+total,,80,746,248,,0.0,,810,,0.0,,810.0,,497.90,,,,
