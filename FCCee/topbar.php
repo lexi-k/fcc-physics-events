@@ -17,6 +17,10 @@
     <ul>
       <li><a href="spring2021/index.php">spring2021</a></li>
       <li><a href="spring2021_training/index.php">spring2021 training</a></li>
+      <li><a href="pre_fall2022/index.php">pre fall2022</a></li>
+      <li><a href="pre_fall2022_training/index.php">pre fall2022 training</a></li>
+      <li><a href="dev/index.php">dev</a></li>
+
     </ul>
 
 

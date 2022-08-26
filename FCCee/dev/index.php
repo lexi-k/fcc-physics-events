@@ -10,12 +10,12 @@ if(!isset($gobase)){$gobase="";}
 <head>
 
 <style>
-<?php include 'style/main.css'; ?>
+<?php include '../../style/main.css'; ?>
 </style>
 </head>
 
 
-<?php include 'topbar_fccee_dev.php'; ?>
+<?php include 'topbar.php'; ?>
 
 
 <body>
@@ -23,7 +23,7 @@ if(!isset($gobase)){$gobase="";}
 
 </body>
 
-<p>FCC simulation database</p>
+<p>FCC simulation database dev production</p>
 
 <footer>
 <p>Created by Clement Helsens clement.helsens@cern.ch</p>

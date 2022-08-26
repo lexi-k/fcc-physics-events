@@ -3,16 +3,16 @@
 <title>dev IDEA</title>
 
 <style>
-<?php include 'style/main.css'; ?>
+<?php include '../../style/main.css'; ?>
 </style>
 </head>
 
 <?php
-$txt_file    = file_get_contents('data/FCCee/Delphesevents_dev_IDEA.txt');
+$txt_file    = file_get_contents('../../data/FCCee/Delphesevents_dev_IDEA.txt');
 $rows        = explode("\n", $txt_file);
 ?>
 
-<?php include 'topbar_fccee_dev.php'; ?>
+<?php include 'topbar.php'; ?>
 
 <body>
 
@@ -44,7 +44,7 @@ $NbrLigne 	= count($info);  // $NbrLigne : le nombre de lignes
 
 ?>
 
-<?php include 'search.php'; ?>
+<?php include '../../search.php'; ?>
 
 
 <h2>Delphes FCCee Physic events dev production (IDEA with Track Covariance full matrix lower triangle)</h2>
