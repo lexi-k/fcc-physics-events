@@ -20,4 +20,34 @@ wzp6_gaga_tautau_60_ecm240,,20,000,000,,200,,0,,0,,13.84,,/eos/experiment/fcc/ee
 wzp6_ee_mumuH_ISRnoRecoil_ecm240,,1,000,000,,10,,0,,0,,4.74,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_mumuH_ISRnoRecoil_ecm240/,,mumuH ecm=240 GeV, ISR  pT=0,,inclusive Higgs decays,,,,6.7223e-3
 wzp6_ee_mumuH_BES-higher-1pc_ecm240,,1,000,000,,10,,0,,0,,4.82,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_mumuH_BES-higher-1pc_ecm240/,,mumuH ecm=240 GeV, vary BES,,inclusive Higgs decays,,,,6.76140e-3
 wzp6_ee_mumuH_BES-lower-1pc_ecm240,,1,000,000,,10,,0,,0,,4.82,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_mumuH_BES-lower-1pc_ecm240/,,mumuH ecm=240 GeV, vary BES,,inclusive Higgs decays,,,,6.76093e-3
-total,,89,000,000,,890,,0.0,,0.0,,200.39,,,,
+wzp6_ee_mumu_ecm240,,49,400,000,,494,,0,,0,,17.52,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_mumu_ecm240/,,Z/gamma* to mumu, ecm=240 GeV,,full phase space,,,,5.288
+wzp6_ee_tautau_ecm240,,49,700,000,,497,,0,,0,,40.78,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_tautau_ecm240/,,Z/gamma* to tautau, ecm=240 GeV,,full phase space,,,,4.668
+wzp6_ee_ee_Mee_30_150_ecm240,,79,900,000,,799,,0,,0,,30.79,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_ee_Mee_30_150_ecm240/,,ee (s and t), ecm=240 GeV,,30 < Mee < 150 GeV, 15 < theta < 165 deg,,,,8.305
+wzp6_ee_gammagamma_ecm91,,10,000,000,,100,,0,,0,,2.95,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_gammagamma_ecm91/,,diphoton production,,|cos(theta)| < 0.95 for the two leading photons,,,,45.454
+wzp6_ee_mumuH_ecm365,,200,000,,2,,0,,0,,0.96,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_mumuH_ecm365/,,mumuH ecm=365 GeV,,inclusive Higgs decays,,,,4.185e-3
+wzp6_ee_tautauH_ecm365,,200,000,,2,,0,,0,,1.06,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_tautauH_ecm365/,,tautauH ecm=365 GeV,,inclusive Higgs decays,,,,4.172e-3
+wzp6_ee_eeH_ecm365,,400,000,,4,,0,,0,,1.94,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_eeH_ecm365/,,eeH ecm=365 GeV,,inclusive Higgs decays,,,,7.390e-3
+wzp6_ee_nunuH_ecm365,,1,000,000,,10,,0,,0,,4.76,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_nunuH_ecm365/,,nunuH ecm=365 GeV (all nu flavours),,inclusive Higgs decays,,,,53.94e-3
+wzp6_ee_qqH_ecm365,,2,000,000,,20,,0,,0,,17.86,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_qqH_ecm365/,,qqH ecm=365 GeV, q = u,d,s,c,b,,inclusive Higgs decays,,,,84.307e-3
+wzp6_ee_mumu_ecm365,,9,900,000,,99,,0,,0,,3.52,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_mumu_ecm365/,,Z/gamma* to mumu, ecm=365 GeV,,full phase space,,,,2.287
+wzp6_ee_tautau_ecm365,,10,000,000,,100,,0,,0,,8.27,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_tautau_ecm365/,,Z/gamma* to tautau, ecm=365 GeV,,full phase space,,,,2.017
+wzp6_egamma_eZ_Zmumu_ecm365,,2,000,000,,20,,0,,0,,0.75,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_egamma_eZ_Zmumu_ecm365/,,e(e)Z EPA, e- gamma, ecm=365 GeV,,Z to mumu,,,,140.0e-3
+wzp6_gammae_eZ_Zmumu_ecm365,,2,000,000,,20,,0,,0,,0.75,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_gammae_eZ_Zmumu_ecm365/,,e(e)Z EPA, e+ gamma, ecm=365 GeV,,Z to mumu,,,,140.0e-3
+wzp6_gaga_mumu_60_ecm365,,10,000,000,,100,,0,,0,,2.32,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_gaga_mumu_60_ecm365/,,gammagamma to mumu, M(mumu) > 60 GeV,  ecm=365 GeV,,,,,,2.843
+wzp6_gaga_tautau_60_ecm365,,6,000,000,,60,,0,,0,,4.18,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_gaga_tautau_60_ecm365/,,gammagamma to tautau, M(tautau) > 60 GeV,  ecm=365 GeV,,,,,,1.537
+wzp6_ee_mumu_noFSR_ecm240,,30,000,000,,300,,0,,0,,9.20,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_mumu_noFSR_ecm240/,,Z/gamma* to mumu, ecm=240 GeV, no FSR,,full phase space,,,,5.301
+wzp6_ee_ZZ_test_ecm240,,1,000,000,,10,,0,,0,,5.55,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_ZZ_test_ecm240/,,ZZ ecm=240 GeV,,inclusive Z decays by Pythia,,,,1.11
+wzp6_ee_nuenueZ_ecm240,,1,000,000,,10,,0,,0,,3.00,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_nuenueZ_ecm240/,,Z nue nuebar, W-exchange only,,inclusive Z decays by Pythia,,,,3.3274e-2
+wzp6_ee_mumuH_noFSR_ecm240,,1,000,000,,10,,0,,0,,3.40,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_mumuH_noFSR_ecm240/,,mumuH ecm=240 GeV, no FSR,,inclusive Higgs decays,,,,6.7602e-3
+wzp6_egamma_tbnu_ecm240,,100,000,,1,,0,,0,,0.64,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_egamma_tbnu_ecm240/,,nu_e t b (e) EPA, e- gamma, ecm=240 GeV,,inc. top decays,,,,1.0753e-5
+wzp6_gammae_tbnu_ecm240,,100,000,,1,,0,,0,,0.64,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_gammae_tbnu_ecm240/,,nu_e t b (e) EPA, e+ gamma, ecm=240 GeV,,inc. top decays,,,,1.0753e-5
+wzp6_egamma_eZ_Zbb_ecm240,,5,000,000,,50,,0,,0,,23.32,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_egamma_eZ_Zbb_ecm240/,,e(e)Z EPA, e- gamma, ecm=240 GeV,,Z to bb,,,,455.7e-3
+wzp6_gammae_eZ_Zbb_ecm240,,5,000,000,,50,,0,,0,,23.35,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_gammae_eZ_Zbb_ecm240/,,e(e)Z EPA, e+ gamma, ecm=240 GeV,,Z to bb,,,,455.7e-3
+wzp6_egamma_eZ_Zqq_ecm240,,15,000,000,,150,,0,,0,,56.23,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_egamma_eZ_Zqq_ecm240/,,e(e)Z EPA, e- gamma, ecm=240 GeV,,Z to qq, q=udsc,,,,1.6369
+wzp6_gammae_eZ_Zqq_ecm240,,15,000,000,,150,,0,,0,,56.30,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_gammae_eZ_Zqq_ecm240/,,e(e)Z EPA, e+ gamma, ecm=240 GeV,,Z to qq, q=udsc,,,,1.6369
+wzp6_ee_ee_Mee_30_150_ecm365,,10,000,000,,100,,0,,0,,3.86,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_ee_Mee_30_150_ecm365/,,ee (s and t), ecm=365 GeV,,30 < Mee < 150 GeV, 15 < theta < 165 deg,,,,1.53
+wzp6_ee_eeH_mH-higher-100MeV_ecm240,,1,000,000,,10,,0,,0,,4.85,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_eeH_mH-higher-100MeV_ecm240/,,eeH ecm=240 GeV, vary mH,,inclusive Higgs decays,,,,7.137e-3
+wzp6_ee_eeH_mH-higher-50MeV_ecm240,,1,000,000,,10,,0,,0,,4.84,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_eeH_mH-higher-50MeV_ecm240/,,eeH ecm=240 GeV, vary mH,,inclusive Higgs decays,,,,7.152e-3
+wzp6_ee_eeH_mH-lower-50MeV_ecm240,,1,000,000,,10,,0,,0,,4.85,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_eeH_mH-lower-50MeV_ecm240/,,eeH ecm=240 GeV, vary mH,,inclusive Higgs decays,,,,7.169e-3
+wzp6_ee_eeH_mH-lower-100MeV_ecm240,,1,000,000,,10,,0,,0,,4.84,,/eos/experiment/fcc/ee/generation/stdhep//wzp6_ee_eeH_mH-lower-100MeV_ecm240/,,eeH ecm=240 GeV, vary mH,,inclusive Higgs decays,,,,7.188e-3
+total,,408,900,000,,4,089,,0.0,,0.0,,543.66,,,,
