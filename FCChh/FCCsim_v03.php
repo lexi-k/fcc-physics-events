@@ -12,7 +12,7 @@ $txt_file    = file_get_contents('../data/FCChh/FCCsim_v03.txt');
 $rows        = explode("\n", $txt_file);
 ?>
 
-<?php include 'topbar_fcchh.php'; ?>
+<?php include 'topbar.php'; ?>
 
 <body>
 

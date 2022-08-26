@@ -10,12 +10,12 @@ if(!isset($gobase)){$gobase="";}
 <head>
 
 <style>
-<?php include 'style/main.css'; ?>
+<?php include '../style/main.css'; ?>
 </style>
 </head>
 
 
-<?php include 'topbar_fccee.php'; ?>
+<?php include 'topbar.php'; ?>
 
 
 <body>
