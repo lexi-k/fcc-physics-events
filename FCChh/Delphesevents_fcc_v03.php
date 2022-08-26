@@ -3,16 +3,16 @@
 <title>fcc v03</title>
 
 <style>
-<?php include 'style/main.css'; ?>
+<?php include '../style/main.css'; ?>
 </style>
 </head>
 
 <?php
-$txt_file    = file_get_contents('data/FCChh/Delphesevents_fcc_v03.txt');
+$txt_file    = file_get_contents('../data/FCChh/Delphesevents_fcc_v03.txt');
 $rows        = explode("\n", $txt_file);
 ?>
 
-<?php include 'topbar.php'; ?>
+<?php include 'topbar_fcchh.php'; ?>
 
 <body>
 
@@ -44,7 +44,7 @@ $NbrLigne 	= count($info);  // $NbrLigne : le nombre de lignes
 
 ?>
 
-<?php include 'search.php'; ?>
+<?php include '../search.php'; ?>
 
 
 <h2>Delphes FCC Physic events v0.3</h2>

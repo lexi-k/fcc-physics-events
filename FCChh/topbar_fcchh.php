@@ -22,9 +22,9 @@
 
   <li><b href="#">Stat</b>
     <ul>
-      <li><a href="data/FCChh/statlhe.html">lhe</a></li>
-      <li><a href="data/FCChh/statdelphesfcc_v03.html">fcc v03</a></li>
-      <li><a href="data/FCChh/statdelphesfcc_v04.html">fcc v04</a></li>
+      <li><a href="../data/FCChh/statlhe.html">lhe</a></li>
+      <li><a href="../data/FCChh/statdelphesfcc_v03.html">fcc v03</a></li>
+      <li><a href="../data/FCChh/statdelphesfcc_v04.html">fcc v04</a></li>
 
     </ul>
   </li>

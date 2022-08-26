@@ -10,7 +10,7 @@ if(!isset($gobase)){$gobase="";}
 <head>
 
 <style>
-<?php include 'style/main.css'; ?>
+<?php include '../style/main.css'; ?>
 </style>
 </head>
 

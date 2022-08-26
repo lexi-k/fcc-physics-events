@@ -1,28 +1,28 @@
 <html>
 <head>
-<title>FCC LHE</title>
+<title>FCC-hh full simulation events</title>
 
 <style>
-<?php include 'style/main.css'; ?>
+<?php include '../style/main.css'; ?>
 </style>
 </head>
 
 <?php
-$txt_file    = file_get_contents('data/FCChh/LHEevents.txt');
+$txt_file    = file_get_contents('../data/FCChh/FCCsim_v03.txt');
 $rows        = explode("\n", $txt_file);
 ?>
 
-<?php include 'topbar.php'; ?>
+<?php include 'topbar_fcchh.php'; ?>
 
 <body>
 
  
 <?php
 
-$lname=array('NO','Name','Nevents',
-             'Nfiles','Nbad','Neos','Size (GB)',
-             'Output Path','Main Process','Final States',
-             'Matching Param','Cross Section (pb)');
+
+
+$lname=array('NO','Dir','Nevents','Nfiles','Neos','Nbad', 'Size(GB)','aleksa','azaborow','cneubuse','djamin','helsens','jhrdinka','jkiesele','novaj','selvaggi','vavolkl');
+
 
 
 $NbrCol 	= count($lname); // $NbrCol : le nombre de colonnes
@@ -42,10 +42,10 @@ $NbrLigne 	= count($info);  // $NbrLigne : le nombre de lignes
 
 ?>
 
-<?php include 'search.php'; ?>
+<?php include '../search.php'; ?>
 
 
-<h2>FCC LHE Physic events</h2>
+<h2>FCC-hh full Simulation v03</h2>
 <input type="text" id="myInput" onkeyup="search()" placeholder="Search for names.." title="Type in a name">
 <table id="myTable">
   <thead>
