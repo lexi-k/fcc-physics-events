@@ -1,0 +1,2 @@
+p8_ee_ZH_Znunu_Htautau_ecm240,,100,000,,0,,10,,0,,10,,0.15,,/eos/experiment/fcc/ee/generation/DelphesEvents/pre_fall2022/IDEA/p8_ee_ZH_Znunu_Htautau_ecm240/,,ZH ecm=240GeV,,Z->nunu, H->tautau,,0.201868,,1.0,,1.0
+total,,100,000,,0.0,,10,,0.0,,10.0,,0.15,,,,

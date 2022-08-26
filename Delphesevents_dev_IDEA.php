@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>fcc tmp</title>
+<title>dev IDEA</title>
 
 <style>
 <?php include 'style/main.css'; ?>
@@ -8,11 +8,11 @@
 </head>
 
 <?php
-$txt_file    = file_get_contents('data/FCCee/Delphesevents_fcc_tmp.txt');
+$txt_file    = file_get_contents('data/FCCee/Delphesevents_dev_IDEA.txt');
 $rows        = explode("\n", $txt_file);
 ?>
 
-<?php include 'topbar.php'; ?>
+<?php include 'topbar_fccee_dev.php'; ?>
 
 <body>
 
@@ -47,7 +47,7 @@ $NbrLigne 	= count($info);  // $NbrLigne : le nombre de lignes
 <?php include 'search.php'; ?>
 
 
-<h2>Delphes FCCee Physic events tmp (IDEA with Track Covariance)</h2>
+<h2>Delphes FCCee Physic events dev production (IDEA with Track Covariance full matrix lower triangle)</h2>
 <input type="text" id="myInput" onkeyup="search()" placeholder="Search for names.." title="Type in a name">
 <table id="myTable">
   <thead>
