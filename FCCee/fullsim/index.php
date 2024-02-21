@@ -4,8 +4,8 @@ require('../../config.php');
 $layer = 'det';
 $acc = 'fcc-ee';
 $det = 'none';
-$evtType = 'delphes';
-$prodTag = 'spring2021-training';
+$evtType = 'fullsim';
+$prodTag = 'none';
 ?>
 
 
@@ -14,7 +14,7 @@ $prodTag = 'spring2021-training';
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Delphes | Spring 2021 &ndash; training | FCC-ee | FCC Physics Events</title>
+    <title>Fullsim | FCC-ee | FCC Physics Events</title>
 
     <link rel="icon" type="image/x-icon" href="<?= BASE_URL ?>/images/favicon.ico">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
@@ -28,17 +28,9 @@ $prodTag = 'spring2021-training';
     <?php include '../../header.php'; ?>
 
     <article id="sample-article" class="container-lg">
-      <h1 class="mt-5">FCC-ee | Spring 2021 &ndash; training | Delphes Samples</h1>
+      <h1 class="mt-5">FCC-ee | Fullsim Samples</h1>
 
-      <div class="list-group mt-5">
-        <a class="list-group-item list-group-item-action" href="<?= BASE_URL ?>/FCCee/spring2021_training/Delphesevents_IDEA.php">IDEA</a>
-      </div>
-
-      <p class="mt-5">
-	<a href="https://cern.ch/key4hep/">Key4hep</a> stack used during the generation of the
-        <code>spring2021_training</code> samples was:
-	<pre><code><?= $key4hepStacks['spring2021-training'] ?></code></pre>
-      </p>
+      <p>TBA</p>
     </article>
 
     <?php include '../../footer.php'; ?>
