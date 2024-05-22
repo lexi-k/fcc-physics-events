@@ -3,9 +3,9 @@ require('../../config.php');
 
 $layer = 'det';
 $acc = 'fcc-ee';
-$det = 'none';
 $evtType = 'delphes';
 $campaign = 'dev';
+$det = 'none';
 ?>
 
 
