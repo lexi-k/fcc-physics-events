@@ -1,11 +1,10 @@
 <?php
-require('../../config.php');
+require('../../../config.php');
 
-$layer = 'campaign';
+$layer = 'table';
 $acc = 'fcc-ee';
 $evtType = 'full-sim';
-$genType = 'none';
-$campaign = 'none';
+$campaign = 'devel';
 $det = 'none';
 ?>
 
@@ -15,7 +14,7 @@ $det = 'none';
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Full Sim | FCC-ee | FCC Physics Events</title>
+    <title>Devel | Full Sim | FCC-ee | FCC Physics Events</title>
 
     <link rel="icon" type="image/x-icon" href="<?= BASE_URL ?>/images/favicon.ico">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
@@ -29,12 +28,9 @@ $det = 'none';
     <?php include BASE_PATH . '/header.php'; ?>
 
     <article id="sample-article" class="container-lg">
-      <h1 class="mt-5">FCC-ee | Full Sim Samples</h1>
+      <h1 class="mt-5">FCC-ee | Full Sim | Devel Samples</h1>
 
-      <p>Available campaigns</p>
-      <div class="list-group mt-3">
-        <a class="list-group-item list-group-item-action" href="<?= BASE_URL ?>/FCCee/full-sim/devel/">Devel</a>
-      </div>
+      <?php include BASE_PATH . '/table-dirac.php'; ?>
     </article>
 
     <?php include BASE_PATH . '/footer.php'; ?>
