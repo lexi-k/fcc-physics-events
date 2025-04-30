@@ -15,7 +15,7 @@
 
         <div class="mt-3 container-lg text-center">
           <p class="text-body-secondary">
-            &copy; Copyright 2024, CERN.
+            &copy; Copyright 2025, CERN.
           </p>
         </div>
       </div>
@@ -47,6 +47,37 @@
                  target="_blank">FCC-PED-SoftwareAndComputing-Analysis</a>.
             </p>
 
+            <hr>
+
+            <p>
+              Samples published on this site can have different statuses
+              attached to them:
+              <ul>
+                <li>
+                  <div class="bg-top-stopped"
+                       style="width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> Stopped
+                </li>
+                <li>
+                  <div class="bg-top-done"
+                       style="width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> Done producing
+                </li>
+                <li>
+                  <div class="bg-top-active"
+                       style="width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> In active production
+                </li>
+                <li>
+                  <div class="bg-top-not-registered"
+                       style="width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> Not yet registered sample
+                </li>
+                <li>
+                  <div class="bg-top-on-tape"
+                       style="width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> Sample has been moved to tape
+                </li>
+                <li>
+                  <div class="bg-top-unknown"
+                       style="width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> Sample with unknown status
+                </li>
+              </ul>
             <hr>
 
             <p>
